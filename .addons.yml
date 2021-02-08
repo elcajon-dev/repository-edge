@@ -1,0 +1,8 @@
+---
+channel: edge
+addons:
+  vscode:
+    repository: elcajon/addon-vscode
+    target: vscode
+    image: ghcr.io/elcajon/vscode/{arch}
+ 
