@@ -1,5 +1,5 @@
-# Changelog since v1.0.3
-- Merge pull request #5 from elcajon/elcajon-2021-02-10
+# Changelog since v1.0.4
+- Merge pull request #6 from elcajon/elcajon-patch-1
 
-Update VSCode Factoring and Extensions to latest 
-- Update VSCode Factoring and Extensions to latest 
+[bugfix] Remove DE Locale 
+- [bugfix] Remove DE Locale 
