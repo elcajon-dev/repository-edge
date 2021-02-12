@@ -1,6 +1,6 @@
 {
   "name": "Docker in Docker",
-  "version": "dev",
+  "version": "b13c789",
   "slug": "dind",
   "description": "Docker in Docker Imge",
   "url": "https://github.com/elcajon/addon-dind",
