@@ -141,10 +141,10 @@ SOFTWARE.
 [dind-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [dind-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [dind-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-fsm]: https://github.com/elcajon/addon-fsm/tree/0972aaa
-[addon-doc-fsm]: https://github.com/elcajon/addon-fsm/blob/0972aaa/README.md
+[addon-fsm]: https://github.com/elcajon/addon-fsm/tree/2039285
+[addon-doc-fsm]: https://github.com/elcajon/addon-fsm/blob/2039285/README.md
 [fsm-issue]: https://github.com/elcajon/addon-fsm/issues
-[fsm-version-shield]: https://img.shields.io/badge/version-0972aaa-blue.svg
+[fsm-version-shield]: https://img.shields.io/badge/version-2039285-blue.svg
 [fsm-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [fsm-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [fsm-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
