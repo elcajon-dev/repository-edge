@@ -1,6 +1,11 @@
-## What’s changed
+# Changelog since v1.0.6
+- Merge pull request #9 from elcajon/dependabot/github_actions/actions/stale-v3.0.17
 
-## ⬆️ Dependency updates
+Bump actions/stale from v3.0.16 to v3.0.17 
+- Bump actions/stale from v3.0.16 to v3.0.17
 
-- Bump docker/build-push-action from v2.2.2 to v2.3.0 @dependabot (#8)
-- Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 @dependabot (#7)
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.16...996798eb71ef485dc4c7b4d3285842d714040c4a)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
