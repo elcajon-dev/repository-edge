@@ -1,8 +1,11 @@
-# Changelog since v0.0.1
-- Merge pull request #2 from elcajon/elcajon-21-02-13
+# Changelog since v1.0.0
+- Merge pull request #5 from elcajon/dependabot/github_actions/actions/stale-v3.0.17
 
-Update Dockerfile Label 
-- Update labels, remove hacktober 
-- Update Dockerfile Label 
-- Update Readme 
-- Update Readme 
+Bump actions/stale from v3.0.16 to v3.0.17 
+- Bump actions/stale from v3.0.16 to v3.0.17
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.16...996798eb71ef485dc4c7b4d3285842d714040c4a)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
