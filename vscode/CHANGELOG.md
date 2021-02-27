@@ -1,4 +1,11 @@
 # Changelog since v1.0.6
+- Merge pull request #10 from elcajon/elcajon-patch-1
+
+Update Dockerfile 
+- Update vscode.extensions 
+- Update config.json 
+- Update Dockerfile 
+- Update Dockerfile 
 - Merge pull request #9 from elcajon/dependabot/github_actions/actions/stale-v3.0.17
 
 Bump actions/stale from v3.0.16 to v3.0.17 
