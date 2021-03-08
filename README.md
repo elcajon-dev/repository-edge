@@ -104,10 +104,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-simplelogin]: https://github.com/elcajon/addon-simplelogin/tree/c05e3e5
-[addon-doc-simplelogin]: https://github.com/elcajon/addon-simplelogin/blob/c05e3e5/README.md
+[addon-simplelogin]: https://github.com/elcajon/addon-simplelogin/tree/a2c822f
+[addon-doc-simplelogin]: https://github.com/elcajon/addon-simplelogin/blob/a2c822f/README.md
 [simplelogin-issue]: https://github.com/elcajon/addon-simplelogin/issues
-[simplelogin-version-shield]: https://img.shields.io/badge/version-c05e3e5-blue.svg
+[simplelogin-version-shield]: https://img.shields.io/badge/version-a2c822f-blue.svg
 [simplelogin-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [simplelogin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [simplelogin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
