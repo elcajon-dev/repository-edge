@@ -1,5 +1,6 @@
-## What’s changed
+# Changelog since v1.0.5
+- Merge pull request #7 from elcajon/elcajon-patch-1
 
-## 🐛 Bug fixes
-
-- Update Entrypoint for server @elcajon (#6)
+Downgrade SimpleLogin 
+- Update run 
+- Update Dockerfile 
