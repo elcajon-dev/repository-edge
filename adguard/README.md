@@ -36,5 +36,5 @@ If you are more interested in stable releases of our add-ons:
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
-[release]: https://github.com/elcajon/addon-adguard-home/tree/v1.0.1
+[release-shield]: https://img.shields.io/badge/version-88c452a-blue.svg
+[release]: https://github.com/elcajon/addon-adguard-home/tree/88c452a
