@@ -1,24 +1,15 @@
-# Changelog since v1.0.8
-- Merge pull request #15 from elcajon/elcajon-patch-1
+# Changelog since v1.1.0
+- Merge pull request #17 from elcajon/elcajon-patch-2
 
-Update VSC-Material-Theme 
-- Update VSC-Material-Theme 
-- Merge pull request #14 from elcajon/dependabot/github_actions/release-drafter/release-drafter-v5.15.0
+Update iputils 
+- Update Dockerfile 
+- Merge pull request #16 from elcajon/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
 
-Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 
-- Bump release-drafter/release-drafter from v5.14.0 to v5.15.0
+Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 
+- Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0
 
-Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
-- [Release notes](https://github.com/release-drafter/release-drafter/releases)
-- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.14.0...fe52e97d262833ae07d05efaf1a239df3f1b5cd4)
+Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
+- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #13 from elcajon/elcajon-patch-2
-
-Update VSCode to 3.9.1 
-- Merge pull request #12 from elcajon/elcajon-patch-1
-
-Update Base image 
-- Update Dockerfile 
-- Update build.json 
-- Update labels.yml 
