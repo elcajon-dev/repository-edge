@@ -33,19 +33,6 @@ https://github.com/elcajon/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Simplelogin App][addon-simplelogin]
-
-![Latest Version][simplelogin-version-shield]
-![Supports armhf Architecture][simplelogin-armhf-shield]
-![Supports armv7 Architecture][simplelogin-armv7-shield]
-![Supports aarch64 Architecture][simplelogin-aarch64-shield]
-![Supports amd64 Architecture][simplelogin-amd64-shield]
-![Supports i386 Architecture][simplelogin-i386-shield]
-
-Simple-Login App
-
-[:books: Simplelogin App add-on documentation][addon-doc-simplelogin]
-
 ### &#10003; [Visual Studio Code][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
@@ -73,7 +60,6 @@ based on the following:
 
 Got questions?
 
-- [Open an issue for the add-on: Simplelogin App][simplelogin-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -104,15 +90,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-simplelogin]: https://github.com/elcajon/addon-simplelogin/tree/131d95e
-[addon-doc-simplelogin]: https://github.com/elcajon/addon-simplelogin/blob/131d95e/README.md
-[simplelogin-issue]: https://github.com/elcajon/addon-simplelogin/issues
-[simplelogin-version-shield]: https://img.shields.io/badge/version-131d95e-blue.svg
-[simplelogin-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
-[simplelogin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[simplelogin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[simplelogin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[simplelogin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/elcajon/addon-vscode/tree/28f1dfc
 [addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/28f1dfc/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
