@@ -1,15 +1,12 @@
-# Changelog since v1.1.0
-- Merge pull request #17 from elcajon/elcajon-patch-2
+# Changelog since v1.1.1
+- Merge pull request #22 from elcajon/dependabot/github_actions/actions/cache-v2.1.5
 
-Update iputils 
-- Update Dockerfile 
-- Merge pull request #16 from elcajon/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
+Bump actions/cache from v2.1.4 to v2.1.5 
+- Update deploy.yaml 
+- Bump actions/cache from v2.1.4 to v2.1.5
 
-Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 
-- Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0
-
-Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
-- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
-- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
 
 Signed-off-by: dependabot[bot] <support@github.com> 
