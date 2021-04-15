@@ -108,5 +108,5 @@ SOFTWARE.
 [issue]: https://github.com/elcajon/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [semver]: http://semver.org/spec/v2.0.0.html
