@@ -1,7 +1,11 @@
 # Changelog since v1.1.1
+- Merge pull request #26 from elcajon/update-docker
+
+Update Extensions & CLI 
 - Merge pull request #25 from elcajon/elcajon-patch-1
 
 Update DOCS.md 
+- Update Extensions 
 - Update DOCS.md 
 - Prettified Code! 
 - Update DOCS.md 
