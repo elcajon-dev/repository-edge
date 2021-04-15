@@ -1,4 +1,12 @@
 # Changelog since v1.1.1
+- Merge pull request #25 from elcajon/elcajon-patch-1
+
+Update DOCS.md 
+- Update DOCS.md 
+- Prettified Code! 
+- Update DOCS.md 
+- Update DOCS.md 
+- Update DOCS.md 
 - Merge pull request #24 from elcajon/elcajon-patch-1
 
 Update README.md 
