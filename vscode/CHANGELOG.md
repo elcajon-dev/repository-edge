@@ -1,4 +1,16 @@
 # Changelog since v1.1.3
+- Merge pull request #41 from elcajon/elcajon-patch-1
+
+Update VSCode Extensions 
+- Merge pull request #42 from elcajon/elcajon-patch-2
+
+Upgrade Base Image to 4.2.0 
+- Merge pull request #43 from elcajon/elcajon-patch-3
+
+Update VSCode to 3.10.0 
+- Update VSCode to 3.10.0 
+- Upgrade Base Image to 4.2.0 
+- Update VSCode Extensions 
 - Merge pull request #37 from elcajon/dependabot/github_actions/brpaz/hadolint-action-1.5.0
 
 Bump brpaz/hadolint-action from 1.4.0 to 1.5.0 
