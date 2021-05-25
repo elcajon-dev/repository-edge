@@ -1,4 +1,12 @@
 # Changelog since v1.2.0
+- Merge pull request #48 from elcajon/elcajon-patch-2
+
+Update VSCode Server & HA CLI 
+- Merge pull request #47 from elcajon/elcajon-patch-1
+
+Update Extensions 
+- Update VSCode Server & HA CLI 
+- Update Extensions 
 - Merge pull request #46 from elcajon/dependabot/github_actions/micnncim/action-label-syncer-1.3.0
 
 Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 
