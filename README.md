@@ -90,10 +90,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/e4f4f7f
-[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/e4f4f7f/README.md
+[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/f81dc41
+[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/f81dc41/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-e4f4f7f-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-f81dc41-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

@@ -1,6 +1,6 @@
 {
   "name": "Visual Studio Code",
-  "version": "e4f4f7f",
+  "version": "f81dc41",
   "slug": "vscode",
   "description": "Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!",
   "url": "https://github.com/elcajon/addon-vscode",
