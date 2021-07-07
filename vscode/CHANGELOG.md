@@ -1,4 +1,8 @@
 # Changelog since v1.2.2
+- Merge pull request #61 from elcajon/elcajon-patch-1
+
+Add SFTP Connection 
+- Update sshd_config 
 - Merge pull request #60 from elcajon/dependabot/github_actions/docker/setup-buildx-action-1.5.0
 
 Bump docker/setup-buildx-action from 1.4.1 to 1.5.0 
