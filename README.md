@@ -104,10 +104,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-tor]: https://github.com/elcajon/addon-tor/tree/c9c44cf
-[addon-doc-tor]: https://github.com/elcajon/addon-tor/blob/c9c44cf/README.md
+[addon-tor]: https://github.com/elcajon/addon-tor/tree/1aabf61
+[addon-doc-tor]: https://github.com/elcajon/addon-tor/blob/1aabf61/README.md
 [tor-issue]: https://github.com/elcajon/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-c9c44cf-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-1aabf61-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
