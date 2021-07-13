@@ -33,6 +33,19 @@ https://github.com/elcajon/repository-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Nextcloud][addon-nextcloud]
+
+![Latest Version][nextcloud-version-shield]
+![Supports armhf Architecture][nextcloud-armhf-shield]
+![Supports armv7 Architecture][nextcloud-armv7-shield]
+![Supports aarch64 Architecture][nextcloud-aarch64-shield]
+![Supports amd64 Architecture][nextcloud-amd64-shield]
+![Supports i386 Architecture][nextcloud-i386-shield]
+
+Nextcloud Home Assistant Add-on
+
+[:books: Nextcloud add-on documentation][addon-doc-nextcloud]
+
 ### &#10003; [Visual Studio Code][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
@@ -60,6 +73,7 @@ based on the following:
 
 Got questions?
 
+- [Open an issue for the add-on: Nextcloud][nextcloud-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -90,6 +104,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-nextcloud]: https://github.com/elcajon/addon-nextcloud/tree/a017090
+[addon-doc-nextcloud]: https://github.com/elcajon/addon-nextcloud/blob/a017090/README.md
+[nextcloud-issue]: https://github.com/elcajon/addon-nextcloud/issues
+[nextcloud-version-shield]: https://img.shields.io/badge/version-a017090-blue.svg
+[nextcloud-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[nextcloud-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[nextcloud-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[nextcloud-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[nextcloud-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/elcajon/addon-vscode/tree/v1.2.4
 [addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/v1.2.4/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
