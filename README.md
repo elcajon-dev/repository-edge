@@ -33,19 +33,6 @@ https://github.com/elcajon/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Tor][addon-tor]
-
-![Latest Version][tor-version-shield]
-![Supports armhf Architecture][tor-armhf-shield]
-![Supports armv7 Architecture][tor-armv7-shield]
-![Supports aarch64 Architecture][tor-aarch64-shield]
-![Supports amd64 Architecture][tor-amd64-shield]
-![Supports i386 Architecture][tor-i386-shield]
-
-Protect your privacy and access Home Assistant via Tor.
-
-[:books: Tor add-on documentation][addon-doc-tor]
-
 ### &#10003; [Visual Studio Code][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
@@ -73,7 +60,6 @@ based on the following:
 
 Got questions?
 
-- [Open an issue for the add-on: Tor][tor-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -104,15 +90,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-tor]: https://github.com/elcajon/addon-tor/tree/14ed5d1
-[addon-doc-tor]: https://github.com/elcajon/addon-tor/blob/14ed5d1/README.md
-[tor-issue]: https://github.com/elcajon/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-14ed5d1-blue.svg
-[tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-vscode]: https://github.com/elcajon/addon-vscode/tree/v1.2.4
 [addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/v1.2.4/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
