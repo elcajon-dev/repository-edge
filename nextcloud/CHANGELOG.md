@@ -1,5 +1,5 @@
-# Changelog since v1.0.0
-- Merge pull request #14 from elcajon/elcajon
+# Changelog since v1.0.1
+- Merge pull request #15 from elcajon/elcajon-patch-1
 
-Bugfix trusted Domains 
-- Bugfix trusted Domains 
+Update config.txt 
+- Update config.txt 
