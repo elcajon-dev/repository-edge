@@ -1,6 +1,6 @@
 {
   "name": "Nextcloud",
-  "version": "02680c8",
+  "version": "bfa50a7",
   "slug": "nextcloud",
   "description": "Nextcloud Home Assistant Add-on",
   "url": "https://github.com/elcajon/addon-nextcloud",
@@ -15,11 +15,22 @@
   "schema": {
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)"
   },
+  "map": [
+    "config:rw",
+    "ssl:rw",
+    "addons:rw",
+    "share:rw",
+    "backup:rw",
+    "media:rw"
+  ],
+  "services": [
+    "mysql:need"
+  ],
   "ports": {
-    "80/tcp": 8080
+    "8080/tcp": 8080
   },
   "ports_description": {
-    "80/tcp": "Nextcloud Web Port"
+    "8080/tcp": "Nextcloud Web Port"
   },
   "image": "ghcr.io/elcajon/nextcloud/{arch}"
 }
