@@ -104,10 +104,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-nextcloud]: https://github.com/elcajon/addon-nextcloud/tree/c06c90d
-[addon-doc-nextcloud]: https://github.com/elcajon/addon-nextcloud/blob/c06c90d/README.md
+[addon-nextcloud]: https://github.com/elcajon/addon-nextcloud/tree/affac3c
+[addon-doc-nextcloud]: https://github.com/elcajon/addon-nextcloud/blob/affac3c/README.md
 [nextcloud-issue]: https://github.com/elcajon/addon-nextcloud/issues
-[nextcloud-version-shield]: https://img.shields.io/badge/version-c06c90d-blue.svg
+[nextcloud-version-shield]: https://img.shields.io/badge/version-affac3c-blue.svg
 [nextcloud-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nextcloud-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nextcloud-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
