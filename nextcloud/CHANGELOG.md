@@ -1,4 +1,21 @@
 # Changelog since v1.0.1
+- Merge pull request #19 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.2
+
+Bump frenck/action-addon-linter from 2.1 to 2.2 
+- Bump frenck/action-addon-linter from 2.1 to 2.2
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.1...v2.2)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #18 from elcajon/elcajon-patch-2
 
 Update 20-mysql 
