@@ -1,7 +1,12 @@
 # Changelog since v1.2.4
+- Merge pull request #69 from elcajon/elcajon-patch-2
+
+Update Extensions 
+- Update vscode.extensions 
 - Merge pull request #68 from elcajon/elcajon-patch-1
 
 Update VSCode to v3.11.0 
+- Update Extensions 
 - Update VSCode to v3.11.0 
 - Merge pull request #67 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.2
 
