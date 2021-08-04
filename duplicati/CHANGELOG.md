@@ -1,3 +1,3 @@
-- Merge pull request #2 from elcajon/doc
+- Merge pull request #3 from elcajon/doc
 
-Update Documentation
+First release
