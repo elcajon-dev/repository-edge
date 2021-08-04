@@ -1,3 +1,6 @@
-- Merge pull request #3 from elcajon/doc
+# Changelog since v1.0.0
+- Merge pull request #4 from elcajon/doc
 
-First release
+Ingress 
+- Prettified Code! 
+- Add ingress 

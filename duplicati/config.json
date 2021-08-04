@@ -1,6 +1,6 @@
 {
   "name": "Duplicati",
-  "version": "9ea0233",
+  "version": "34fa3f2",
   "slug": "duplicati",
   "description": "Duplicati Home Assistant Add-on",
   "url": "https://github.com/elcajon/addon-duplicati",
@@ -33,5 +33,7 @@
   "ports_description": {
     "8200/tcp": "Duplicati web interface"
   },
+  "ingress": true,
+  "ingress_port": 8200,
   "image": "ghcr.io/elcajon/duplicati/{arch}"
 }
