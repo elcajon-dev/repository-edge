@@ -1,10 +1,11 @@
-# Changelog since v1.0.0
-- Merge pull request #5 from elcajon/doc
+# Changelog since v1.0.1
+- Merge pull request #7 from elcajon/elcajon-patch-1
 
-Update Ingress 
-- Update Ingress 
-- Merge pull request #4 from elcajon/doc
+Update Doc 
+- Update DOCS.md 
+- Update .README.j2 
+- Merge pull request #6 from elcajon/elcajon-patch-1
 
-Ingress 
+Update panel icon 
 - Prettified Code! 
-- Add ingress 
+- Update config.json 

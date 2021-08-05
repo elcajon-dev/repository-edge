@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Nextcloud
+# Home Assistant Add-on: Duplicati
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -14,11 +14,11 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-Nextcloud add-on for Home Assistant.
+Duplicati add-on for Home Assistant.
 
 ## About
 
-This is an nextcloud add-on for Home Assistant.
+This is an duplicati add-on for Home Assistant.
 
 [:books: Read the full add-on documentation][docs]
 

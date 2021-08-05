@@ -1,6 +1,6 @@
 {
   "name": "Duplicati",
-  "version": "eaf84f9",
+  "version": "55dbf84",
   "slug": "duplicati",
   "description": "Duplicati Home Assistant Add-on",
   "url": "https://github.com/elcajon/addon-duplicati",
@@ -25,5 +25,6 @@
   },
   "ingress": true,
   "ingress_port": 8200,
+  "panel_icon": "mdi:cloud-upload-outline",
   "image": "ghcr.io/elcajon/duplicati/{arch}"
 }
