@@ -1,12 +1,17 @@
 # Changelog since v2.0.3
+- Merge pull request #79 from elcajon/elcajon-patch-1
+
+Update code-server and HA cli 
 - Merge pull request #81 from elcajon/elcajon-patch-3
 
 Update vscode extensions 
 - Merge pull request #80 from elcajon/elcajon-patch-2
 
 Update requirements yamllint 
+- Update ha cli 
 - Update vscode extensions 
 - Update requirements yamllint 
+- Update code-server and HA cli 
 - Merge pull request #76 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.3
 
 Bump frenck/action-addon-linter from 2.2 to 2.3 
