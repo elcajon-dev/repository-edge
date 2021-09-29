@@ -1,14 +1,36 @@
-## What’s changed
+# Changelog since v3.0.0
+- Merge pull request #85 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.4.1
 
-## 🚨 Breaking changes
+Bump frenck/action-addon-linter from 2.3 to 2.4.1 
+- Merge pull request #84 from elcajon/dependabot/github_actions/dessant/lock-threads-3
 
-- Update base image to 5.0.0 @elcajon (#82)
+Bump dessant/lock-threads from 2.1.2 to 3 
+- Bump frenck/action-addon-linter from 2.3 to 2.4.1
 
-## ⬆️ Dependency updates
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.3...v2.4.1)
 
-- Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#78)
-- Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#77)
-- Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#76)
-- Update requirements yamllint @elcajon (#80)
-- Update vscode extensions @elcajon (#81)
-- Update code-server and HA cli @elcajon (#79)
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump dessant/lock-threads from 2.1.2 to 3
+
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.2 to 3.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.2...v3)
+
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
