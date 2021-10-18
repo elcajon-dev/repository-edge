@@ -136,10 +136,10 @@ SOFTWARE.
 [nextcloud-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nextcloud-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [nextcloud-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/ef450f0
-[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/ef450f0/README.md
+[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/3cb1e3a
+[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/3cb1e3a/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-ef450f0-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-3cb1e3a-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
