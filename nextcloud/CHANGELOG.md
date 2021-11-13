@@ -1,4 +1,22 @@
 # Changelog since v2.0.3
+- Merge pull request #37 from elcajon/dependabot/github_actions/actions/checkout-2.4.0
+
+Bump actions/checkout from 2.3.5 to 2.4.0 
+- Bump actions/checkout from 2.3.5 to 2.4.0
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.5 to 2.4.0.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.5...v2.4.0)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #36 from elcajon/dependabot/github_actions/frenck/action-addon-information-1.3
 
 Bump frenck/action-addon-information from 1.2 to 1.3 
