@@ -1,4 +1,8 @@
 # Changelog since v2.0.3
+- Merge pull request #38 from elcajon/elcajon-patch-1
+
+Update Nextcloud to 22.2.2 
+- Update Nextcloud to 22.2.2 
 - Merge pull request #37 from elcajon/dependabot/github_actions/actions/checkout-2.4.0
 
 Bump actions/checkout from 2.3.5 to 2.4.0 
