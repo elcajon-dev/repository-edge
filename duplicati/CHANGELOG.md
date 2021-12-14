@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- Update ci.yaml 
 - Merge pull request #27 from elcajon/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
