@@ -1,5 +1,11 @@
 # Changelog since v2.0.1
+- Update deploy.yaml 
+- Merge pull request #28 from elcajon/elcajon-patch-1
+
+Update Base to 7.1.3 
 - Update ci.yaml 
+- Update build.json 
+- Update Base to 7.1.3 
 - Merge pull request #27 from elcajon/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
