@@ -1,5 +1,21 @@
 # Changelog since v2.0.4
+- Update deploy.yaml 
+- Merge pull request #44 from elcajon/elcajon-patch-1
+
+Update Dockerfile 
+- Update Dockerfile 
+- Merge pull request #43 from elcajon/elcajon-patch-2
+
+Update Base image to 11.0 
+- Merge pull request #42 from elcajon/elcajon-patch-1
+
+Update Nextcloud to 23.0.0 
 - Update ci.yaml 
+- Update Dockerfile 
+- Update build.json 
+- Update Dockerfile 
+- Update Base image to 11.0 
+- Update Nextcloud to 23.0.0 
 - Merge pull request #41 from elcajon/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
