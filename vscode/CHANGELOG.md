@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #95 from elcajon/elcajon-patch-1
+
+Update vscode.extensions 
+- Update vscode.extensions 
 - Merge pull request #94 from elcajon/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
