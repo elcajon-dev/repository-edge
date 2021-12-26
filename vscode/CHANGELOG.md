@@ -1,4 +1,11 @@
 # Changelog since v3.0.2
+- Merge pull request #97 from elcajon/elcajon-patch-1
+
+Rename Add-On 
+- Add files via upload 
+- Update config.json 
+- Update DOCS.md 
+- Update README.md 
 - Merge pull request #96 from elcajon/dependabot/github_actions/docker/login-action-1.12.0
 
 Bump docker/login-action from 1.10.0 to 1.12.0 
