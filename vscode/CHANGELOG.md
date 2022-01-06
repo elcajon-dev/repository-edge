@@ -1,25 +1,5 @@
-# Changelog since v3.0.2
-- Merge pull request #97 from elcajon/elcajon-patch-1
+# Changelog since v3.0.3
+- Merge pull request #98 from elcajon/elcajon-patch-1
 
-Rename Add-On 
-- Add files via upload 
-- Update config.json 
-- Update DOCS.md 
-- Update README.md 
-- Merge pull request #96 from elcajon/dependabot/github_actions/docker/login-action-1.12.0
-
-Bump docker/login-action from 1.10.0 to 1.12.0 
-- Bump docker/login-action from 1.10.0 to 1.12.0
-
-Bumps [docker/login-action](https://github.com/docker/login-action) from 1.10.0 to 1.12.0.
-- [Release notes](https://github.com/docker/login-action/releases)
-- [Commits](https://github.com/docker/login-action/compare/v1.10.0...v1.12.0)
-
----
-updated-dependencies:
-- dependency-name: docker/login-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
+Update Code Server to v.4.0.1 
+- Update Code Server to v.4.0.1 
