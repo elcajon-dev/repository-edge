@@ -1,3 +1,9 @@
-- Merge pull request #1 from elcajon/elcajon-1
+## What’s changed
 
-Initial Relase
+## 🚀 Enhancements
+
+- Initial Relase @elcajon (#1)
+
+## 📚 Documentation
+
+- Update README.md @elcajon (#2)
