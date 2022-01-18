@@ -12,4 +12,4 @@ schema:
 slug: cloudflared
 startup: services
 url: https://github.com/elcajon/addon-cloudflared
-version: 13444fe
+version: a941a5e
