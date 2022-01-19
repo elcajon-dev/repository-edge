@@ -1,17 +1,18 @@
-## What’s changed
+# Changelog since v5.0.0
+- Merge pull request #117 from elcajon/dependabot/github_actions/docker/build-push-action-2.8.0
 
-## 🚨 Breaking changes
+Bump docker/build-push-action from 2.7.0 to 2.8.0 
+- Bump docker/build-push-action from 2.7.0 to 2.8.0
 
-- Update vscode and remove unneeded services @elcajon (#114)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.7.0 to 2.8.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.7.0...v2.8.0)
 
-## 🚀 Enhancements
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-- Update Dockerfile @elcajon (#116)
-- Update Workflow to latest release @elcajon (#115)
-
-## ⬆️ Dependency updates
-
-- Bump release-drafter/release-drafter from 5.15.0 to 5.16.1 @dependabot (#110)
-- Bump frenck/action-addon-linter from 2.5 to 2.6 @dependabot (#111)
-- Bump creyD/prettier_action from 4.1.1 to 4.2 @dependabot (#112)
-- Bump release-drafter/release-drafter from 5.16.1 to 5.17.5 @dependabot (#113)
+Signed-off-by: dependabot[bot] <support@github.com> 
