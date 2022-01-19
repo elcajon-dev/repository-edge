@@ -127,10 +127,10 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-generic]: https://github.com/elcajon/addon-generic/tree/5579790
-[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/5579790/README.md
+[addon-generic]: https://github.com/elcajon/addon-generic/tree/278563e
+[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/278563e/README.md
 [generic-issue]: https://github.com/elcajon/addon-generic/issues
-[generic-version-shield]: https://img.shields.io/badge/version-5579790-blue.svg
+[generic-version-shield]: https://img.shields.io/badge/version-278563e-blue.svg
 [generic-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [generic-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
