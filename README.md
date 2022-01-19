@@ -118,10 +118,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/elcajon/addon-cloudflared/tree/a941a5e
-[addon-doc-cloudflared]: https://github.com/elcajon/addon-cloudflared/blob/a941a5e/README.md
+[addon-cloudflared]: https://github.com/elcajon/addon-cloudflared/tree/9835d20
+[addon-doc-cloudflared]: https://github.com/elcajon/addon-cloudflared/blob/9835d20/README.md
 [cloudflared-issue]: https://github.com/elcajon/addon-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-a941a5e-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-9835d20-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
