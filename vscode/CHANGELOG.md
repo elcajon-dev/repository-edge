@@ -1,6 +1,5 @@
-## What’s changed
+# Changelog since v5.0.2
+- Merge pull request #120 from elcajon/elcajon-p1
 
-## ⬆️ Dependency updates
-
-- Update Code Server to v4.0.2 @elcajon (#118)
-- Update vscode.extensions @elcajon (#119)
+Add custom scripts and services 
+- Add custom scripts and services 
