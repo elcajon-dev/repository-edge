@@ -1,31 +1,22 @@
-# Changelog since v6.0.0
-- Merge pull request #126 from elcajon/elcajon-p1
+## What’s changed
+## 🧰 Maintenance
 
-Update License to 2022 
-- Merge pull request #125 from elcajon/elcajon-p2
+- Update CI to latest upstream versions @elcajon (#125)
 
-Update CI to latest upstream versions 
-- Update dependabot.yaml 
-- Update license year 2022 
-- Update Workflows 
-- Merge pull request #124 from elcajon/dependabot/pip/vscode/homeassistant-cli-0.9.4
+## 📚 Documentation
 
-Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode 
-- Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode
+- Update License to 2022 @elcajon (#126)
 
-Bumps [homeassistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) from 0.9.1 to 0.9.4.
-- [Release notes](https://github.com/home-assistant-ecosystem/home-assistant-cli/releases)
-- [Commits](https://github.com/home-assistant-ecosystem/home-assistant-cli/compare/0.9.1...0.9.4)
+## ⬆️ Dependency updates
 
----
-updated-dependencies:
-- dependency-name: homeassistant-cli
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
+- Update dependabot.yaml @elcajon (#123)
+- Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode @dependabot (#124)
 
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #123 from elcajon/elcajon-patch-1
+## What's Changed
+* Update dependabot.yaml by @elcajon in https://github.com/elcajon/addon-vscode/pull/123
+* Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode by @dependabot in https://github.com/elcajon/addon-vscode/pull/124
+* Update CI to latest upstream versions by @elcajon in https://github.com/elcajon/addon-vscode/pull/125
+* Update License to 2022 by @elcajon in https://github.com/elcajon/addon-vscode/pull/126
 
-Update dependabot.yaml 
-- Update dependabot.yaml 
+
+**Full Changelog**: https://github.com/elcajon/addon-vscode/compare/v6.0.0...v6.0.1
