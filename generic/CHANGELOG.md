@@ -1,4 +1,6 @@
 # Changelog since v0.0.6
+- Delete release-drafter.yml 
+- Delete labels.yml 
 - Merge pull request #10 from elcajon/dependabot/github_actions/docker/build-push-action-2.9.0
 
 Bump docker/build-push-action from 2.8.0 to 2.9.0 
