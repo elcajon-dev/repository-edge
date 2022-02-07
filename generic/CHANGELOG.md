@@ -1,4 +1,6 @@
 # Changelog since v0.0.6
+- Update CONTRIBUTING.md 
+- Update ci.yaml 
 - Create release-drafter.yml 
 - Delete release-drafter.yml 
 - Delete labels.yml 
