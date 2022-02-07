@@ -37,4 +37,4 @@ privileged:
 - SYS_NICE
 slug: generic
 url: https://github.com/elcajon/addon-generic
-version: 9140bd8
+version: 0.0.7
