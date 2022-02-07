@@ -1,9 +1,5 @@
-## What’s changed
+# Changelog since v6.0.0
+- Merge pull request #123 from elcajon/elcajon-patch-1
 
-## 🚨 Breaking changes
-
-- Remove package and startup script support @elcajon (#122)
-
-## ⬆️ Dependency updates
-
-- Bump docker/build-push-action from 2.8.0 to 2.9.0 @dependabot (#121)
+Update dependabot.yaml 
+- Update dependabot.yaml 
