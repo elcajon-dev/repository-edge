@@ -1,4 +1,13 @@
 # Changelog since v6.0.0
+- Merge pull request #126 from elcajon/elcajon-p1
+
+Update License to 2022 
+- Merge pull request #125 from elcajon/elcajon-p2
+
+Update CI to latest upstream versions 
+- Update dependabot.yaml 
+- Update license year 2022 
+- Update Workflows 
 - Merge pull request #124 from elcajon/dependabot/pip/vscode/homeassistant-cli-0.9.4
 
 Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode 
