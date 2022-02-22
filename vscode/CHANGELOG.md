@@ -1,4 +1,9 @@
 # Changelog since v6.0.1
+- Delete merge-bot.yml 
+- Merge pull request #129 from elcajon/elcajon-patch-1
+
+Update DOCS.md 
+- Update DOCS.md 
 - Merge pull request #127 from elcajon/dependabot/github_actions/docker/login-action-1.13.0
 
 Bump docker/login-action from 1.12.0 to 1.13.0 
