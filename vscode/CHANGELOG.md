@@ -1,22 +1,26 @@
-## What’s changed
-## 🧰 Maintenance
+# Changelog since v6.0.1
+- Merge pull request #127 from elcajon/dependabot/github_actions/docker/login-action-1.13.0
 
-- Update CI to latest upstream versions @elcajon (#125)
+Bump docker/login-action from 1.12.0 to 1.13.0 
+- Merge pull request #128 from elcajon/elcajon-p1
 
-## 📚 Documentation
+Update zsh from 5.8-6+b2 to 5.8-6+deb11u1 
+- Update merge-bot.yml 
+- Update merge-bot.yml 
+- Update merge-bot.yml 
+- Create merge-bot.yml 
+- Update zsh from 5.8-6+b2 to 5.8-6+deb11u1 
+- Bump docker/login-action from 1.12.0 to 1.13.0
 
-- Update License to 2022 @elcajon (#126)
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.12.0 to 1.13.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.12.0...v1.13.0)
 
-## ⬆️ Dependency updates
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-- Update dependabot.yaml @elcajon (#123)
-- Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode @dependabot (#124)
-
-## What's Changed
-* Update dependabot.yaml by @elcajon in https://github.com/elcajon/addon-vscode/pull/123
-* Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode by @dependabot in https://github.com/elcajon/addon-vscode/pull/124
-* Update CI to latest upstream versions by @elcajon in https://github.com/elcajon/addon-vscode/pull/125
-* Update License to 2022 by @elcajon in https://github.com/elcajon/addon-vscode/pull/126
-
-
-**Full Changelog**: https://github.com/elcajon/addon-vscode/compare/v6.0.0...v6.0.1
+Signed-off-by: dependabot[bot] <support@github.com> 
