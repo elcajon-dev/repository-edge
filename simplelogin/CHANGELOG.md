@@ -1,3 +1,5 @@
-- Merge pull request #1 from elcajon/dev
+## What’s changed
+## ✨ New features
 
-Add initial Add-on
+- Add initial Add-on @elcajon (#1)
+- Improvements @elcajon (#2)

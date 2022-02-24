@@ -44,20 +44,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/elcajon/addon-simplelogin.svg
 [commits]: https://github.com/elcajon/addon-simplelogin/commits/main
 [contributors]: https://github.com/elcajon/addon-simplelogin/graphs/contributors
-[docs]: https://github.com/elcajon/addon-simplelogin/blob/main/generic/DOCS.md
 [github-actions-shield]: https://github.com/elcajon/addon-simplelogin/workflows/CI/badge.svg
 [github-actions]: https://github.com/elcajon/addon-simplelogin/actions
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/elcajon/addon-simplelogin/issues
 [license-shield]: https://img.shields.io/github/license/elcajon/addon-simplelogin.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [releases-shield]: https://img.shields.io/github/release/elcajon/addon-simplelogin.svg
 [releases]: https://github.com/elcajon/addon-simplelogin/releases
