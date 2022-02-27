@@ -31,4 +31,4 @@ schema:
   webdomain: str
 slug: simplelogin
 url: https://github.com/elcajon/addon-simplelogin
-version: 0.0.1
+version: 442ee56

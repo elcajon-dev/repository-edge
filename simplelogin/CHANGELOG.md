@@ -1,5 +1,5 @@
-## What’s changed
-## ✨ New features
+# Changelog since v0.0.1
+- Merge pull request #3 from elcajon/dev3
 
-- Add initial Add-on @elcajon (#1)
-- Improvements @elcajon (#2)
+Update 
+- Update 
