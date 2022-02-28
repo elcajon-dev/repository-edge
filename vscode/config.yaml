@@ -30,4 +30,4 @@ slug: vscode
 startup: services
 uart: true
 url: https://github.com/elcajon/addon-vscode
-version: e1067e8
+version: 84141cb

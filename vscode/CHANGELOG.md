@@ -1,4 +1,12 @@
 # Changelog since v6.0.1
+- Update Label 
+- Merge pull request #130 from elcajon/patch
+
+Add CI for VSCode Update 
+- Merge branch 'patch' of github.com:elcajon/addon-vscode into patch 
+- Bugfix Dockerfile 
+- Prettified Code! 
+- Add Code Server auto update 
 - Delete merge-bot.yml 
 - Merge pull request #129 from elcajon/elcajon-patch-1
 
