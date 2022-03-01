@@ -1,4 +1,17 @@
 # Changelog since v6.0.1
+- Merge pull request #134 from elcajon/bcicen/ctop-0.7.6
+
+ℹ️ Update bcicen/ctop to version 0.7.6 
+- ℹ️ Update bcicen/ctop to version 0.7.6 
+- Merge pull request #133 from elcajon/patch
+
+Update Repository Updater 
+- Fix code-server json 
+- Fix jq 
+- Fix Hadolint errors 
+- Prettified Code! 
+- Fix Yamllint errors 
+- Add Version logic 
 - Merge pull request #131 from elcajon/codeserver-v4.0.2
 
 ℹ️ Update codeserver to version v4.0.2 
