@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #138 from elcajon/elcajon-patch-1
+
+Update ci.yaml 
+- Update ci.yaml 
 - Merge pull request #137 from elcajon/elcajon-patch-1
 
 Update ci.yaml 
