@@ -1,29 +1,20 @@
-# Home Assistant Community Add-ons
+# EDGE - Home Assistant Add-ons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
 
-## About
+## WARNING! THIS IS AN EDGE REPOSITORY
 
-Home Assistant allows anyone to create add-on repositories to share their
-add-ons for Home Assistant easily. This repository is one of those repositories,
-providing extra Home Assistant add-ons for your installation.
+This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
+builds add-ons are based upon the latest development version.
 
-The primary goal of this project is to provide you (as a Home Assistant user)
-with additional, high quality, add-ons that allow you to take your automated
-home to the next level.
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
 
 ## Installation
-
-In general, there is no need to install this repository on your
-Home Assistant instance. It is activated and added by Home Assistant
-by default.
-
-However, if the repository is missing on your setup, adding this add-ons
-repository to your Home Assistant instance is pretty easy. In the
-Home Assistant add-on store, a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
 
@@ -92,10 +83,6 @@ Got questions?
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
-
-
-
-
 ## License
 
 MIT License
@@ -145,14 +132,8 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[awesome]: https://awesome-ha.com
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/elcajon/repository-edge/pipelines
 [issue]: https://github.com/elcajon/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [semver]: http://semver.org/spec/v2.0.0.html
