@@ -1,22 +1,36 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v6.0.2
+- Merge pull request #135 from elcajon/dependabot/github_actions/docker/login-action-1.14.1
 
-- Update zsh from 5.8-6+b2 to 5.8-6+deb11u1 @elcajon (#128)
+Bump docker/login-action from 1.14.0 to 1.14.1 
+- Merge pull request #136 from elcajon/dependabot/github_actions/actions/checkout-3
 
-## 🧰 Maintenance
+Bump actions/checkout from 2.4.0 to 3 
+- Bump actions/checkout from 2.4.0 to 3
 
-- Add CI for VSCode Update @elcajon (#130)
-- Update Repository Updater @elcajon (#133)
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.4.0 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.4.0...v3)
 
-## 📚 Documentation
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
 
-- Update DOCS.md @elcajon (#129)
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/login-action from 1.14.0 to 1.14.1
 
-## ⬆️ Dependency updates
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.14.0 to 1.14.1.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.14.0...v1.14.1)
 
-- Update zsh from 5.8-6+b2 to 5.8-6+deb11u1 @elcajon (#128)
-- Bump docker/login-action from 1.12.0 to 1.13.0 @dependabot (#127)
-- Update DOCS.md @elcajon (#129)
-- Bump docker/login-action from 1.13.0 to 1.14.0 @dependabot (#132)
-- ℹ️ Update codeserver to version v4.0.2 @github-actions (#131)
-- ℹ️ Update bcicen/ctop to version 0.7.6 @github-actions (#134)
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
