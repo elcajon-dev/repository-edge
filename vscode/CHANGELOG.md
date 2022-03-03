@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #139 from elcajon/coder/code-server-v4.1.0
+
+ℹ️ Update coder/code-server to version v4.1.0 
+- ℹ️ Update coder/code-server to version v4.1.0 
 - Merge pull request #138 from elcajon/elcajon-patch-1
 
 Update ci.yaml 
