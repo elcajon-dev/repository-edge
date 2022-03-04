@@ -1,4 +1,21 @@
 # Changelog since v6.0.2
+- Merge pull request #140 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.8
+
+Bump frenck/action-addon-linter from 2.6 to 2.8 
+- Bump frenck/action-addon-linter from 2.6 to 2.8
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.6 to 2.8.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.6...v2.8)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #139 from elcajon/coder/code-server-v4.1.0
 
 ℹ️ Update coder/code-server to version v4.1.0 
