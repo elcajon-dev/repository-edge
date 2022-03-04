@@ -1,4 +1,12 @@
 # Changelog since v6.0.3
+- Merge pull request #144 from elcajon/elcajon-patch-2
+
+Set caching to gha instead local 
+- Set caching to gha instead local 
+- Merge pull request #143 from elcajon/elcajon-patch-1
+
+Update run 
+- Update run 
 - Merge pull request #142 from elcajon/elcajon-patch-1
 
 Update run 
