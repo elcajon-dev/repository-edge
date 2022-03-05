@@ -1,17 +1,9 @@
-# Changelog since v6.0.3
-- Merge pull request #144 from elcajon/elcajon-patch-2
+# Changelog since v6.0.4
+- Merge pull request #146 from elcajon/patch2
 
-Set caching to gha instead local 
-- Set caching to gha instead local 
-- Merge pull request #143 from elcajon/elcajon-patch-1
+Remove cloudflared from version.json 
+- Merge pull request #147 from elcajon/Add-init_path-option
 
-Update run 
-- Update run 
-- Merge pull request #142 from elcajon/elcajon-patch-1
-
-Update run 
-- Update run 
-- Merge pull request #141 from elcajon/elcajon-patch-1
-
-Add log level to code-server startup 
-- Add log level to code-server startup 
+Add init_path option 
+- Remove cloudflared from version.json 
+- Add init_path option 
