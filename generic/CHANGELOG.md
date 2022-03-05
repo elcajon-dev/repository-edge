@@ -1,7 +1,12 @@
 # Changelog since v0.0.7
+- Merge pull request #13 from elcajon/dependabot/github_actions/docker/login-action-1.14.1
+
+Bump docker/login-action from 1.13.0 to 1.14.1 
+- Merge branch 'main' into dependabot/github_actions/docker/login-action-1.14.1 
 - Merge pull request #14 from elcajon/dependabot/github_actions/actions/checkout-3
 
 Bump actions/checkout from 2.4.0 to 3 
+- Merge branch 'main' into dependabot/github_actions/docker/login-action-1.14.1 
 - Merge branch 'main' into dependabot/github_actions/actions/checkout-3 
 - Merge pull request #15 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.8
 
@@ -32,6 +37,20 @@ updated-dependencies:
 - dependency-name: actions/checkout
   dependency-type: direct:production
   update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/login-action from 1.13.0 to 1.14.1
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.13.0 to 1.14.1.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.13.0...v1.14.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 

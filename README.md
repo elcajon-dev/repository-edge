@@ -105,10 +105,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-generic]: https://github.com/elcajon/addon-generic/tree/61bd56b
-[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/61bd56b/README.md
+[addon-generic]: https://github.com/elcajon/addon-generic/tree/6b251f5
+[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/6b251f5/README.md
 [generic-issue]: https://github.com/elcajon/addon-generic/issues
-[generic-version-shield]: https://img.shields.io/badge/version-61bd56b-blue.svg
+[generic-version-shield]: https://img.shields.io/badge/version-6b251f5-blue.svg
 [generic-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [generic-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
