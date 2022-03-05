@@ -1,13 +1,5 @@
-# Changelog since v6.0.4
-- Merge pull request #148 from elcajon/patch
+# Changelog since v6.0.5
+- Merge pull request #149 from elcajon/elcajon-patch-1
 
-Bugfix init_path 
-- Bugfix init_path 
-- Merge pull request #146 from elcajon/patch2
-
-Remove cloudflared from version.json 
-- Merge pull request #147 from elcajon/Add-init_path-option
-
-Add init_path option 
-- Remove cloudflared from version.json 
-- Add init_path option 
+Change hassio_role to admin 
+- Change hassio_role to admin 
