@@ -1,4 +1,8 @@
 # Changelog since v6.0.4
+- Merge pull request #148 from elcajon/patch
+
+Bugfix init_path 
+- Bugfix init_path 
 - Merge pull request #146 from elcajon/patch2
 
 Remove cloudflared from version.json 

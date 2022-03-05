@@ -123,10 +123,10 @@ SOFTWARE.
 [simplelogin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [simplelogin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [simplelogin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/f6b78a1
-[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/f6b78a1/README.md
+[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/75d17dc
+[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/75d17dc/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-f6b78a1-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-75d17dc-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
