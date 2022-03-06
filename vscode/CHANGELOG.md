@@ -1,5 +1,5 @@
-# Changelog since v6.0.5
-- Merge pull request #149 from elcajon/elcajon-patch-1
+# Changelog since v6.0.6
+- Merge pull request #150 from elcajon/test
 
-Change hassio_role to admin 
-- Change hassio_role to admin 
+Remove pip packages 
+- Remove pip packages 
