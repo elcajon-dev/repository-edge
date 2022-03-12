@@ -1,6 +1,7 @@
 arch:
 - aarch64
 - amd64
+codenotary: agonist02_stiel@icloud.com
 description: Fully featured Visual Studio Code (VSCode) experience integrated in the
   Home Assistant frontend.
 docker_api: true
@@ -29,4 +30,4 @@ services:
 - mqtt:want
 slug: vscode
 url: https://github.com/elcajon/addon-vscode
-version: 2d5f64c
+version: 6.0.10

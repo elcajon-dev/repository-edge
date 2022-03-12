@@ -1,22 +1,12 @@
-# Changelog since v6.0.9
-- Merge pull request #156 from elcajon/push
+## What’s changed
+## 🐛 Bug fixes
 
-Update Config.yaml 
-- Merge pull request #155 from elcajon/dependabot/github_actions/frenck/action-addon-information-1.4
+- Update Config.yaml @elcajon (#156)
 
-Bump frenck/action-addon-information from 1.3.1 to 1.4 
-- Update Config.yaml 
-- Bump frenck/action-addon-information from 1.3.1 to 1.4
+## 🚀 Enhancements
 
-Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.3.1 to 1.4.
-- [Release notes](https://github.com/frenck/action-addon-information/releases)
-- [Commits](https://github.com/frenck/action-addon-information/compare/v1.3.1...v1.4)
+- Add codenotary @elcajon (#157)
 
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-information
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
+## ⬆️ Dependency updates
 
-Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-information from 1.3.1 to 1.4 @dependabot (#155)
