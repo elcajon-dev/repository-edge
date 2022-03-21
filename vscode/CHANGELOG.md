@@ -1,12 +1,18 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v6.0.10
+- Merge pull request #158 from elcajon/dependabot/github_actions/docker/build-push-action-2.10.0
 
-- Update Config.yaml @elcajon (#156)
+Bump docker/build-push-action from 2.9.0 to 2.10.0 
+- Bump docker/build-push-action from 2.9.0 to 2.10.0
 
-## 🚀 Enhancements
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.9.0 to 2.10.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.9.0...v2.10.0)
 
-- Add codenotary @elcajon (#157)
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-## ⬆️ Dependency updates
-
-- Bump frenck/action-addon-information from 1.3.1 to 1.4 @dependabot (#155)
+Signed-off-by: dependabot[bot] <support@github.com> 
