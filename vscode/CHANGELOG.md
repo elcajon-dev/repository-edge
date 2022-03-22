@@ -1,4 +1,8 @@
 # Changelog since v6.0.10
+- Merge pull request #159 from elcajon/rclone/rclone-v1.58.0
+
+ℹ️ Update rclone/rclone to version v1.58.0 
+- Update versions.json 
 - Merge pull request #160 from elcajon/dependabot/github_actions/peter-evans/repository-dispatch-2
 
 Bump peter-evans/repository-dispatch from 1.1.3 to 2 
@@ -19,6 +23,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 - Merge pull request #158 from elcajon/dependabot/github_actions/docker/build-push-action-2.10.0
 
 Bump docker/build-push-action from 2.9.0 to 2.10.0 
+- ℹ️ Update rclone/rclone to version v1.58.0 
 - Bump docker/build-push-action from 2.9.0 to 2.10.0
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.9.0 to 2.10.0.
