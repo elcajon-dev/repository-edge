@@ -30,4 +30,4 @@ services:
 - mqtt:want
 slug: vscode
 url: https://github.com/elcajon/addon-vscode
-version: 13834a6
+version: 55c8126
