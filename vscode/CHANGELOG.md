@@ -1,4 +1,8 @@
 # Changelog since v6.0.10
+- Merge pull request #165 from elcajon/bcicen/ctop-v0.7.7
+
+ℹ️ Update bcicen/ctop to version v0.7.7 
+- ℹ️ Update bcicen/ctop to version v0.7.7 
 - Merge pull request #163 from elcajon/elcajon-patch-1
 
 Bugfix git clone 
