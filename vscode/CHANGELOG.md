@@ -1,4 +1,8 @@
 # Changelog since v6.0.10
+- Merge pull request #163 from elcajon/elcajon-patch-1
+
+Bugfix git clone 
+- Bugfix git clone 
 - Merge pull request #159 from elcajon/rclone/rclone-v1.58.0
 
 ℹ️ Update rclone/rclone to version v1.58.0 
