@@ -1,12 +1,18 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v6.0.11
+- Merge pull request #166 from elcajon/dependabot/github_actions/peter-evans/create-pull-request-4
 
-- Bugfix git clone @elcajon (#163)
+Bump peter-evans/create-pull-request from 3.14.0 to 4 
+- Bump peter-evans/create-pull-request from 3.14.0 to 4
 
-## ⬆️ Dependency updates
+Bumps [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) from 3.14.0 to 4.
+- [Release notes](https://github.com/peter-evans/create-pull-request/releases)
+- [Commits](https://github.com/peter-evans/create-pull-request/compare/v3.14.0...v4)
 
-- Bump docker/build-push-action from 2.9.0 to 2.10.0 @dependabot (#158)
-- Bump peter-evans/repository-dispatch from 1.1.3 to 2 @dependabot (#160)
-- ℹ️ Update rclone/rclone to version v1.58.0 @github-actions (#159)
-- ℹ️ Update bcicen/ctop to version v0.7.7 @github-actions (#165)
-- ℹ️ Update rclone/rclone to version v1.58.0 @github-actions (#164)
+---
+updated-dependencies:
+- dependency-name: peter-evans/create-pull-request
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
