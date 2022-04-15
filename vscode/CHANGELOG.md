@@ -1,4 +1,8 @@
 # Changelog since v6.0.14
+- Merge pull request #173 from elcajon/coder/code-server-v4.3.0
+
+ℹ️ Update coder/code-server to version v4.3.0 
+- ℹ️ Update coder/code-server to version v4.3.0 
 - Merge pull request #172 from elcajon/dependabot/pip/vscode/homeassistant-cli-0.9.4
 
 Bump homeassistant-cli from 0.9.1 to 0.9.4 in /vscode 
