@@ -36,6 +36,6 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d28dd2c-blue.svg
-[release]: https://github.com/elcajon/addon-vscode/tree/d28dd2c
+[release-shield]: https://img.shields.io/badge/version-497e1c5-blue.svg
+[release]: https://github.com/elcajon/addon-vscode/tree/497e1c5
 [screenshot]: https://github.com/elcajon/addon-vscode/raw/main/images/screenshot.png
