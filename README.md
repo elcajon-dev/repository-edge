@@ -100,10 +100,10 @@ SOFTWARE.
 [generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [generic-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [generic-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/497e1c5
-[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/497e1c5/README.md
+[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/v6.0.17
+[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/v6.0.17/README.md
 [vscode-issue]: https://github.com/elcajon/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-497e1c5-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-v6.0.17-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
