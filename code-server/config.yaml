@@ -8,7 +8,7 @@ docker_api: true
 hassio_api: true
 hassio_role: manager
 homeassistant_api: true
-image: ghcr.io/elcajon/vscode/{arch}
+image: ghcr.io/elcajon/code-server/{arch}
 ingress: true
 ingress_port: 1337
 ingress_stream: true
