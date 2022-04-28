@@ -31,4 +31,4 @@ services:
 slug: vscode
 startup: services
 url: https://github.com/elcajon/addon-vscode
-version: cfe01e8
+version: 4069d60

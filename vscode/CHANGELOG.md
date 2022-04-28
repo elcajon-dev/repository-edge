@@ -1,4 +1,9 @@
 # Changelog since v7.0.0
+- Merge pull request #185 from elcajon/elcajon-p1
+
+Enhance Docker autocompletion 
+- Merge branch 'elcajon-p1' of github.com:elcajon/addon-vscode into elcajon-p1 
+- Change docker autocompletion 
 - Merge pull request #184 from elcajon/elcajon-p1
 
 Update default enabled zsh plugins 
