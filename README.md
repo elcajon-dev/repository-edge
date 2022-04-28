@@ -24,6 +24,19 @@ https://github.com/elcajon/repository-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Code Server][addon-code-server]
+
+![Latest Version][code-server-version-shield]
+![Supports armhf Architecture][code-server-armhf-shield]
+![Supports armv7 Architecture][code-server-armv7-shield]
+![Supports aarch64 Architecture][code-server-aarch64-shield]
+![Supports amd64 Architecture][code-server-amd64-shield]
+![Supports i386 Architecture][code-server-i386-shield]
+
+Code Server experience integrated in the Home Assistant frontend.
+
+[:books: Code Server add-on documentation][addon-doc-code-server]
+
 ### &#10003; [Generic][addon-generic]
 
 ![Latest Version][generic-version-shield]
@@ -51,6 +64,7 @@ based on the following:
 
 Got questions?
 
+- [Open an issue for the add-on: Code Server][code-server-issue]
 - [Open an issue for the add-on: Generic][generic-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -77,6 +91,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/d6f109b
+[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/d6f109b/README.md
+[code-server-issue]: https://github.com/elcajon/addon-code-server/issues
+[code-server-version-shield]: https://img.shields.io/badge/version-d6f109b-blue.svg
+[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-generic]: https://github.com/elcajon/addon-generic/tree/b751094
 [addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/b751094/README.md
 [generic-issue]: https://github.com/elcajon/addon-generic/issues
