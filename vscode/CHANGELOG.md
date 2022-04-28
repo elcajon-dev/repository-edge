@@ -1,4 +1,8 @@
 # Changelog since v7.0.0
+- Merge pull request #183 from elcajon/elcajon-p1
+
+Update settings.json 
+- Update settings.json 
 - Merge pull request #182 from elcajon/elcajon-p4
 
 Update Workflows 
