@@ -1,4 +1,8 @@
 # Changelog since v7.0.0
+- Merge pull request #184 from elcajon/elcajon-p1
+
+Update default enabled zsh plugins 
+- Update default enabled zsh plugins 
 - Merge pull request #183 from elcajon/elcajon-p1
 
 Update settings.json 
