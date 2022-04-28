@@ -1,12 +1,12 @@
-# Home Assistant Add-on: Studio Code Server
+# Home Assistant Add-on: Code Server
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-Visual Studio Code, accessible through the browser.
+Code Server experience integrated in the Home Assistant frontend.
 
 ## About
 
-This add-on runs code-server, which
+This add-on runs Code Server, which
 gives you a Visual Studio Code experience straight from the browser. It allows
 you to edit your Home Assistant configuration directly from your web browser,
 directly from within the Home Assistant frontend.
@@ -30,12 +30,8 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
-
-<https://github.com/hassio-addons/repository>
-
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d7ab7d7-blue.svg
-[release]: https://github.com/elcajon/addon-code-server/tree/d7ab7d7
+[release-shield]: https://img.shields.io/badge/version-9fd9259-blue.svg
+[release]: https://github.com/elcajon/addon-code-server/tree/9fd9259
 [screenshot]: https://github.com/elcajon/addon-code-server/raw/main/images/screenshot.png
