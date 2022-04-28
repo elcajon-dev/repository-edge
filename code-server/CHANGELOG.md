@@ -1,6 +1,5 @@
-# Changelog since v8.0.0
-- Merge pull request #188 from elcajon/elcajon-p2
+## What’s changed
+## 🚀 Enhancements
 
-Add Cron service 
-- Update dependencies 
-- Add cron service 
+- Add Cron service @elcajon (#188)
+- Add SSH service @elcajon (#189)
