@@ -1,7 +1,7 @@
 ---
 channel: edge
 addons:
-  vscode:
+  code-server:
     repository: elcajon/addon-code-server
     target: code-server
     image: ghcr.io/elcajon/code-server/{arch}
