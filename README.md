@@ -37,19 +37,6 @@ Generic add-on for development purposes
 
 [:books: Generic add-on documentation][addon-doc-generic]
 
-### &#10003; [Studio Code Server][addon-vscode]
-
-![Latest Version][vscode-version-shield]
-![Supports armhf Architecture][vscode-armhf-shield]
-![Supports armv7 Architecture][vscode-armv7-shield]
-![Supports aarch64 Architecture][vscode-aarch64-shield]
-![Supports amd64 Architecture][vscode-amd64-shield]
-![Supports i386 Architecture][vscode-i386-shield]
-
-Fully featured Visual Studio Code (VSCode) experience integrated in the Home Assistant frontend.
-
-[:books: Studio Code Server add-on documentation][addon-doc-vscode]
-
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -65,7 +52,6 @@ based on the following:
 Got questions?
 
 - [Open an issue for the add-on: Generic][generic-issue]
-- [Open an issue for the add-on: Studio Code Server][vscode-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -100,15 +86,6 @@ SOFTWARE.
 [generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [generic-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [generic-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/elcajon/addon-vscode/tree/4069d60
-[addon-doc-vscode]: https://github.com/elcajon/addon-vscode/blob/4069d60/README.md
-[vscode-issue]: https://github.com/elcajon/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-4069d60-blue.svg
-[vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/elcajon/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
