@@ -1,5 +1,6 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v8.0.1
+- Merge pull request #190 from elcajon/elcajon-p1
 
-- Add Cron service @elcajon (#188)
-- Add SSH service @elcajon (#189)
+SSH Enhancements & Bugfixes 
+- Update default settings.json 
+- SSH fixes 
