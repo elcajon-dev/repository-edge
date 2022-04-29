@@ -1,6 +1,5 @@
-# Changelog since v8.0.1
-- Merge pull request #190 from elcajon/elcajon-p1
+# Changelog since v8.0.2
+- Merge pull request #191 from elcajon/rclone/rclone-v1.58.1
 
-SSH Enhancements & Bugfixes 
-- Update default settings.json 
-- SSH fixes 
+ℹ️ Update rclone/rclone to version v1.58.1 
+- ℹ️ Update rclone/rclone to version v1.58.1 
