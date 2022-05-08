@@ -34,4 +34,4 @@ services:
 slug: code-server
 startup: services
 url: https://github.com/elcajon/addon-code-server
-version: e1b3701
+version: 82b5ab9
