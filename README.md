@@ -100,10 +100,10 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-generic]: https://github.com/elcajon/addon-generic/tree/acdd0ce
-[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/acdd0ce/README.md
+[addon-generic]: https://github.com/elcajon/addon-generic/tree/b61b393
+[addon-doc-generic]: https://github.com/elcajon/addon-generic/blob/b61b393/README.md
 [generic-issue]: https://github.com/elcajon/addon-generic/issues
-[generic-version-shield]: https://img.shields.io/badge/version-acdd0ce-blue.svg
+[generic-version-shield]: https://img.shields.io/badge/version-b61b393-blue.svg
 [generic-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [generic-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
