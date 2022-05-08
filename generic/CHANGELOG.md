@@ -1,6 +1,5 @@
-# Changelog since v0.0.13
-- Merge pull request #27 from elcajon/elcajon-patch-1
+## What’s changed
+## 📚 Documentation
 
-Update issue templates 
-- Prettified Code! 
-- Update issue templates 
+- Update issue templates @elcajon (#27)
+- Create CODE_OF_CONDUCT.md @elcajon (#28)
