@@ -32,6 +32,6 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-87c8f9e-blue.svg
-[release]: https://github.com/elcajon/addon-code-server/tree/87c8f9e
+[release-shield]: https://img.shields.io/badge/version-f8aa3d6-blue.svg
+[release]: https://github.com/elcajon/addon-code-server/tree/f8aa3d6
 [screenshot]: https://github.com/elcajon/addon-code-server/raw/main/images/screenshot.png
