@@ -1,10 +1,5 @@
-# Changelog since v8.0.10
-- Merge pull request #207 from elcajon/elcajon-patch-1
+# Changelog since v8.0.11
+- Merge pull request #208 from elcajon/elcajon-patch-1
 
-Update github_updater.yaml 
-- Merge branch 'main' into elcajon-patch-1 
-- Merge pull request #206 from elcajon/home-assistant/cli-4.18.0
-
-ℹ️ Update home-assistant/cli to version 4.18.0 
-- Update github_updater.yaml 
-- ℹ️ Update home-assistant/cli to version 4.18.0 
+⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.30.1 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.30.1 
