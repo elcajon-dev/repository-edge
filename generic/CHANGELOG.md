@@ -1,4 +1,8 @@
 # Changelog since v0.0.14
+- Merge pull request #30 from elcajon/elcajon-p1
+
+Update chmod 
+- Update chmod 
 - Merge pull request #29 from elcajon/elcajon-patch-1
 
 Update base image to 6.0.0 
