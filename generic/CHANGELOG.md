@@ -1,5 +1,8 @@
-## What’s changed
-## 📚 Documentation
+# Changelog since v0.0.14
+- Merge pull request #29 from elcajon/elcajon-patch-1
 
-- Update issue templates @elcajon (#27)
-- Create CODE_OF_CONDUCT.md @elcajon (#28)
+Update base image to 6.0.0 
+- Update 00-startup 
+- Update 99-hello-world 
+- Update Dockerfile 
+- Update base image to 6.0.0 
