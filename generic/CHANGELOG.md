@@ -1,12 +1,18 @@
-# Changelog since v0.0.14
-- Merge pull request #30 from elcajon/elcajon-p1
+# Changelog since v0.0.15
+- Merge pull request #31 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.9
 
-Update chmod 
-- Update chmod 
-- Merge pull request #29 from elcajon/elcajon-patch-1
+Bump frenck/action-addon-linter from 2.8 to 2.9 
+- Bump frenck/action-addon-linter from 2.8 to 2.9
 
-Update base image to 6.0.0 
-- Update 00-startup 
-- Update 99-hello-world 
-- Update Dockerfile 
-- Update base image to 6.0.0 
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.8 to 2.9.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.8...v2.9)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
