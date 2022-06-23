@@ -1,13 +1,18 @@
-## What’s changed
-## 🚨 Breaking changes
+# Changelog since v9.0.0
+- Merge pull request #214 from elcajon/dependabot/github_actions/frenck/action-addon-linter-2.9
 
-- Remove aarch64 support @elcajon (#212)
+Bump frenck/action-addon-linter from 2.8 to 2.9 
+- Bump frenck/action-addon-linter from 2.8 to 2.9
 
-## 📚 Documentation
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.8 to 2.9.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.8...v2.9)
 
-- Update Documentation Shields @elcajon (#210)
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-## ⬆️ Dependency updates
-
-- Update base image to 6.0.0 @elcajon (#211)
-- Update code-server.extensions @elcajon (#213)
+Signed-off-by: dependabot[bot] <support@github.com> 
