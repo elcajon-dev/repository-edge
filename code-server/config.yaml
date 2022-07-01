@@ -2,13 +2,16 @@ arch:
 - amd64
 codenotary: agonist02_stiel@icloud.com
 description: Code Server experience integrated in the Home Assistant frontend.
+devices:
+- /dev/net/tun
 docker_api: true
 hassio_api: true
 hassio_role: manager
 homeassistant_api: true
+host_network: true
 image: ghcr.io/elcajon/code-server/{arch}
 ingress: true
-ingress_port: 1337
+ingress_port: 0
 ingress_stream: true
 init: false
 map:
@@ -20,6 +23,8 @@ map:
 - backup:rw
 name: Code Server
 panel_icon: mdi:code-json
+privileged:
+- NET_ADMIN
 schema:
   init_path: str?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
@@ -29,4 +34,4 @@ services:
 slug: code-server
 startup: services
 url: https://github.com/elcajon/addon-code-server
-version: 52f0a49
+version: 27eaf8f
