@@ -1,4 +1,13 @@
 # Changelog since v9.5.9
+- Merge pull request #245 from elcajon/sample
+
+Add sample scripts and services 
+- Merge branch 'main' into sample 
+- Add sample scripts and services 
+- Merge pull request #244 from elcajon/custom-service
+
+Add custom-service command 
+- Add custom Service 
 - Merge pull request #243 from elcajon/docs
 
 Doc Update 

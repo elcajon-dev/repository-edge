@@ -28,25 +28,6 @@ using [this GitHub repository][ha-addons] or by clicking the button below.
   resources to Cloudflare without a publicly routable IP address.)
 - Custom Init scripts and services (see next chapter)
 
-## Custom Init scripts
-
-When `init_path` configuration option is set. The add-on will generate
-the two folders `cont-init.d` and `services.d`.
-
-Place your custom cont-init files inside the folder `cont-init.d` and
-they will be processed during add-on startup phase`.
-
-Place your custom service file called `run` inside a
-subfolder of `services.d` and a corresponding service will run
-when the add-on starts.
-For example: `services.d/my-service/run` will spin up a service called `my-service`
-Place your service logic in the file called `run`.
-
-Take a look [here][sample-folder] for some sample scripts and services.
-
-**Note**: _Please be aware that this is a really powerful function which can damage
-your whole system if handled incorrectly._
-
 ## Configuration
 
 **Note**: _Remember to restart the add-on when the configuration is changed._
@@ -79,6 +60,28 @@ Please note that each level automatically includes log messages from a
 more severe level, e.g., `debug` also shows `info` messages. By default,
 the `log_level` is set to `info`, which is the recommended setting unless
 you are troubleshooting.
+
+## Custom Init scripts
+
+When `init_path` configuration option is set. The add-on will generate
+the two folders `cont-init.d` and `services.d`.
+
+Place your custom cont-init files inside the folder `cont-init.d` and
+they will be processed during add-on startup phase.
+
+Place your custom service file called `run` inside a
+subfolder of `services.d` and a corresponding service will run
+when the add-on starts.
+For example: `services.d/my-service/run` will spin up a service called `my-service`
+Place your service logic in the file called `run`.
+
+Take a look [here][sample-folder] for some sample scripts and services.
+
+**Note**: _Please be aware that this is a really powerful function which can damage
+your whole system if handled incorrectly._
+
+**Note**: _Use command `cust-service` to control your custom services from code
+server terminal. Use `--help` for more information._
 
 ## Resetting your Code Server settings to the add-on defaults
 
