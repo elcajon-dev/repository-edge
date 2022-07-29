@@ -1,4 +1,9 @@
 # Changelog since v9.5.9
+- Merge pull request #242 from elcajon/elcajon-p1
+
+Update Documentation 
+- Prettified Code! 
+- Doc Updates 
 - Merge pull request #241 from elcajon/Update-Base-image
 
 ⬆️ Update Base Image 6.1.0 
