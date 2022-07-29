@@ -81,7 +81,7 @@ SOFTWARE.
 [addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/328baed/README.md
 [code-server-issue]: https://github.com/elcajon/addon-code-server/issues
 [code-server-version-shield]: https://img.shields.io/badge/version-328baed-blue.svg
-[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
