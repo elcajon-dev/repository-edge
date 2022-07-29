@@ -8,6 +8,9 @@ The add-on has the Home Assistant, MDI icons and YAML extensions pre-installed
 and pre-configured right out of the box. This means that auto-completion works
 instantly, without the need for configuring anything.
 
+Take a look [here][hassio-addons] if you are looking for the original
+Code Server Add-on from HA Community Add-ons.
+
 ## Installation
 
 To install this Add-On, manually add the HA-Addons repository to Home Assistant
@@ -93,3 +96,4 @@ return to the defaults as delivered by this add-on, do the following:
 [my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Felcajon%2Frepository-stable
 [ha-addons]: https://github.com/elcajon/repository-stable
 [sample-folder]: https://github.com/elcajon/addon-code-server/tree/main/sample-scripts
+[hassio-addons]: https://github.com/hassio-addons/addon-vscode

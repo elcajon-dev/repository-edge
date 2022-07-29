@@ -16,7 +16,7 @@ and pre-configured right out of the box. This means that auto-completion works
 instantly, without the need for configuring anything.
 
 This version of Code Server adds some advanced features compared to the
-HA Community Code Server version.
+[HA Community Code Server][hassio-addons] version.
 
 For example:
 
@@ -47,6 +47,7 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-7d08714-blue.svg
-[release]: https://github.com/elcajon/addon-code-server/tree/7d08714
+[release-shield]: https://img.shields.io/badge/version-d610fac-blue.svg
+[release]: https://github.com/elcajon/addon-code-server/tree/d610fac
 [screenshot]: https://github.com/elcajon/addon-code-server/raw/main/images/screenshot.png
+[hassio-addons]: https://github.com/hassio-addons/addon-vscode

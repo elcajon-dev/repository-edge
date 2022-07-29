@@ -1,4 +1,11 @@
 # Changelog since v9.5.9
+- Merge pull request #243 from elcajon/docs
+
+Doc Update 
+- Update DOCS.md 
+- Update README.md 
+- Prettified Code! 
+- Doc Update 
 - Merge pull request #242 from elcajon/elcajon-p1
 
 Update Documentation 
