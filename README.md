@@ -24,7 +24,7 @@ https://github.com/elcajon/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Code Server][addon-code-server]
+### &#10003; [Advanced Code Server][addon-code-server]
 
 ![Latest Version][code-server-version-shield]
 ![Supports armhf Architecture][code-server-armhf-shield]
@@ -35,7 +35,7 @@ https://github.com/elcajon/repository-edge
 
 Code Server experience integrated in the Home Assistant frontend.
 
-[:books: Code Server add-on documentation][addon-doc-code-server]
+[:books: Advanced Code Server add-on documentation][addon-doc-code-server]
 
 ## Releases
 
@@ -51,7 +51,7 @@ based on the following:
 
 Got questions?
 
-- [Open an issue for the add-on: Code Server][code-server-issue]
+- [Open an issue for the add-on: Advanced Code Server][code-server-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
