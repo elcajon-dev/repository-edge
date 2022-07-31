@@ -1,9 +1,9 @@
-# Changelog since v9.5.10
-- Merge pull request #247 from elcajon/elcajon-patch-1
+## What’s changed
+## 🚀 Enhancements
 
-Bugfix 
-- Update README.md 
-- Merge pull request #246 from elcajon/elcajon-patch-1
+- Add git-crypt v0.6.0-1 @elcajon (#248)
 
-Add repository link 
-- Add repository link 
+## 📚 Documentation
+
+- Add repository link @elcajon (#246)
+- Bugfix @elcajon (#247)
