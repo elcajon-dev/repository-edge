@@ -1,9 +1,18 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v9.5.11
+- Merge pull request #249 from elcajon/dependabot/github_actions/docker/build-push-action-3.1.1
 
-- Add git-crypt v0.6.0-1 @elcajon (#248)
+Bump docker/build-push-action from 3.1.0 to 3.1.1 
+- Bump docker/build-push-action from 3.1.0 to 3.1.1
 
-## 📚 Documentation
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.1.0 to 3.1.1.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v3.1.0...v3.1.1)
 
-- Add repository link @elcajon (#246)
-- Bugfix @elcajon (#247)
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
