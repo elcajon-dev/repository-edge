@@ -1,4 +1,8 @@
 # Changelog since v9.5.11
+- Merge pull request #250 from elcajon/rclone/rclone-v1.59.1
+
+⬆️ Update rclone/rclone to version v1.59.1 
+- ℹ️ Update rclone/rclone to version v1.59.1 
 - Merge pull request #249 from elcajon/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 
