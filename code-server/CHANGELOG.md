@@ -1,4 +1,8 @@
 # Changelog since v9.5.11
+- Merge pull request #251 from elcajon/cloudflare/cloudflared-2022.8.0
+
+⬆️ Update cloudflare/cloudflared to version 2022.8.0 
+- ℹ️ Update cloudflare/cloudflared to version 2022.8.0 
 - Merge pull request #250 from elcajon/rclone/rclone-v1.59.1
 
 ⬆️ Update rclone/rclone to version v1.59.1 
