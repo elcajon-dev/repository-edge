@@ -1,4 +1,13 @@
 # Changelog since v9.5.11
+- Merge pull request #252 from elcajon/cloudflare/cloudflared-2022.8.2
+
+⬆️ Update cloudflare/cloudflared to version 2022.8.2 
+- Merge branch 'main' into cloudflare/cloudflared-2022.8.2 
+- Merge pull request #253 from elcajon/coder/code-server-v4.5.2
+
+⬆️ Update coder/code-server to version v4.5.2 
+- ℹ️ Update coder/code-server to version v4.5.2 
+- ℹ️ Update cloudflare/cloudflared to version 2022.8.2 
 - Merge pull request #251 from elcajon/cloudflare/cloudflared-2022.8.0
 
 ⬆️ Update cloudflare/cloudflared to version 2022.8.0 
