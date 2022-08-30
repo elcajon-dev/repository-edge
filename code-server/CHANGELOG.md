@@ -1,10 +1,16 @@
-# Changelog since v9.5.14
-- Merge pull request #263 from elcajon/elcajon-patch-1
+## What’s changed
+## 🐛 Bug fixes
 
-Add appdaemon libraries 
-- Merge branch 'main' into elcajon-patch-1 
-- Merge pull request #264 from elcajon/elcajon-patch-2
+- Add appdaemon libraries @elcajon (#263)
 
-Add Docker Dependabot updates 
-- Add Docker Dependabot updates 
-- Add appdaemon libraries 
+## 🧰 Maintenance
+
+- Add Docker Dependabot updates @elcajon (#264)
+
+## 📚 Documentation
+
+- Add Appdaemon to documentation @elcajon (#265)
+
+## ⬆️ Dependency updates
+
+- Bump esphome from 2022.6.2 to 2022.8.0 in /code-server @dependabot (#266)
