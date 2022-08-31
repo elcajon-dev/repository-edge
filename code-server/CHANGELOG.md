@@ -1,9 +1,9 @@
-# Changelog since v9.5.15
-- Merge pull request #269 from elcajon/elcajon-patch-1
+## What’s changed
+## 🧰 Maintenance
 
-Update github_updater.yaml 
-- Update github_updater.yaml 
-- Merge pull request #268 from elcajon/elcajon-patch-1
+- Update github_updater.yaml @elcajon (#268)
+- Update github_updater.yaml @elcajon (#269)
 
-Update github_updater.yaml 
-- Update github_updater.yaml 
+## ⬆️ Dependency updates
+
+- ⬆️ Update tailscale/tailscale to version v1.30.0 @elcajon-bot (#270)
