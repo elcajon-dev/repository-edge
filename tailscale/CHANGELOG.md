@@ -1,3 +1,3 @@
-- Merge pull request #1 from elcajon/Adding-versions.json-to-get-Tailscale-updates
+- Merge pull request #3 from elcajon/elcajon-patch-2
 
-Adding versions.json to get tailscale updates
+Update github_updater.yaml
