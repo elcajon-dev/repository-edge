@@ -25,4 +25,4 @@ schema:
 slug: tailscale
 startup: services
 url: https://github.com/elcajon/addon-tailscale
-version: 9d2e16e
+version: 0759440
