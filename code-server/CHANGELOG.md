@@ -1,9 +1,5 @@
-## What’s changed
-## 🧰 Maintenance
+# Changelog since v9.5.16
+- Merge pull request #273 from elcajon/cloudflare/cloudflared-2022.8.4
 
-- Update github_updater.yaml @elcajon (#268)
-- Update github_updater.yaml @elcajon (#269)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update tailscale/tailscale to version v1.30.0 @elcajon-bot (#270)
+⬆️ Update cloudflare/cloudflared to version 2022.8.4 
+- ℹ️ Update cloudflare/cloudflared to version 2022.8.4 
