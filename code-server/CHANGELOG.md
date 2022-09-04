@@ -1,6 +1,10 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v9.5.17
+- Merge pull request #275 from elcajon/elcajon-p2
 
-- ⬆️ Update cloudflare/cloudflared to version 2022.8.4 @elcajon-bot (#273)
-- ⬆️ Update coder/code-server to version v4.6.1 @elcajon-bot (#272)
-- Bump esphome from 2022.8.0 to 2022.8.1 in /code-server @dependabot (#271)
+Remove AppDaemon 
+- Merge branch 'main' into elcajon-p2 
+- Merge pull request #274 from elcajon/elcajon-p1
+
+Update to s6-v3 structures 
+- Remove AppDaemon 
+- Update to s6-v3 structures 
