@@ -1,10 +1,8 @@
-# Changelog since v9.5.17
-- Merge pull request #275 from elcajon/elcajon-p2
+## What’s changed
+## 🐛 Bug fixes
 
-Remove AppDaemon 
-- Merge branch 'main' into elcajon-p2 
-- Merge pull request #274 from elcajon/elcajon-p1
+- Remove AppDaemon @elcajon (#275)
 
-Update to s6-v3 structures 
-- Remove AppDaemon 
-- Update to s6-v3 structures 
+## ⬆️ Dependency updates
+
+- Update to s6-v3 structures @elcajon (#274)
