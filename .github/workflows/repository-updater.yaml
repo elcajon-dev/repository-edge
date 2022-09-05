@@ -7,14 +7,15 @@ on:
     types: ["update"]
 
 jobs:
+  token:
+      name: 🔣 Generate App Token
+      uses: tibdex/github-app-token@v1
+      id: token
+      with:
+        app_id: ${{ secrets.APP_ID }}
+        private_key: ${{ secrets.APP_SECRET }}
   workflows:
-    steps:
-      - name: 🔣 Generate App Token
-        uses: tibdex/github-app-token@v1
-        id: token
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_SECRET }}
-      - uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
-        secrets:
-          UPDATER_TOKEN: ${{ steps.token.outputs.token }}
+      uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
+      needs: token
+      secrets:
+        UPDATER_TOKEN: ${{ needs.token.outputs.token }}
