@@ -1,4 +1,5 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v0.1.5
+- Merge pull request #21 from elcajon-tech/elcajon-patch-1
 
-- Update config.yaml @elcajon (#19)
+Update README.md 
+- Update README.md 
