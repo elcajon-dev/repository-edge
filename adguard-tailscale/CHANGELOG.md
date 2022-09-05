@@ -1,10 +1,9 @@
-# Changelog since v0.1.3
-- Merge pull request #17 from elcajon/elcajon-patch-1
+## What’s changed
+## 🧰 Maintenance
 
-Delete stale.yaml 
-- Delete lock.yaml 
-- Delete stale.yaml 
-- Merge pull request #16 from elcajon/elcajon-patch-1
+- Delete stale.yaml @elcajon (#17)
 
-Remove logo 
-- Remove logo 
+## 📚 Documentation
+
+- Remove logo @elcajon (#16)
+- Update README.md @elcajon (#18)
