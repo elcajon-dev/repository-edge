@@ -38,5 +38,5 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-8219c2a-blue.svg
-[release]: https://github.com/elcajon-tech/addon-adguard-tailscale/tree/8219c2a
+[release-shield]: https://img.shields.io/badge/version-b05c652-blue.svg
+[release]: https://github.com/elcajon-tech/addon-adguard-tailscale/tree/b05c652
