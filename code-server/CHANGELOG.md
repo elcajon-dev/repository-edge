@@ -1,10 +1,9 @@
-# Changelog since v9.5.18
-- Merge pull request #277 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## 🧰 Maintenance
 
-Update README.md 
-- Update README.md 
-- Merge pull request #276 from elcajon/elcajon-patch-1
+- Delete lock.yaml @elcajon (#276)
 
-Delete lock.yaml 
-- Delete stale.yaml 
-- Delete lock.yaml 
+## 📚 Documentation
+
+- Update README.md @elcajon (#277)
+- Update DOCS.md @elcajon (#278)
