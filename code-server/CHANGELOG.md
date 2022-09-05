@@ -1,8 +1,6 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v9.5.18
+- Merge pull request #276 from elcajon/elcajon-patch-1
 
-- Remove AppDaemon @elcajon (#275)
-
-## ⬆️ Dependency updates
-
-- Update to s6-v3 structures @elcajon (#274)
+Delete lock.yaml 
+- Delete stale.yaml 
+- Delete lock.yaml 
