@@ -1,9 +1,5 @@
-# Changelog since v0.1.5
-- Merge pull request #22 from elcajon-tech/elcajon-patch-1
+# Changelog since v0.1.6
+- Merge pull request #23 from elcajon-tech/AdguardTeam/AdGuardHome-v0.107.12
 
-Update deploy.yaml 
-- Update deploy.yaml 
-- Merge pull request #21 from elcajon-tech/elcajon-patch-1
-
-Update README.md 
-- Update README.md 
+⬆️ Update AdguardTeam/AdGuardHome to version v0.107.12 
+- ℹ️ Update AdguardTeam/AdGuardHome to version v0.107.12 
