@@ -1,5 +1,8 @@
-# Changelog since v9.5.22
-- Merge pull request #284 from elcajon-tech/cloudflare/cloudflared-2022.9.0
+## What’s changed
+## 🧰 Maintenance
 
-⬆️ Update cloudflare/cloudflared to version 2022.9.0 
-- ℹ️ Update cloudflare/cloudflared to version 2022.9.0 
+- Remove Auto Approve CI @elcajon (#285)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update cloudflare/cloudflared to version 2022.9.0 @elcajon-bot (#284)
