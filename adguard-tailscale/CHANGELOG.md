@@ -1,8 +1,9 @@
-## What’s changed
-## 🧰 Maintenance
+# Changelog since v0.1.7
+- Merge pull request #25 from elcajon-tech/tailscale/tailscale-v1.30.1
 
-- Remove Auto Approve CI @elcajon (#24)
+⬆️ Update tailscale/tailscale to version v1.30.1 
+- Merge pull request #26 from elcajon-tech/elcajon-patch-1
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update AdguardTeam/AdGuardHome to version v0.107.12 @elcajon-bot (#23)
+⬆️ Update yq to 4.25.1-r4 
+- ⬆️ Update yq to 4.25.1-r4 
+- ℹ️ Update tailscale/tailscale to version v1.30.1 
