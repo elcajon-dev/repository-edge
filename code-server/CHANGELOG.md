@@ -1,4 +1,8 @@
 # Changelog since v0.1.2
+- Merge pull request #9 from elcajon-tech/rclone/rclone-v1.59.2
+
+⬆️ Update rclone/rclone to version v1.59.2 
+- ℹ️ Update rclone/rclone to version v1.59.2 
 - Merge pull request #8 from elcajon-tech/dependabot/github_actions/frenck/action-yamllint-1.3
 
 Bump frenck/action-yamllint from 1.2 to 1.3 
