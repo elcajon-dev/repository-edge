@@ -1,4 +1,8 @@
 # Changelog since v0.1.2
+- Merge pull request #10 from elcajon-tech/tailscale/tailscale-v1.30.2
+
+⬆️ Update tailscale/tailscale to version v1.30.2 
+- ℹ️ Update tailscale/tailscale to version v1.30.2 
 - Merge pull request #9 from elcajon-tech/rclone/rclone-v1.59.2
 
 ⬆️ Update rclone/rclone to version v1.59.2 

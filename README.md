@@ -104,10 +104,10 @@ SOFTWARE.
 [adguard-tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [adguard-tailscale-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-tailscale-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-code-server]: https://github.com/elcajon-tech/addon-code-server/tree/d99312e
-[addon-doc-code-server]: https://github.com/elcajon-tech/addon-code-server/blob/d99312e/README.md
+[addon-code-server]: https://github.com/elcajon-tech/addon-code-server/tree/25cbc35
+[addon-doc-code-server]: https://github.com/elcajon-tech/addon-code-server/blob/25cbc35/README.md
 [code-server-issue]: https://github.com/elcajon-tech/addon-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-d99312e-blue.svg
+[code-server-version-shield]: https://img.shields.io/badge/version-25cbc35-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
