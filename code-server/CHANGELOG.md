@@ -1,4 +1,8 @@
 # Changelog since v0.1.5
+- Merge pull request #16 from elcajon-tech/cloudflare/cloudflared-2022.9.1
+
+⬆️ Update cloudflare/cloudflared to version 2022.9.1 
+- ℹ️ Update cloudflare/cloudflared to version 2022.9.1 
 - Merge pull request #15 from elcajon-tech/dependabot/pip/code-server/esphome-2022.9.1
 
 Bump esphome from 2022.9.0 to 2022.9.1 in /code-server 
