@@ -1,4 +1,5 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.1.8
+- Merge pull request #21 from elcajon-tech/mikefarah/yq-v4.28.1
 
-- ⬆️ Update cloudflare/cloudflared to version 2022.10.0 @elcajon-bot (#20)
+⬆️ Update mikefarah/yq to version v4.28.1 
+- ℹ️ Update mikefarah/yq to version v4.28.1 
