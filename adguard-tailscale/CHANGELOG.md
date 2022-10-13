@@ -1,8 +1,13 @@
 # Changelog since v0.2.8
+- Merge pull request #45 from elcajon-tech/tailscale/tailscale-v1.32.0
+
+⬆️ Update tailscale/tailscale to version v1.32.0 
+- Merge branch 'main' into tailscale/tailscale-v1.32.0 
 - Merge pull request #46 from elcajon-tech/elcajon-patch-1
 
 ⬆️ Update yq to 4.25.1-r5 
 - Update Dockerfile 
+- ℹ️ Update tailscale/tailscale to version v1.32.0 
 - Merge pull request #44 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.1.0
 
 Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 
