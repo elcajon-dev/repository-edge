@@ -1,39 +1,53 @@
-# Changelog since v0.1.8
-- Merge pull request #23 from elcajon-tech/dependabot/pip/code-server/esphome-2022.9.4
+# Changelog since v0.1.9
+- Merge pull request #26 from elcajon-tech/dependabot/github_actions/docker/build-push-action-3.2.0
 
-Bump esphome from 2022.9.3 to 2022.9.4 in /code-server 
-- Bump esphome from 2022.9.3 to 2022.9.4 in /code-server
+Bump docker/build-push-action from 3.1.1 to 3.2.0 
+- Bump docker/build-push-action from 3.1.1 to 3.2.0
 
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.9.3 to 2022.9.4.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.9.3...2022.9.4)
-
----
-updated-dependencies:
-- dependency-name: esphome
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #22 from elcajon-tech/dependabot/pip/code-server/esphome-2022.9.3
-
-Bump esphome from 2022.9.2 to 2022.9.3 in /code-server 
-- Bump esphome from 2022.9.2 to 2022.9.3 in /code-server
-
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.9.2 to 2022.9.3.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.9.2...2022.9.3)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.1.1 to 3.2.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v3.1.1...v3.2.0)
 
 ---
 updated-dependencies:
-- dependency-name: esphome
+- dependency-name: docker/build-push-action
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #21 from elcajon-tech/mikefarah/yq-v4.28.1
+- Merge pull request #25 from elcajon-tech/dependabot/github_actions/docker/login-action-2.1.0
 
-⬆️ Update mikefarah/yq to version v4.28.1 
-- ℹ️ Update mikefarah/yq to version v4.28.1 
+Bump docker/login-action from 2.0.0 to 2.1.0 
+- Merge branch 'main' into dependabot/github_actions/docker/login-action-2.1.0 
+- Merge pull request #24 from elcajon-tech/dependabot/github_actions/docker/setup-qemu-action-2.1.0
+
+Bump docker/setup-qemu-action from 2.0.0 to 2.1.0 
+- Bump docker/login-action from 2.0.0 to 2.1.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-qemu-action from 2.0.0 to 2.1.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
