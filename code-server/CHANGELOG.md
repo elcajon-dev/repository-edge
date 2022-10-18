@@ -1,8 +1,18 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.1.10
+- Merge pull request #29 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.2.0
 
-- Bump docker/setup-qemu-action from 2.0.0 to 2.1.0 @dependabot (#24)
-- Bump docker/login-action from 2.0.0 to 2.1.0 @dependabot (#25)
-- Bump docker/build-push-action from 3.1.1 to 3.2.0 @dependabot (#26)
-- Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 @dependabot (#27)
-- ⬆️ Update tailscale/tailscale to version v1.32.0 @elcajon-bot (#28)
+Bump docker/setup-buildx-action from 2.1.0 to 2.2.0 
+- Bump docker/setup-buildx-action from 2.1.0 to 2.2.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.1.0 to 2.2.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.1.0...v2.2.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
