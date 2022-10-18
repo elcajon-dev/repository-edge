@@ -95,10 +95,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/tree/a855668
-[addon-doc-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/blob/a855668/README.md
+[addon-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/tree/72b0a6b
+[addon-doc-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/blob/72b0a6b/README.md
 [adguard-tailscale-issue]: https://github.com/elcajon-tech/addon-adguard-tailscale/issues
-[adguard-tailscale-version-shield]: https://img.shields.io/badge/version-a855668-blue.svg
+[adguard-tailscale-version-shield]: https://img.shields.io/badge/version-72b0a6b-blue.svg
 [adguard-tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
