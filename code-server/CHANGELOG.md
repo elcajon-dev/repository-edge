@@ -1,4 +1,8 @@
 # Changelog since v0.1.10
+- Merge pull request #30 from elcajon-tech/cloudflare/cloudflared-2022.10.1
+
+⬆️ Update cloudflare/cloudflared to version 2022.10.1 
+- ℹ️ Update cloudflare/cloudflared to version 2022.10.1 
 - Merge pull request #29 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.2.0
 
 Bump docker/setup-buildx-action from 2.1.0 to 2.2.0 
