@@ -1,4 +1,21 @@
 # Changelog since v0.1.10
+- Merge pull request #31 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.2.1
+
+Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
+- Bump docker/setup-buildx-action from 2.2.0 to 2.2.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.0 to 2.2.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.2.0...v2.2.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #30 from elcajon-tech/cloudflare/cloudflared-2022.10.1
 
 ⬆️ Update cloudflare/cloudflared to version 2022.10.1 
