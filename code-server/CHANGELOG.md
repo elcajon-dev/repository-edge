@@ -1,7 +1,25 @@
 # Changelog since v0.1.10
+- Merge pull request #32 from elcajon-tech/dependabot/pip/code-server/esphome-2022.10.0
+
+Bump esphome from 2022.9.4 to 2022.10.0 in /code-server 
+- Merge branch 'main' into dependabot/pip/code-server/esphome-2022.10.0 
 - Merge pull request #31 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.2.1
 
 Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
+- Bump esphome from 2022.9.4 to 2022.10.0 in /code-server
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2022.9.4 to 2022.10.0.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2022.9.4...2022.10.0)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump docker/setup-buildx-action from 2.2.0 to 2.2.1
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.0 to 2.2.1.
