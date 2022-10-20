@@ -1,7 +1,12 @@
 # Changelog since v0.1.10
+- Merge pull request #34 from elcajon-tech/mikefarah/yq-v4.28.2
+
+⬆️ Update mikefarah/yq to version v4.28.2 
+- Merge branch 'main' into mikefarah/yq-v4.28.2 
 - Merge pull request #33 from elcajon-tech/cloudflare/cloudflared-2022.10.2
 
 ⬆️ Update cloudflare/cloudflared to version 2022.10.2 
+- ℹ️ Update mikefarah/yq to version v4.28.2 
 - ℹ️ Update cloudflare/cloudflared to version 2022.10.2 
 - Merge pull request #32 from elcajon-tech/dependabot/pip/code-server/esphome-2022.10.0
 
