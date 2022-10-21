@@ -1,4 +1,8 @@
 # Changelog since v0.1.10
+- Merge pull request #35 from elcajon-tech/rclone/rclone-v1.60.0
+
+⬆️ Update rclone/rclone to version v1.60.0 
+- ℹ️ Update rclone/rclone to version v1.60.0 
 - Merge pull request #34 from elcajon-tech/mikefarah/yq-v4.28.2
 
 ⬆️ Update mikefarah/yq to version v4.28.2 
