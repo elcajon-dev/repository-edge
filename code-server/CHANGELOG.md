@@ -1,5 +1,8 @@
-# Changelog since v0.2.1
-- Merge pull request #39 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## 🚀 Enhancements
 
-Symlink Tailscale & Tailscaled to /usr/local/bin 
-- Symlink Tailscale & Tailscaled to /usr/local/bin 
+- Symlink Tailscale & Tailscaled to /usr/local/bin @elcajon (#39)
+
+## 🧰 Maintenance
+
+- Yamllint & set-output CI @elcajon (#40)
