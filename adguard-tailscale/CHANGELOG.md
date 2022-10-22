@@ -1,4 +1,8 @@
 # Changelog since v0.2.10
+- Merge pull request #55 from elcajon-tech/elcajon-patch-1
+
+Update bug_report.yml 
+- Update bug_report.yml 
 - Merge pull request #54 from elcajon-tech/elcajon-patch-4
 
 Ignore yamllint line-length 
