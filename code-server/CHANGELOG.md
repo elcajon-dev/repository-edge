@@ -1,4 +1,9 @@
 # Changelog since v0.1.10
+- Merge pull request #37 from elcajon-tech/tailscale/tailscale-v1.32.1
+
+⬆️ Update tailscale/tailscale to version v1.32.1 
+- ℹ️ Update tailscale/tailscale to version v1.32.1 
+- Add Caddyserver 
 - Merge pull request #35 from elcajon-tech/rclone/rclone-v1.60.0
 
 ⬆️ Update rclone/rclone to version v1.60.0 
