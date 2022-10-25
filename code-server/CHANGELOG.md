@@ -1,8 +1,5 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v0.2.2
+- Merge pull request #41 from elcajon-tech/coder/code-server-v4.8.0
 
-- Symlink Tailscale & Tailscaled to /usr/local/bin @elcajon (#39)
-
-## 🧰 Maintenance
-
-- Yamllint & set-output CI @elcajon (#40)
+⬆️ Update coder/code-server to version v4.8.0 
+- ℹ️ Update coder/code-server to version v4.8.0 
