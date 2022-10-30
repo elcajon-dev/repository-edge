@@ -21,4 +21,4 @@ schema:
 slug: nextdns
 startup: services
 url: https://github.com/elcajon-tech/addon-nextdns
-version: b970e33
+version: bd20ed1

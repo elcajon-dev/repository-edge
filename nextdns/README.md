@@ -29,5 +29,5 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b970e33-blue.svg
-[release]: https://github.com/elcajon-tech/addon-nextdns/tree/b970e33
+[release-shield]: https://img.shields.io/badge/version-bd20ed1-blue.svg
+[release]: https://github.com/elcajon-tech/addon-nextdns/tree/bd20ed1

@@ -1,3 +1,3 @@
-- Merge pull request #1 from elcajon-tech/elcajon-p1
+- Merge pull request #2 from elcajon-tech/elcajon-p2
 
-Change Arch
+Update Readme
