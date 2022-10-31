@@ -150,10 +150,10 @@ SOFTWARE.
 [nextdns-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nextdns-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [nextdns-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tailscale]: https://github.com/elcajon-tech/addon-tailscale/tree/74095cd
-[addon-doc-tailscale]: https://github.com/elcajon-tech/addon-tailscale/blob/74095cd/README.md
+[addon-tailscale]: https://github.com/elcajon-tech/addon-tailscale/tree/677adce
+[addon-doc-tailscale]: https://github.com/elcajon-tech/addon-tailscale/blob/677adce/README.md
 [tailscale-issue]: https://github.com/elcajon-tech/addon-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-74095cd-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-677adce-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

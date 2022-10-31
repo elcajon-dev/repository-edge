@@ -1,3 +1,6 @@
-- Merge pull request #2 from elcajon-tech/elcajon-p2
+# Changelog since v0.1.0
+- Merge pull request #3 from elcajon-tech/elcajon-p1
 
-Update CI
+Update Documentation 
+- Prettified Code! 
+- Update documentation 
