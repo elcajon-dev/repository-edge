@@ -1,9 +1,18 @@
-# Changelog since v0.2.4
-- Merge pull request #48 from elcajon-tech/home-assistant/cli-4.22.0
+# Changelog since v0.2.5
+- Merge pull request #49 from elcajon-tech/dependabot/pip/code-server/esphome-2022.10.2
 
-⬆️ Update home-assistant/cli to version 4.22.0 
-- ℹ️ Update home-assistant/cli to version 4.22.0 
-- Merge pull request #47 from elcajon-tech/mikefarah/yq-v4.29.2
+Bump esphome from 2022.10.1 to 2022.10.2 in /code-server 
+- Bump esphome from 2022.10.1 to 2022.10.2 in /code-server
 
-⬆️ Update mikefarah/yq to version v4.29.2 
-- ℹ️ Update mikefarah/yq to version v4.29.2 
+Bumps [esphome](https://github.com/esphome/esphome) from 2022.10.1 to 2022.10.2.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2022.10.1...2022.10.2)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
