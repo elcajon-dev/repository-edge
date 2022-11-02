@@ -28,19 +28,6 @@ https://github.com/elcajon-tech/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Adguard & Tailscale][addon-adguard-tailscale]
-
-![Latest Version][adguard-tailscale-version-shield]
-![Supports armhf Architecture][adguard-tailscale-armhf-shield]
-![Supports armv7 Architecture][adguard-tailscale-armv7-shield]
-![Supports aarch64 Architecture][adguard-tailscale-aarch64-shield]
-![Supports amd64 Architecture][adguard-tailscale-amd64-shield]
-![Supports i386 Architecture][adguard-tailscale-i386-shield]
-
-Zero config VPN and network wide ad-blocking
-
-[:books: Adguard & Tailscale add-on documentation][addon-doc-adguard-tailscale]
-
 ### &#10003; [Advanced Code Server][addon-code-server]
 
 ![Latest Version][code-server-version-shield]
@@ -81,7 +68,6 @@ based on the following:
 
 Got questions?
 
-- [Open an issue for the add-on: Adguard & Tailscale][adguard-tailscale-issue]
 - [Open an issue for the add-on: Advanced Code Server][code-server-issue]
 - [Open an issue for the add-on: Tailscale][tailscale-issue]
 
@@ -109,15 +95,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/tree/v0.2.13
-[addon-doc-adguard-tailscale]: https://github.com/elcajon-tech/addon-adguard-tailscale/blob/v0.2.13/README.md
-[adguard-tailscale-issue]: https://github.com/elcajon-tech/addon-adguard-tailscale/issues
-[adguard-tailscale-version-shield]: https://img.shields.io/badge/version-v0.2.13-blue.svg
-[adguard-tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[adguard-tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[adguard-tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[adguard-tailscale-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[adguard-tailscale-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-code-server]: https://github.com/elcajon-tech/addon-code-server/tree/1beace4
 [addon-doc-code-server]: https://github.com/elcajon-tech/addon-code-server/blob/1beace4/README.md
 [code-server-issue]: https://github.com/elcajon-tech/addon-code-server/issues
