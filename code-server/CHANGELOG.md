@@ -1,4 +1,8 @@
 # Changelog since v0.2.5
+- Merge pull request #50 from elcajon-tech/elcajon-patch-1
+
+Update ha completion command 
+- Update ha completion command 
 - Merge pull request #49 from elcajon-tech/dependabot/pip/code-server/esphome-2022.10.2
 
 Bump esphome from 2022.10.1 to 2022.10.2 in /code-server 
