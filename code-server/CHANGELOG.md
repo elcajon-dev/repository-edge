@@ -1,4 +1,8 @@
 # Changelog since v0.2.5
+- Merge pull request #51 from elcajon-tech/coder/code-server-v4.8.2
+
+⬆️ Update coder/code-server to version v4.8.2 
+- ℹ️ Update coder/code-server to version v4.8.2 
 - Merge pull request #50 from elcajon-tech/elcajon-patch-1
 
 Update ha completion command 
