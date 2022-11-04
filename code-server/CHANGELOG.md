@@ -1,26 +1,11 @@
-# Changelog since v0.2.5
-- Merge pull request #51 from elcajon-tech/coder/code-server-v4.8.2
+## What’s changed
+## 🐛 Bug fixes
 
-⬆️ Update coder/code-server to version v4.8.2 
-- ℹ️ Update coder/code-server to version v4.8.2 
-- Merge pull request #50 from elcajon-tech/elcajon-patch-1
+- Update ha completion command @elcajon (#50)
 
-Update ha completion command 
-- Update ha completion command 
-- Merge pull request #49 from elcajon-tech/dependabot/pip/code-server/esphome-2022.10.2
+## ⬆️ Dependency updates
 
-Bump esphome from 2022.10.1 to 2022.10.2 in /code-server 
-- Bump esphome from 2022.10.1 to 2022.10.2 in /code-server
-
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.10.1 to 2022.10.2.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.10.1...2022.10.2)
-
----
-updated-dependencies:
-- dependency-name: esphome
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump esphome from 2022.10.1 to 2022.10.2 in /code-server @dependabot (#49)
+- ⬆️ Update coder/code-server to version v4.8.2 @elcajon-bot (#51)
+- Upgrade base image to v6.1.3 @elcajon (#52)
+- ⬆️ Update code server extensions @elcajon (#53)
