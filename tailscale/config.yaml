@@ -6,7 +6,6 @@ description: Zero config VPN for building secure networks
 devices:
 - /dev/net/tun
 hassio_api: true
-hassio_role: manager
 host_network: true
 image: ghcr.io/elcajon-tech/tailscale/{arch}
 ingress: true
@@ -14,12 +13,12 @@ ingress_port: 0
 ingress_stream: true
 init: false
 map:
-- config:ro
-- share:ro
-- backup:ro
-- media:ro
-- addons:ro
-- ssl:ro
+- config:rw
+- share:rw
+- backup:rw
+- media:rw
+- addons:rw
+- ssl:rw
 name: Tailscale
 options:
   enable_proxy: true
@@ -37,4 +36,4 @@ schema:
 slug: tailscale
 startup: services
 url: https://github.com/elcajon-tech/addon-tailscale
-version: 0.1.4
+version: 093dbf5

@@ -1,4 +1,5 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.1.4
+- Merge pull request #7 from elcajon-tech/elcajon-p1
 
-- ⬆️ update base image to v12.2.6 @elcajon (#6)
+Map all HA folders with write access 
+- Map all folders with write access 
