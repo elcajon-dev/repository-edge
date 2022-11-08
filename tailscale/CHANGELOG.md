@@ -1,5 +1,4 @@
-# Changelog since v0.1.2
-- Merge pull request #5 from elcajon-tech/elcajon-p1
+## What’s changed
+## ⬆️ Dependency updates
 
-⬆️ Upgrade base image to v12.2.5 
-- ⬆️ Upgrade base image to v12.2.5 
+- ⬆️ update base image to v12.2.6 @elcajon (#6)
