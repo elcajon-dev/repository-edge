@@ -1,8 +1,5 @@
-## What’s changed
-## ✨ New features
+# Changelog since v0.2.0
+- Merge pull request #9 from elcajon-tech/elcajon-patch-1
 
-- Map all HA folders with write access @elcajon (#7)
-
-## 🚀 Enhancements
-
-- Update caddy proxy logic @elcajon (#8)
+Remove unused proxy option 
+- Remove unused proxy option 
