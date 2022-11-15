@@ -1,7 +1,5 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.2.7
+- Merge pull request #58 from elcajon-tech/mikefarah/yq-v4.30.4
 
-- ⬆️ Update coder/code-server to version v4.8.3 @elcajon-bot (#54)
-- ⬆️ Update home-assistant/cli to version 4.23.0 @elcajon-bot (#55)
-- ⬆️ Update mikefarah/yq to version v4.30.1 @elcajon-bot (#56)
-- ⬆️ Update mikefarah/yq to version v4.30.2 @elcajon-bot (#57)
+⬆️ Update mikefarah/yq to version v4.30.4 
+- ℹ️ Update mikefarah/yq to version v4.30.4 
