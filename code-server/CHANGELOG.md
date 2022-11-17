@@ -1,4 +1,8 @@
 # Changelog since v0.2.7
+- Merge pull request #60 from elcajon-tech/rclone/rclone-v1.60.1
+
+⬆️ Update rclone/rclone to version v1.60.1 
+- ℹ️ Update rclone/rclone to version v1.60.1 
 - Merge pull request #59 from elcajon-tech/dependabot/pip/code-server/esphome-2022.11.1
 
 Bump esphome from 2022.10.2 to 2022.11.1 in /code-server 
