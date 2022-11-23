@@ -1,4 +1,21 @@
 # Changelog since v0.2.8
+- Merge pull request #65 from elcajon-tech/dependabot/github_actions/frenck/action-addon-information-1.4.1
+
+Bump frenck/action-addon-information from 1.4.0 to 1.4.1 
+- Bump frenck/action-addon-information from 1.4.0 to 1.4.1
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.4.0 to 1.4.1.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.4.0...v1.4.1)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #64 from elcajon-tech/dependabot/github_actions/frenck/action-setup-cas-0.1.1
 
 Bump frenck/action-setup-cas from 0.1.0 to 0.1.1 
