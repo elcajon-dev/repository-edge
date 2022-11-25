@@ -1,4 +1,21 @@
 # Changelog since v0.2.8
+- Merge pull request #66 from elcajon-tech/dependabot/pip/code-server/esphome-2022.11.3
+
+Bump esphome from 2022.11.2 to 2022.11.3 in /code-server 
+- Bump esphome from 2022.11.2 to 2022.11.3 in /code-server
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2022.11.2 to 2022.11.3.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2022.11.2...2022.11.3)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #65 from elcajon-tech/dependabot/github_actions/frenck/action-addon-information-1.4.1
 
 Bump frenck/action-addon-information from 1.4.0 to 1.4.1 
