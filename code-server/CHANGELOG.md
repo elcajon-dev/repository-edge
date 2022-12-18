@@ -1,4 +1,12 @@
 # Changelog since v0.2.13
+- Merge pull request #81 from elcajon-tech/elcajon-patch-1
+
+⬆️ Update aptitude dependencies to latest version 
+- ⬆️ Update dependencies to latest version 
+- Merge pull request #79 from elcajon-tech/coder/code-server-v4.9.1
+
+⬆️ Update coder/code-server to version v4.9.1 
+- ℹ️ Update coder/code-server to version v4.9.1 
 - Merge pull request #78 from elcajon-tech/dependabot/pip/code-server/esphome-2022.12.1
 
 Bump esphome from 2022.12.0 to 2022.12.1 in /code-server 
