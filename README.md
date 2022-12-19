@@ -112,7 +112,7 @@ SOFTWARE.
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tailscale-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[tailscale-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[tailscale-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/elcajon-tech/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/elcajon-tech/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
