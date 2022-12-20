@@ -1,4 +1,5 @@
-## What’s changed
-## ✨ New features
+# Changelog since v0.4.0
+- Merge pull request #22 from elcajon-tech/elcajon-patch-2
 
-- Add Tailscale Funnel @elcajon (#20)
+Updates Release Updater to new Github action 
+- Updates Release Updater to new Github action 
