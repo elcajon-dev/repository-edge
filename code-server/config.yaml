@@ -31,4 +31,4 @@ slug: code-server
 startup: services
 uart: true
 url: https://github.com/elcajon-tech/addon-code-server
-version: 5f9bb49
+version: 73766ca

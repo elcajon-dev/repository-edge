@@ -1,4 +1,8 @@
 # Changelog since v0.2.14
+- Merge pull request #86 from elcajon-tech/coder/code-server-v4.9.1
+
+⬆️ Update coder/code-server to version v4.9.1 
+- ℹ️ Update coder/code-server to version v4.9.1 
 - Merge pull request #85 from elcajon-tech/elcajon-patch-1
 
 Downgrade test 
