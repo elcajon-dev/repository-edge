@@ -1,4 +1,8 @@
 # Changelog since v0.2.14
+- Merge pull request #85 from elcajon-tech/elcajon-patch-1
+
+Downgrade test 
+- Merge branch 'main' into elcajon-patch-1 
 - Merge pull request #83 from elcajon-tech/dependabot/pip/code-server/esphome-2022.12.2
 
 Bump esphome from 2022.12.1 to 2022.12.2 in /code-server 
@@ -16,6 +20,7 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
+- Update versions.json 
 - Merge pull request #84 from elcajon-tech/elcajon-patch-1
 
 Update GitHub get release action 
