@@ -1,4 +1,8 @@
 # Changelog since v0.4.0
+- Merge pull request #27 from elcajon-tech/elcajon-patch-1
+
+Yamllint 
+- Update deploy.yaml 
 - Merge pull request #26 from elcajon-tech/elcajon-patch-1
 
 Bugfix CAS API 
