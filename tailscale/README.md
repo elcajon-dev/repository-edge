@@ -29,5 +29,5 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a9ce662-blue.svg
-[release]: https://github.com/elcajon-tech/addon-tailscale/tree/a9ce662
+[release-shield]: https://img.shields.io/badge/version-51de017-blue.svg
+[release]: https://github.com/elcajon-tech/addon-tailscale/tree/51de017
