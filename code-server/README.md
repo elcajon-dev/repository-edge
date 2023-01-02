@@ -45,8 +45,8 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-c5f25ca-blue.svg
-[release]: https://github.com/elcajon-tech/addon-code-server/tree/c5f25ca
+[release-shield]: https://img.shields.io/badge/version-b6ab058-blue.svg
+[release]: https://github.com/elcajon-tech/addon-code-server/tree/b6ab058
 [hassio-addons]: https://github.com/hassio-addons/addon-vscode
