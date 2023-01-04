@@ -1,18 +1,5 @@
-# Changelog since v0.4.3
-- Merge pull request #34 from elcajon-tech/dependabot/github_actions/frenck/action-addon-information-1.4.2
+## What’s changed
+## ⬆️ Dependency updates
 
-Bump frenck/action-addon-information from 1.4.1 to 1.4.2 
-- Bump frenck/action-addon-information from 1.4.1 to 1.4.2
-
-Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.4.1 to 1.4.2.
-- [Release notes](https://github.com/frenck/action-addon-information/releases)
-- [Commits](https://github.com/frenck/action-addon-information/compare/v1.4.1...v1.4.2)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-information
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-information from 1.4.1 to 1.4.2 @dependabot (#34)
+- ⬆️ Update tailscale/tailscale to version v1.34.2 @elcajon-bot (#35)
