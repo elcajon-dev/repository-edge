@@ -1,4 +1,8 @@
 # Changelog since v0.2.19
+- Merge pull request #99 from elcajon-tech/mikefarah/yq-v4.30.7
+
+⬆️ Update mikefarah/yq to version v4.30.7 
+- ℹ️ Update mikefarah/yq to version v4.30.7 
 - Merge pull request #98 from elcajon-tech/dependabot/github_actions/frenck/action-yamllint-1.4
 
 Bump frenck/action-yamllint from 1.3 to 1.4 
