@@ -1,4 +1,8 @@
 # Changelog since v0.2.19
+- Merge pull request #100 from elcajon-tech/mikefarah/yq-v4.30.8
+
+⬆️ Update mikefarah/yq to version v4.30.8 
+- ℹ️ Update mikefarah/yq to version v4.30.8 
 - Merge pull request #99 from elcajon-tech/mikefarah/yq-v4.30.7
 
 ⬆️ Update mikefarah/yq to version v4.30.7 
