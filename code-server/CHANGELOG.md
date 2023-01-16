@@ -1,4 +1,8 @@
 # Changelog since v0.2.19
+- Merge pull request #102 from elcajon-tech/cloudflare/cloudflared-2023.1.0
+
+⬆️ Update cloudflare/cloudflared to version 2023.1.0 
+- ℹ️ Update cloudflare/cloudflared to version 2023.1.0 
 - Merge pull request #101 from elcajon-tech/dependabot/github_actions/docker/build-push-action-3.3.0
 
 Bump docker/build-push-action from 3.2.0 to 3.3.0 
