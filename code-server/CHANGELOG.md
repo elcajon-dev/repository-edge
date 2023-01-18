@@ -1,4 +1,13 @@
 # Changelog since v0.2.19
+- Merge pull request #105 from elcajon-tech/elcajon-p2
+
+Update config hash to latest 
+- Update config hash to latest 
+- Merge pull request #103 from elcajon-tech/elcajon-p2
+
+Elcajon-p2 
+- Prettified Code! 
+- Update settings.json 
 - Merge pull request #102 from elcajon-tech/cloudflare/cloudflared-2023.1.0
 
 ⬆️ Update cloudflare/cloudflared to version 2023.1.0 
