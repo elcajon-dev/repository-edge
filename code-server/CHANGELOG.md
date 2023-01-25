@@ -1,4 +1,8 @@
 # Changelog since v0.3.0
+- Merge pull request #110 from elcajon-tech/tailscale/tailscale-v1.36.0
+
+⬆️ Update tailscale/tailscale to version v1.36.0 
+- ℹ️ Update tailscale/tailscale to version v1.36.0 
 - Merge pull request #109 from elcajon-tech/dependabot/pip/code-server/esphome-2022.12.6
 
 Bump esphome from 2022.12.5 to 2022.12.6 in /code-server 
