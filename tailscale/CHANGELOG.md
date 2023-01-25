@@ -1,4 +1,8 @@
 # Changelog since v0.4.5
+- Merge pull request #41 from elcajon-tech/tailscale/tailscale-v1.36.0
+
+⬆️ Update tailscale/tailscale to version v1.36.0 
+- ℹ️ Update tailscale/tailscale to version v1.36.0 
 - Merge pull request #40 from elcajon-tech/elcajon-p1
 
 Update base image to v13.1.1 
