@@ -1,4 +1,8 @@
 # Changelog since v0.3.3
+- Merge pull request #125 from elcajon-tech/caddyserver/caddy-v2.6.4
+
+⬆️ Update caddyserver/caddy to version v2.6.4 
+- ℹ️ Update caddyserver/caddy to version v2.6.4 
 - Merge pull request #124 from elcajon-tech/dependabot/github_actions/actionshub/markdownlint-3.1.3
 
 Bump actionshub/markdownlint from 3.0.2 to 3.1.3 
