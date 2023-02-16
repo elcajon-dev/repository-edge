@@ -1,4 +1,8 @@
 # Changelog since v0.3.3
+- Merge pull request #127 from elcajon-tech/coder/code-server-v4.10.0
+
+⬆️ Update coder/code-server to version v4.10.0 
+- ℹ️ Update coder/code-server to version v4.10.0 
 - Merge pull request #126 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.1
 
 Bump esphome from 2022.12.8 to 2023.2.1 in /code-server 
