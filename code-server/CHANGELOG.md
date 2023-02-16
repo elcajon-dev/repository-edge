@@ -1,4 +1,21 @@
 # Changelog since v0.3.3
+- Merge pull request #126 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.1
+
+Bump esphome from 2022.12.8 to 2023.2.1 in /code-server 
+- Bump esphome from 2022.12.8 to 2023.2.1 in /code-server
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.8 to 2023.2.1.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2022.12.8...2023.2.1)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #125 from elcajon-tech/caddyserver/caddy-v2.6.4
 
 ⬆️ Update caddyserver/caddy to version v2.6.4 
