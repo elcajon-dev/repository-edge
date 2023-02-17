@@ -1,4 +1,21 @@
 # Changelog since v0.3.3
+- Merge pull request #128 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.2
+
+Bump esphome from 2023.2.1 to 2023.2.2 in /code-server 
+- Bump esphome from 2023.2.1 to 2023.2.2 in /code-server
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2023.2.1 to 2023.2.2.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2023.2.1...2023.2.2)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #127 from elcajon-tech/coder/code-server-v4.10.0
 
 ⬆️ Update coder/code-server to version v4.10.0 
