@@ -1,4 +1,15 @@
 # Changelog since v0.3.3
+- Merge pull request #132 from elcajon-tech/elcajon-p2
+
+Update base image to v6.2.2 
+- Merge branch 'main' into elcajon-p2 
+- Update openssl to 1.1.1n-0+deb11u4 
+- Merge pull request #131 from elcajon-tech/elcajon-p1
+
+Update Code Server extensions 
+- Update curl to 7.74.0-1.3+deb11u5 
+- Update base image to v6.2.2 
+- Update Code Server extensions 
 - Merge pull request #129 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.3
 
 Bump esphome from 2023.2.2 to 2023.2.3 in /code-server 
