@@ -1,7 +1,25 @@
 # Changelog since v0.3.3
+- Merge pull request #129 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.3
+
+Bump esphome from 2023.2.2 to 2023.2.3 in /code-server 
+- Merge branch 'main' into dependabot/pip/code-server/esphome-2023.2.3 
 - Merge pull request #130 from elcajon-tech/dependabot/github_actions/creyD/prettier_action-4.3
 
 Bump creyD/prettier_action from 4.2 to 4.3 
+- Bump esphome from 2023.2.2 to 2023.2.3 in /code-server
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2023.2.2 to 2023.2.3.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2023.2.2...2023.2.3)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump creyD/prettier_action from 4.2 to 4.3
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 4.2 to 4.3.
