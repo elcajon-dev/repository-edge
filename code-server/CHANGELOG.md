@@ -1,9 +1,18 @@
-# Changelog since v0.3.4
-- Merge pull request #134 from elcajon-tech/tailscale/tailscale-v1.36.2
+# Changelog since v0.3.5
+- Merge pull request #135 from elcajon-tech/dependabot/pip/code-server/esphome-2023.2.4
 
-⬆️ Update tailscale/tailscale to version v1.36.2 
-- ℹ️ Update tailscale/tailscale to version v1.36.2 
-- Merge pull request #133 from elcajon-tech/mikefarah/yq-v4.31.1
+Bump esphome from 2023.2.3 to 2023.2.4 in /code-server 
+- Bump esphome from 2023.2.3 to 2023.2.4 in /code-server
 
-⬆️ Update mikefarah/yq to version v4.31.1 
-- ℹ️ Update mikefarah/yq to version v4.31.1 
+Bumps [esphome](https://github.com/esphome/esphome) from 2023.2.3 to 2023.2.4.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2023.2.3...2023.2.4)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
