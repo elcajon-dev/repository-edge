@@ -1,5 +1,5 @@
-# Changelog since v0.3.6
-- Merge pull request #138 from elcajon-tech/mikefarah/yq-v4.31.2
+## What’s changed
+## ⬆️ Dependency updates
 
-⬆️ Update mikefarah/yq to version v4.31.2 
-- ℹ️ Update mikefarah/yq to version v4.31.2 
+- ⬆️ Update mikefarah/yq to version v4.31.2 @elcajon-bot (#138)
+- ⬆️ Update cloudflare/cloudflared to version 2023.3.0 @elcajon-bot (#139)
