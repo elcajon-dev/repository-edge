@@ -1,5 +1,5 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.3.7
+- Merge pull request #140 from elcajon-tech/coder/code-server-v4.10.1
 
-- ⬆️ Update mikefarah/yq to version v4.31.2 @elcajon-bot (#138)
-- ⬆️ Update cloudflare/cloudflared to version 2023.3.0 @elcajon-bot (#139)
+⬆️ Update coder/code-server to version v4.10.1 
+- ℹ️ Update coder/code-server to version v4.10.1 
