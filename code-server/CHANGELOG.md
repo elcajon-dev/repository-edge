@@ -1,4 +1,6 @@
-## What’s changed
-## ✨ New features
+# Changelog since v0.4.0
+- Merge pull request #143 from elcajon-tech/elcajon-patch-1
 
-- Add php and php-curl @elcajon (#142)
+Bugfix ctop link 
+- Update Dockerfile 
+- Bugfix ctop 
