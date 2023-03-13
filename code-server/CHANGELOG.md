@@ -1,4 +1,8 @@
 # Changelog since v0.4.0
+- Merge pull request #145 from elcajon-tech/cloudflare/cloudflared-2023.3.1
+
+⬆️ Update cloudflare/cloudflared to version 2023.3.1 
+- ℹ️ Update cloudflare/cloudflared to version 2023.3.1 
 - Merge pull request #144 from elcajon-tech/dependabot/github_actions/docker/setup-buildx-action-2.5.0
 
 Bump docker/setup-buildx-action from 2.4.1 to 2.5.0 
