@@ -1,5 +1,8 @@
-# Changelog since v0.4.12
-- Merge pull request #59 from elcajon-tech/tailscale/tailscale-v1.38.1
+## What’s changed
+## 🐛 Bug fixes
 
-⬆️ Update tailscale/tailscale to version v1.38.1 
-- ℹ️ Update tailscale/tailscale to version v1.38.1 
+- Update coding to v1.38.0 @elcajon (#60)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update tailscale/tailscale to version v1.38.1 @elcajon-bot (#59)
