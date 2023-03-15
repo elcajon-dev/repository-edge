@@ -1,3 +1,4 @@
-- Merge pull request #3 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## ⬆️ Dependency updates
 
-Fix Documentation
+- ⬆️ Update tailscale/tailscale to version v1.38.1 @elcajon-bot (#4)

@@ -36,7 +36,7 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-9f14529-blue.svg
-[release]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/tree/9f14529
+[release-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
+[release]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/tree/v0.1.1
 [mosquitto]: https://mosquitto.org
 [mosquitto-ha]: https://github.com/home-assistant/addons/tree/master/mosquitto
