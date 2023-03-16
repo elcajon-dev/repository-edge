@@ -1,8 +1,13 @@
 # Changelog since v0.4.2
+- Merge pull request #150 from elcajon-tech/coder/code-server-v4.11.0
+
+⬆️ Update coder/code-server to version v4.11.0 
+- Merge branch 'main' into coder/code-server-v4.11.0 
 - Merge pull request #151 from elcajon-tech/rclone/rclone-v1.62.2
 
 ⬆️ Update rclone/rclone to version v1.62.2 
 - ℹ️ Update rclone/rclone to version v1.62.2 
+- ℹ️ Update coder/code-server to version v4.11.0 
 - Merge pull request #149 from elcajon-tech/dependabot/pip/code-server/esphome-2023.3.0
 
 Bump esphome from 2023.2.4 to 2023.3.0 in /code-server 
