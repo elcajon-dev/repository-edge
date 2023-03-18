@@ -1,4 +1,8 @@
 # Changelog since v0.4.2
+- Merge pull request #152 from elcajon-tech/mikefarah/yq-v4.32.1
+
+⬆️ Update mikefarah/yq to version v4.32.1 
+- ℹ️ Update mikefarah/yq to version v4.32.1 
 - Merge pull request #150 from elcajon-tech/coder/code-server-v4.11.0
 
 ⬆️ Update coder/code-server to version v4.11.0 
