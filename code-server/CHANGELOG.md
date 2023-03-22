@@ -1,5 +1,5 @@
-# Changelog since v0.4.3
-- Merge pull request #153 from elcajon-tech/mikefarah/yq-v4.32.2
+## What’s changed
+## ⬆️ Dependency updates
 
-⬆️ Update mikefarah/yq to version v4.32.2 
-- ℹ️ Update mikefarah/yq to version v4.32.2 
+- ⬆️ Update mikefarah/yq to version v4.32.2 @elcajon-bot (#153)
+- Bump esphome from 2023.3.0 to 2023.3.1 in /code-server @dependabot (#154)
