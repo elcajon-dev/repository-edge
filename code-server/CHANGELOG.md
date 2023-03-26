@@ -1,4 +1,9 @@
 # Changelog since v0.4.5
+- Merge pull request #170 from elcajon-tech/elcajon-p1
+
+Remove dependabot 
+- Remove dependabot 
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.34.0 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.4 
 - Update renovate.json 
 - Update renovate.json 
