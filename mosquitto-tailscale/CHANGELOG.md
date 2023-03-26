@@ -1,4 +1,8 @@
 # Changelog since v0.1.2
+- Merge pull request #9 from elcajon-tech/elcajon-patch-1
+
+Delete renovate.json 
+- Delete renovate.json 
 - Merge pull request #7 from elcajon-tech/renovate/configure
 
 Configure Renovate 
