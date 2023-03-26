@@ -1,4 +1,5 @@
 # Changelog since v0.4.5
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.4 
 - Update renovate.json 
 - Update renovate.json 
 - Merge pull request #169 from elcajon-tech/elcajon-p1
