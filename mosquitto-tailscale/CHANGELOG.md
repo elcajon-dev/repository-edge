@@ -1,9 +1,5 @@
-## What’s changed
-## 🧰 Maintenance
+# Changelog since v0.1.3
+- Merge pull request #13 from elcajon-tech/elcajon-p1
 
-- Add renovate @elcajon (#8)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Bump peter-evans/enable-pull-request-automerge from 2 to 3 @dependabot (#6)
-- ⬆️ Update Add-on base image to v13.1.4 @renovate (#11)
+Remove dependabot 
+- Remove dependabot 
