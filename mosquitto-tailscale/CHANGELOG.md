@@ -1,4 +1,11 @@
 # Changelog since v0.1.2
+- Merge pull request #10 from elcajon-tech/renovate/configure
+
+Configure Renovate 
+- Prettified Code! 
+- Configure renovate 
+- Prettified Code! 
+- Add renovate.json 
 - Merge pull request #9 from elcajon-tech/elcajon-patch-1
 
 Delete renovate.json 
