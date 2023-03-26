@@ -1,4 +1,10 @@
 # Changelog since v0.1.2
+- Merge pull request #8 from elcajon-tech/elcajon-p1
+
+Add renovate 
+- Remove version file 
+- Prettified Code! 
+- Add renovate 
 - Merge pull request #6 from elcajon-tech/dependabot/github_actions/peter-evans/enable-pull-request-automerge-3
 
 Bump peter-evans/enable-pull-request-automerge from 2 to 3 
