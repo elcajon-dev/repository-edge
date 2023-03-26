@@ -1,4 +1,5 @@
 # Changelog since v0.6.1
+- ⬆️ Update Add-on base image to v13.1.4 
 - Merge pull request #64 from elcajon-tech/renovate/configure
 
 Configure Renovate 
