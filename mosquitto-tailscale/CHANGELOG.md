@@ -1,42 +1,9 @@
-# Changelog since v0.1.2
-- Merge pull request #10 from elcajon-tech/renovate/configure
+## What’s changed
+## 🧰 Maintenance
 
-Configure Renovate 
-- Prettified Code! 
-- Configure renovate 
-- Prettified Code! 
-- Add renovate.json 
-- Merge pull request #9 from elcajon-tech/elcajon-patch-1
+- Add renovate @elcajon (#8)
 
-Delete renovate.json 
-- Delete renovate.json 
-- Merge pull request #7 from elcajon-tech/renovate/configure
+## ⬆️ Dependency updates
 
-Configure Renovate 
-- Delete renovate.json 
-- Merge branch 'main' into renovate/configure 
-- Merge pull request #8 from elcajon-tech/elcajon-p1
-
-Add renovate 
-- Remove version file 
-- Prettified Code! 
-- Add renovate 
-- Prettified Code! 
-- Add renovate.json 
-- Merge pull request #6 from elcajon-tech/dependabot/github_actions/peter-evans/enable-pull-request-automerge-3
-
-Bump peter-evans/enable-pull-request-automerge from 2 to 3 
-- Bump peter-evans/enable-pull-request-automerge from 2 to 3
-
-Bumps [peter-evans/enable-pull-request-automerge](https://github.com/peter-evans/enable-pull-request-automerge) from 2 to 3.
-- [Release notes](https://github.com/peter-evans/enable-pull-request-automerge/releases)
-- [Commits](https://github.com/peter-evans/enable-pull-request-automerge/compare/v2...v3)
-
----
-updated-dependencies:
-- dependency-name: peter-evans/enable-pull-request-automerge
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
+- ⬆️ Bump peter-evans/enable-pull-request-automerge from 2 to 3 @dependabot (#6)
+- ⬆️ Update Add-on base image to v13.1.4 @renovate (#11)
