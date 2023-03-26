@@ -1,4 +1,14 @@
 # Changelog since v0.4.5
+- Merge pull request #169 from elcajon-tech/elcajon-p1
+
+Bugfix renovate version string 
+- Bugfix renovate version string 
+- Merge pull request #167 from elcajon-tech/elcajon-p1
+
+Update renovate version string 
+- Merge branch 'main' into elcajon-p1 
+- ⬆️ Update debian_11/git to v1:2.30.2-1+deb11u2 
+- Update renovate version string 
 - Merge pull request #158 from elcajon-tech/renovate/configure
 
 Configure Renovate 
