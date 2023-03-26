@@ -1,4 +1,11 @@
 # Changelog since v0.6.1
+- Merge pull request #64 from elcajon-tech/renovate/configure
+
+Configure Renovate 
+- Prettified Code! 
+- Update renovate config 
+- Prettified Code! 
+- Add renovate.json 
 - Merge pull request #63 from elcajon-tech/dependabot/github_actions/peter-evans/enable-pull-request-automerge-3
 
 Bump peter-evans/enable-pull-request-automerge from 2 to 3 
