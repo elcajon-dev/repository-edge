@@ -1,5 +1,5 @@
 name: Tailscale
-version: c578b23
+version: 5a155b3
 slug: tailscale
 description: Zero config VPN for building secure networks
 url: https://github.com/elcajon-tech/addon-tailscale
