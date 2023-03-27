@@ -1,4 +1,5 @@
 # Changelog since v0.4.5
+- ⬆️ Update esphome to v2023.3.2 
 - ⬆️ Update mikefarah/yq to v4.33.1 
 - ⬆️ Update microsoft/vscode-docker to v1.24.0 
 - Merge pull request #170 from elcajon-tech/elcajon-p1
