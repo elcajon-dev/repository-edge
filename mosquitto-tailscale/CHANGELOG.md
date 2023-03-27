@@ -1,4 +1,14 @@
 # Changelog since v0.1.3
+- Merge pull request #16 from elcajon-tech/elcajon-patch-1
+
+Fix docs link 
+- Fix docs link 
+- Merge pull request #15 from elcajon-tech/elcajon-patch-1
+
+Fix documentation links 
+- Prettified Code! 
+- Update DOCS.md 
+- Fix documentation links 
 - Merge pull request #13 from elcajon-tech/elcajon-p1
 
 Remove dependabot 
