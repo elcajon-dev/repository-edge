@@ -1,4 +1,10 @@
 # Changelog since v0.1.3
+- Merge pull request #18 from elcajon-tech/elcajon-p2
+
+Add documentation for Mosquitto-Bridging with Tailscale 
+- Documentation enhancements 
+- bugfix markdownlint 
+- Add bridge documentation 
 - Merge pull request #17 from elcajon-tech/elcajon-p1
 
 Add option to customize mosquitto configuration 
