@@ -1,4 +1,9 @@
 # Changelog since v0.1.3
+- Merge pull request #17 from elcajon-tech/elcajon-p1
+
+Add option to customize mosquitto configuration 
+- Bugfixes 
+- Add Customize options 
 - Merge pull request #16 from elcajon-tech/elcajon-patch-1
 
 Fix docs link 
