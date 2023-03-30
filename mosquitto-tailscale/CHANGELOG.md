@@ -1,6 +1,5 @@
-# Changelog since v0.2.0
-- Merge pull request #20 from elcajon-tech/renovate/tailscale-tailscale-1.x
+# Changelog since v0.2.1
+- Merge pull request #21 from elcajon-tech/renovate/add-on-base-image
 
-⬆️ Update tailscale/tailscale to v1.38.3 
-- ⬆️ Update tailscale/tailscale to v1.38.3 
-- ⬆️ Update Add-on base image to v13.1.5 
+⬆️ Update Add-on base image to v13.2.0 
+- ⬆️ Update Add-on base image to v13.2.0 
