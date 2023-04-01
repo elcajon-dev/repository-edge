@@ -1,4 +1,8 @@
 # Changelog since v0.4.8
+- Merge pull request #180 from elcajon-tech/elcajon-p2
+
+Add netcat=1.10-46 
+- Add netcat=1.10-46 
 - Merge pull request #179 from elcajon-tech/elcajon-patch-1
 
 Remove network options 
