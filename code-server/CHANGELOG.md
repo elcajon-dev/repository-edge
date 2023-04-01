@@ -1,4 +1,8 @@
 # Changelog since v0.4.8
+- Merge pull request #179 from elcajon-tech/elcajon-patch-1
+
+Remove network options 
+- Remove network options 
 - Merge pull request #178 from elcajon-tech/elcajon-patch-1
 
 Add networking devices 
