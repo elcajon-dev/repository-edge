@@ -1,5 +1,5 @@
-# Changelog since v0.2.1
-- Merge pull request #21 from elcajon-tech/renovate/add-on-base-image
+# Changelog since v0.2.2
+- Merge pull request #22 from elcajon-tech/elcajon-p1
 
-⬆️ Update Add-on base image to v13.2.0 
-- ⬆️ Update Add-on base image to v13.2.0 
+Close Renovate Issue if no updates available 
+- Close Renovate Issue if no updates available 
