@@ -1,4 +1,8 @@
 # Changelog since v0.5.2
+- Merge pull request #189 from elcajon-tech/elcajon-patch-1
+
+Exclude hidden custom services 
+- Exclude hidden custom services 
 - Merge pull request #188 from elcajon-tech/elcajon-p1
 
 ⬆️ Update usernamehw.errorlens to 3.9.0 
