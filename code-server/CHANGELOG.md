@@ -1,9 +1,8 @@
-# Changelog since v0.5.2
-- Merge pull request #189 from elcajon-tech/elcajon-patch-1
+## What’s changed
 
-Exclude hidden custom services 
-- Exclude hidden custom services 
-- Merge pull request #188 from elcajon-tech/elcajon-p1
+The custom service and script structure has been updated to s6 v3.
+If you used the function in the path you need to adapt your service definitions accordingly.
 
-⬆️ Update usernamehw.errorlens to 3.9.0 
-- ⬆️ Update usernamehw.errorlens to 3.9.0 
+## 🚨 Breaking changes
+
+- Change custom scripts to s6-rc v3 @elcajon (#190)
