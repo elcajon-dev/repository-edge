@@ -1,6 +1,5 @@
-# Changelog since v0.6.4
-- ⬆️ Update tailscale/tailscale to v1.38.4 
-- Merge pull request #71 from elcajon-tech/elcajon-p1
+# Changelog since v0.6.5
+- Merge pull request #73 from elcajon-tech/renovate/add-on-base-image
 
-Close Renovate Issue if no updates dangling 
-- Close Renovate Issue if no updates dangling 
+⬆️ Update Add-on base image to v13.2.1 
+- ⬆️ Update Add-on base image to v13.2.1 
