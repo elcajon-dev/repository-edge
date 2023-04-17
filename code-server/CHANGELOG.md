@@ -1,4 +1,2 @@
-## What’s changed
-## 🐛 Bug fixes
-
-- Fix file attributes @elcajon (#195)
+# Changelog since v1.1.1
+- ⬆️ Update microsoft/vscode-docker to v1.25.0 
