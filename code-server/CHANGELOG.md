@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #200 from elcajon-tech/elcajon-patch-1
+
+Bugfix renovate matching 
+- Bugfix renovate matching 
 - Merge pull request #199 from elcajon-tech/elcajon-p1
 
 Update renovate 
