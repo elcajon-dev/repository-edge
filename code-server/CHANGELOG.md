@@ -1,4 +1,5 @@
 # Changelog since v1.1.1
+- ⬆️ Update cdr/code-server to v4.12.0 
 - Merge pull request #200 from elcajon-tech/elcajon-patch-1
 
 Bugfix renovate matching 
