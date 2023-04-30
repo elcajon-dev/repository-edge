@@ -9,7 +9,7 @@ on:
 
 jobs:
   credentials:
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     steps:
       - name: Load secret
         id: op-load-secret
