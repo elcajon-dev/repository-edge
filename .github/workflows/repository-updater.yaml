@@ -7,7 +7,17 @@ on:
     types: ["update"]
 
 jobs:
+  credentials:
+    runs-on: ubuntu
+    steps:
+      - name: Load secret
+        id: op-load-secret
+        uses: 1password/load-secrets-action@v1
+        env:
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+          GITHUB_TOKEN: op://CI/github-token/secret
   workflows:
+    needs: credentials
     uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
     secrets:
-      UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
+      UPDATER_TOKEN: ${{ needs.credentials.steps.op-load-secret.GITHUB_TOKEN }}
