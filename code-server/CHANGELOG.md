@@ -1,4 +1,5 @@
 # Changelog since v1.1.2
+- ⬆️ Update pkief/vscode-material-icon-theme to v4.27.0 
 - ⬆️ Update debian_11/mariadb-client to v1:10.5.19-0+deb11u2 
 - ⬆️ Update esphome to v2023.4.2 
 - Merge pull request #207 from elcajon-tech/renovate/tailscale-tailscale-1.x
