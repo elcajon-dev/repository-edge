@@ -20,10 +20,10 @@ jobs:
         uses: 1password/load-secrets-action@v1
         env:
           OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          GITHUB_TOKEN: op://CI/github-token/Anmeldedaten
+          SECRET_TOKEN: op://CI/github-token/Anmeldedaten
       - name: 🚀 Run Repository Updater
         uses: hassio-addons/repository-updater@v1.2.5
         with:
           addon: ${{ github.event.client_payload.addon }}
           repository: ${{ github.repository }}
-          token: ${{ steps.op-load-secret.outputs.GITHUB_TOKEN }}
+          token: ${{ steps.op-load-secret.outputs.SECRET_TOKEN }}
