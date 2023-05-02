@@ -1,4 +1,5 @@
 # Changelog since v1.1.2
+- ⬆️ Update cloudflare/cloudflared to v2023.5.0 
 - ⬆️ Update home-assistant/cli to v4.24.0 
 - ⬆️ Update pkief/vscode-material-icon-theme to v4.27.0 
 - ⬆️ Update debian_11/mariadb-client to v1:10.5.19-0+deb11u2 
