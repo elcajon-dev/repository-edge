@@ -1,7 +1,8 @@
-# Changelog since v0.6.7
-- Merge pull request #79 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## ⬆️ Dependency updates
 
-Update alpine v.3.18 
-- Update alpine v.3.18 
-- Merge pull request #77 from elcajon-tech/renovate/tailscale-tailscale-1.x 
-- ⬆️ Update tailscale/tailscale to v1.40.1 
+- ⬆️ Update tailscale/tailscale to v1.40.1 @renovate (#77)
+- Update alpine v.3.18 @elcajon (#79)
+- ⬆️ Update alpine_3_18/ip6tables to v1.8.9-r2 @renovate (#80)
+- ⬆️ Update alpine_3_18/ipcalc to v1.0.2-r0 @renovate (#81)
+- ⬆️ Update Add-on base image to v14 (major) @renovate (#78)
