@@ -1,4 +1,6 @@
 # Changelog since v1.1.4
+- Merge pull request #223 from elcajon-tech/renovate/esphome-2023.x 
+- ⬆️ Update esphome to v2023.5.1 
 - ⬆️ Update esphome to v2023.5.0 
 - ⬆️ Update microsoft/vscode-docker to v1.25.1 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.7 
