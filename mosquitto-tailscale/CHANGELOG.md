@@ -1,8 +1,6 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v0.2.6
+- Merge pull request #33 from elcajon-tech/renovate/frenck-action-addon-linter-2.x
 
-- ⬆️ Update tailscale/tailscale to v1.40.1 @renovate (#28)
-- Update alpine v.3.18 @elcajon (#30)
-- ⬆️ Update alpine_3_18/ip6tables to v1.8.9-r2 @renovate (#31)
-- ⬆️ Update alpine_3_18/ipcalc to v1.0.2-r0 @renovate (#32)
-- ⬆️ Update Add-on base image to v14 (major) @renovate (#29)
+⬆️ Update frenck/action-addon-linter action to v2.13 
+- remove watchdog 
+- ⬆️ Update frenck/action-addon-linter action to v2.13 
