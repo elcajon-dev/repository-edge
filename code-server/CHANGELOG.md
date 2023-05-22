@@ -1,4 +1,6 @@
 # Changelog since v1.1.5
+- Merge pull request #228 from elcajon-tech/renovate/esphome-2023.x 
+- ⬆️ Update esphome to v2023.5.2 
 - Merge pull request #226 from elcajon-tech/renovate/frenck-action-addon-linter-2.x
 
 ⬆️ Update frenck/action-addon-linter action to v2.13 
