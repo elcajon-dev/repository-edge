@@ -1,4 +1,8 @@
 # Changelog since v1.1.5
+- Merge pull request #229 from elcajon-tech/renovate/yamllint-1.x
+
+⬆️ Update yamllint to v1.32.0 
+- ⬆️ Update yamllint to v1.32.0 
 - Merge pull request #228 from elcajon-tech/renovate/esphome-2023.x 
 - ⬆️ Update esphome to v2023.5.2 
 - Merge pull request #226 from elcajon-tech/renovate/frenck-action-addon-linter-2.x
