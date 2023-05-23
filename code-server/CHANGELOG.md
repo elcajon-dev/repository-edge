@@ -1,4 +1,5 @@
 # Changelog since v1.1.5
+- ⬆️ Update esphome to v2023.5.3 
 - Merge pull request #229 from elcajon-tech/renovate/yamllint-1.x
 
 ⬆️ Update yamllint to v1.32.0 
