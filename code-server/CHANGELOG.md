@@ -1,18 +1,14 @@
-# Changelog since v1.1.5
-- ⬆️ Update mikefarah/yq to v4.34.1 
-- ⬆️ Update esphome to v2023.5.3 
-- Merge pull request #229 from elcajon-tech/renovate/yamllint-1.x
+## What’s changed
+## 🧰 Maintenance
 
-⬆️ Update yamllint to v1.32.0 
-- ⬆️ Update yamllint to v1.32.0 
-- Merge pull request #228 from elcajon-tech/renovate/esphome-2023.x 
-- ⬆️ Update esphome to v2023.5.2 
-- Merge pull request #226 from elcajon-tech/renovate/frenck-action-addon-linter-2.x
+- Disable auto close renovate Dashboard @elcajon (#232)
 
-⬆️ Update frenck/action-addon-linter action to v2.13 
-- ⬆️ Update frenck/action-addon-linter action to v2.13 
-- Merge pull request #227 from elcajon-tech/renovate/home-assistant-cli-4.x
+## ⬆️ Dependency updates
 
-⬆️ Update home-assistant/cli to v4.25.0 
-- ⬆️ Update home-assistant/cli to v4.25.0 
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.36.0 
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.36.0 @renovate (#225)
+- ⬆️ Update home-assistant/cli to v4.25.0 @renovate (#227)
+- ⬆️ Update frenck/action-addon-linter action to v2.13 @renovate (#226)
+- ⬆️ Update esphome to v2023.5.2 @renovate (#228)
+- ⬆️ Update yamllint to v1.32.0 @renovate (#229)
+- ⬆️ Update esphome to v2023.5.3 @renovate (#230)
+- ⬆️ Update mikefarah/yq to v4.34.1 @renovate (#231)
