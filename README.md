@@ -118,10 +118,10 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mosquitto-tailscale]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/tree/1d88abb
-[addon-doc-mosquitto-tailscale]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/blob/1d88abb/README.md
+[addon-mosquitto-tailscale]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/tree/e7f24c4
+[addon-doc-mosquitto-tailscale]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/blob/e7f24c4/README.md
 [mosquitto-tailscale-issue]: https://github.com/elcajon-tech/addon-mosquitto-tailscale/issues
-[mosquitto-tailscale-version-shield]: https://img.shields.io/badge/version-1d88abb-blue.svg
+[mosquitto-tailscale-version-shield]: https://img.shields.io/badge/version-e7f24c4-blue.svg
 [mosquitto-tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mosquitto-tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mosquitto-tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
