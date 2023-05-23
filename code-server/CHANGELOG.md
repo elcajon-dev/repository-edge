@@ -1,4 +1,5 @@
 # Changelog since v1.1.5
+- ⬆️ Update mikefarah/yq to v4.34.1 
 - ⬆️ Update esphome to v2023.5.3 
 - Merge pull request #229 from elcajon-tech/renovate/yamllint-1.x
 
