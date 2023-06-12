@@ -1,5 +1,5 @@
 name: Mosquitto & Tailscale
-version: 28e7e5d
+version: dab4521
 slug: mosquitto-tailscale
 description: Open source MQTT broker combined with zero config VPN
 url: https://github.com/elcajon-tech/addon-mosquitto-tailscale
