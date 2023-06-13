@@ -127,10 +127,10 @@ SOFTWARE.
 [mosquitto-tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mosquitto-tailscale-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mosquitto-tailscale-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tailscale]: https://github.com/elcajon-tech/addon-tailscale/tree/5619406
-[addon-doc-tailscale]: https://github.com/elcajon-tech/addon-tailscale/blob/5619406/README.md
+[addon-tailscale]: https://github.com/elcajon-tech/addon-tailscale/tree/099e2fd
+[addon-doc-tailscale]: https://github.com/elcajon-tech/addon-tailscale/blob/099e2fd/README.md
 [tailscale-issue]: https://github.com/elcajon-tech/addon-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-5619406-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-099e2fd-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
