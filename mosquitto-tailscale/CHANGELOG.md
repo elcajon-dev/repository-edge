@@ -1,4 +1,8 @@
 # Changelog since v0.2.8
+- Merge pull request #41 from elcajon-tech/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v14.0.1 
+- ⬆️ Update Add-on base image to v14.0.1 
 - Merge pull request #40 from elcajon-tech/elcajon-patch-1
 
 Add CI queue 
