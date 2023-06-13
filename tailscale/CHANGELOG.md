@@ -1,4 +1,8 @@
 # Changelog since v0.6.11
+- Merge pull request #95 from elcajon-tech/renovate/docker-setup-buildx-action-2.x
+
+⬆️ Update docker/setup-buildx-action action to v2.7.0 
+- ⬆️ Update docker/setup-buildx-action action to v2.7.0 
 - Merge pull request #94 from elcajon-tech/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v14.0.1 
