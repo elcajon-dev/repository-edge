@@ -1,4 +1,8 @@
 # Changelog since v1.1.10
+- Merge pull request #249 from elcajon-tech/renovate/davidanson-vscode-markdownlint-0.x
+
+⬆️ Update DavidAnson/vscode-markdownlint to v0.51.0 
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.51.0 
 - Merge pull request #247 from elcajon-tech/renovate/docker-setup-buildx-action-2.x
 
 ⬆️ Update docker/setup-buildx-action action to v2.7.0 
