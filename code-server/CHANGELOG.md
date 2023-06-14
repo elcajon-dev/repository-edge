@@ -1,4 +1,8 @@
 # Changelog since v1.1.10
+- Merge pull request #250 from elcajon-tech/elcajon-patch-1
+
+Change CI caching 
+- Change CI caching 
 - Merge pull request #248 from elcajon-tech/renovate/major-add-on-base-image
 
 ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7 
