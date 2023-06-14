@@ -1,4 +1,8 @@
 # Changelog since v1.1.10
+- Merge pull request #251 from elcajon-tech/elcajon-patch-1
+
+Update Dependencies 
+- Update Dependencies 
 - Merge pull request #250 from elcajon-tech/elcajon-patch-1
 
 Change CI caching 
