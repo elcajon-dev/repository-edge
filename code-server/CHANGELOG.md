@@ -1,4 +1,6 @@
 # Changelog since v1.1.10
+- Merge pull request #253 from elcajon-tech/renovate/cdr-code-server-4.x 
+- ⬆️ Update cdr/code-server to v4.14.0 
 - Merge pull request #252 from elcajon-tech/renovate/cloudflare-cloudflared-2023.x 
 - ⬆️ Update cloudflare/cloudflared to v2023.6.0 
 - Merge pull request #251 from elcajon-tech/elcajon-patch-1
