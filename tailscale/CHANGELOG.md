@@ -1,4 +1,9 @@
 # Changelog since v0.6.12
+- Merge pull request #99 from elcajon-tech/elcajon-patch-1
+
+Update CI to use 1Password secrets 
+- Update deploy.yaml 
+- Update CI to use 1Password secrets 
 - Merge pull request #98 from elcajon-tech/elcajon-p1
 
 Make userspace_networking configurable 
