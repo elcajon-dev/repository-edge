@@ -1,9 +1,8 @@
-# Changelog since v0.2.9
-- Merge pull request #45 from elcajon-tech/elcajon-p1
+## What’s changed
+## 🧰 Maintenance
 
-Update secrets to use 1Password 
-- Update secrets to use 1Password 
-- Merge pull request #44 from elcajon-tech/renovate/add-on-base-image
+- Update secrets to use 1Password @elcajon (#45)
 
-⬆️ Update Add-on base image to v14.0.2 
-- ⬆️ Update Add-on base image to v14.0.2 
+## ⬆️ Dependency updates
+
+- ⬆️ Update Add-on base image to v14.0.2 @renovate (#44)
