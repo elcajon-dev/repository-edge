@@ -8,20 +8,7 @@ on:
     types: ["update"]
 
 jobs:
-  secrets:
-    runs-on: ubuntu-latest
-    outputs:
-      UPDATER_TOKEN: ${{ steps.op-load-secret.outputs.UPDATER_TOKEN }}
-    steps:
-      - name: 🔐 Load secrets
-        id: op-load-secret
-        uses: 1password/load-secrets-action@v1
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          UPDATER_TOKEN: "op://CI/Github Token/Anmeldedaten"
   workflows:
     uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
-    needs:
-      - secrets
     secrets:
-      UPDATER_TOKEN: ${{ needs.secrets.outputs.UPDATER_TOKEN }}
+      UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
