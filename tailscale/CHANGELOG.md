@@ -1,12 +1,12 @@
-# Changelog since v0.6.12
-- Merge pull request #99 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## 🚀 Enhancements
 
-Update CI to use 1Password secrets 
-- Update deploy.yaml 
-- Update CI to use 1Password secrets 
-- Merge pull request #98 from elcajon-tech/elcajon-p1
+- Make userspace_networking configurable @elcajon (#98)
 
-Make userspace_networking configurable 
-- Make userspace_networking configurable 
-- Merge pull request #97 from elcajon-tech/renovate/add-on-base-image 
-- ⬆️ Update Add-on base image to v14.0.2 
+## 🧰 Maintenance
+
+- Update CI to use 1Password secrets @elcajon (#99)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update Add-on base image to v14.0.2 @renovate (#97)
