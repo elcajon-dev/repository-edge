@@ -25,4 +25,4 @@ jobs:
         with:
           addon: ${{ github.event.client_payload.addon }}
           repository: ${{ github.repository }}
-          token: $UPDATER_TOKEN
+          token: ${{ UPDATER_TOKEN }}
