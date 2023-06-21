@@ -1,12 +1,5 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v0.6.13
+- Merge pull request #100 from elcajon-tech/renovate/tailscale-tailscale-1.x
 
-- Make userspace_networking configurable @elcajon (#98)
-
-## 🧰 Maintenance
-
-- Update CI to use 1Password secrets @elcajon (#99)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update Add-on base image to v14.0.2 @renovate (#97)
+⬆️ Update tailscale/tailscale to v1.44.0 
+- ⬆️ Update tailscale/tailscale to v1.44.0 
