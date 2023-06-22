@@ -1,6 +1,5 @@
-# Changelog since v1.1.12
-- Merge pull request #258 from elcajon-tech/renovate/tailscale-tailscale-1.x
+# Changelog since v1.1.13
+- Merge pull request #259 from elcajon-tech/renovate/esphome-2023.x
 
-⬆️ Update tailscale/tailscale to v1.44.0 
-- ⬆️ Update tailscale/tailscale to v1.44.0 
-- ⬆️ Update prettier/prettier-vscode to v9.15.0 
+⬆️ Update esphome to v2023.6.0 
+- ⬆️ Update esphome to v2023.6.0 
