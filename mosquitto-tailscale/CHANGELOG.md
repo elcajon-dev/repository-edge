@@ -1,3 +1,5 @@
-# Changelog since v0.2.10
-- Merge pull request #46 from elcajon-tech/renovate/tailscale-tailscale-1.x 
-- ⬆️ Update tailscale/tailscale to v1.44.0 
+# Changelog since v0.2.11
+- Merge pull request #47 from elcajon-tech/elcajon-p1
+
+Update CI to use app token instead of PAT 
+- Update CI to use app token instead of PAT 
