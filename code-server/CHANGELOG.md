@@ -1,4 +1,5 @@
 # Changelog since v1.1.13
+- ⬆️ Update esphome to v2023.6.1 
 - Merge pull request #260 from elcajon-tech/renovate/prettier-prettier-vscode-9.x
 
 ⬆️ Update prettier/prettier-vscode to v9.16.0 
