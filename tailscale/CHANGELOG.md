@@ -1,5 +1,8 @@
-# Changelog since v0.6.13
-- Merge pull request #100 from elcajon-tech/renovate/tailscale-tailscale-1.x
+# Changelog since v0.6.14
+- Merge pull request #101 from elcajon-tech/elcajon-p1
 
-⬆️ Update tailscale/tailscale to v1.44.0 
-- ⬆️ Update tailscale/tailscale to v1.44.0 
+Update CI secrets to use app instead of PAT 
+- bugfix 
+- Prettified Code! 
+- bugfix ci 
+- Update Prettier CI 
