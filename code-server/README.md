@@ -47,6 +47,6 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a03dc20-blue.svg
-[release]: https://github.com/elcajon-tech/addon-code-server/tree/a03dc20
+[release-shield]: https://img.shields.io/badge/version-80cf51d-blue.svg
+[release]: https://github.com/elcajon-tech/addon-code-server/tree/80cf51d
 [hassio-addons]: https://github.com/hassio-addons/addon-vscode
