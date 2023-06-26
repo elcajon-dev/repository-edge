@@ -1,10 +1,5 @@
-# Changelog since v1.1.15
-- Merge pull request #266 from elcajon-tech/elcajon-patch-1
+# Changelog since v1.2.0
+- Merge pull request #267 from elcajon-tech/renovate/cdr-code-server-4.x
 
-Add appdaemon and hass-apps packages 
-- Update README.md 
-- Add appdaemon and hass-apps packages 
-- Merge pull request #265 from elcajon-tech/renovate/esphome-esphome-vscode-2023.x
-
-⬆️ Update esphome/esphome-vscode to v2023.6.0 
-- ⬆️ Update esphome/esphome-vscode to v2023.6.0 
+⬆️ Update cdr/code-server to v4.14.1 
+- ⬆️ Update cdr/code-server to v4.14.1 
