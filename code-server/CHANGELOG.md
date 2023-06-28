@@ -1,4 +1,5 @@
 # Changelog since v1.2.0
+- ⬆️ Update docker/setup-buildx-action action to v2.8.0 
 - Merge pull request #268 from elcajon-tech/elcajon-patch-1
 
 Add Healthcheck 
