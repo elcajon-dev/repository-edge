@@ -1,4 +1,5 @@
 # Changelog since v1.2.0
+- ⬆️ Update prettier/prettier-vscode to v9.19.0 
 - ⬆️ Update esphome to v2023.6.3 
 - ⬆️ Update docker/setup-buildx-action action to v2.8.0 
 - Merge pull request #268 from elcajon-tech/elcajon-patch-1
