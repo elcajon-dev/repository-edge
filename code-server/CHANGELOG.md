@@ -1,4 +1,12 @@
 # Changelog since v1.2.0
+- Merge pull request #273 from elcajon-tech/elcajon-patch-1
+
+Update health check 
+- Update health check 
+- Merge pull request #272 from elcajon-tech/renovate/rclone-rclone-1.x
+
+⬆️ Update rclone/rclone to v1.63.0 
+- ⬆️ Update rclone/rclone to v1.63.0 
 - ⬆️ Update prettier/prettier-vscode to v9.19.0 
 - ⬆️ Update esphome to v2023.6.3 
 - ⬆️ Update docker/setup-buildx-action action to v2.8.0 
