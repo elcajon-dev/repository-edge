@@ -1,9 +1,5 @@
-# Changelog since v0.2.11
-- Merge pull request #48 from elcajon-tech/elcajon-patch-1
+# Changelog since v0.2.12
+- Merge pull request #49 from elcajon-tech/renovate/docker-setup-buildx-action-2.x
 
-Update ci concurrency 
-- Update ci concurrency 
-- Merge pull request #47 from elcajon-tech/elcajon-p1
-
-Update CI to use app token instead of PAT 
-- Update CI to use app token instead of PAT 
+⬆️ Update docker/setup-buildx-action action to v2.8.0 
+- ⬆️ Update docker/setup-buildx-action action to v2.8.0 
