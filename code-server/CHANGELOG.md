@@ -1,4 +1,6 @@
 # Changelog since v1.3.0
+- Merge pull request #276 from elcajon-tech/renovate/1password-load-secrets-action-1.x 
+- ⬆️ Update 1password/load-secrets-action action to v1.3.0 
 - ⬆️ Update home-assistant/cli to v4.27.0 
 - Merge pull request #274 from elcajon-tech/renovate/esphome-2023.x
 
