@@ -1,4 +1,5 @@
 # Changelog since v1.3.0
+- ⬆️ Update docker/setup-buildx-action action to v2.9.0 
 - Merge pull request #277 from elcajon-tech/renovate/1password-load-secrets-action-1.x 
 - ⬆️ Update 1password/load-secrets-action action to v1.3.1 
 - Merge pull request #276 from elcajon-tech/renovate/1password-load-secrets-action-1.x 
