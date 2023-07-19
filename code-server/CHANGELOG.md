@@ -1,4 +1,5 @@
 # Changelog since v1.3.2
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.37.0 
 - ⬆️ Update esphome to v2023.7.0 
 - ⬆️ Update tailscale/tailscale to v1.44.2 
 - ⬆️ Update rclone/rclone to v1.63.1 
