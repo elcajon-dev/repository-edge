@@ -1,9 +1,5 @@
-# Changelog since v1.3.2
-- ⬆️ Update esphome/esphome-vscode to v2023.7.0 
-- ⬆️ Update tailscale/tailscale to v1.46.0 
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.37.0 
-- ⬆️ Update esphome to v2023.7.0 
-- ⬆️ Update tailscale/tailscale to v1.44.2 
-- ⬆️ Update rclone/rclone to v1.63.1 
-- ⬆️ Update microsoft/vscode-docker to v1.26.0 
-- ⬆️ Update cloudflare/cloudflared to v2023.7.1 
+# Changelog since v1.3.3
+- Merge pull request #293 from elcajon-tech/elcajon-patch-1
+
+Update code-server extensions 
+- Update code-server extensions 
