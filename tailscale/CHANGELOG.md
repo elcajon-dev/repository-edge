@@ -1,4 +1,5 @@
-# Changelog since v0.6.17
-- ⬆️ Update tailscale/tailscale to v1.46.0 
-- ⬆️ Update tailscale/tailscale to v1.44.2 
-- ⬆️ Update Add-on base image to v14.0.3 
+# Changelog since v0.6.18
+- Merge pull request #111 from elcajon-tech/elcajon-patch-1
+
+Update script for HTTPS Core proxy 
+- Update script for HTTPS Core proxy 
