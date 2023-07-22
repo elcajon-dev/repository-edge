@@ -1,5 +1,9 @@
-# Changelog since v1.3.3
-- Merge pull request #293 from elcajon-tech/elcajon-patch-1
+## What’s changed
+## 🚨 Breaking changes
 
-Update code-server extensions 
-- Update code-server extensions 
+- Remove aarch64 @elcajon (#295)
+
+## ⬆️ Dependency updates
+
+- Update code-server extensions @elcajon (#293)
+- ⬆️ Update cdr/code-server to v4.15.0 @renovate (#294)
