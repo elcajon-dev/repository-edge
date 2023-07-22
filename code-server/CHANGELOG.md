@@ -1,9 +1,6 @@
-## What’s changed
-## 🚨 Breaking changes
+# Changelog since v2.0.0
+- Merge pull request #296 from elcajon/elcajon-p1
 
-- Remove aarch64 @elcajon (#295)
-
-## ⬆️ Dependency updates
-
-- Update code-server extensions @elcajon (#293)
-- ⬆️ Update cdr/code-server to v4.15.0 @renovate (#294)
+Update Documentation URL 
+- Update 1password 
+- Update Documentation URL 
