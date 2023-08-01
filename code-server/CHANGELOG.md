@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.39.0 
 - ⬆️ Update esphome to v2023.7.1 
 - ⬆️ Update cdr/code-server to v4.16.1 
 - Merge pull request #307 from elcajon/renovate/prettier-prettier-vscode-10.x
