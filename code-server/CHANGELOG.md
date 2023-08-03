@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- ⬆️ Update caddyserver/caddy to v2.7.2 
 - ⬆️ Update caddyserver/caddy to v2.7.1 
 - ⬆️ Update caddyserver/caddy to v2.7.0 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v1.39.0 
