@@ -1,2 +1,2 @@
-# Changelog since v2.1.1
-- ⬆️ Update mikefarah/yq to v4.35.1 
+# Changelog since v2.1.2
+- ⬆️ Update tailscale/tailscale to v1.48.0 
