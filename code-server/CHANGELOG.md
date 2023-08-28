@@ -1,4 +1,6 @@
 # Changelog since v2.1.4
+- ⬆️ Update cloudflare/cloudflared to v2023.8.1 
+- ⬆️ Update pkief/vscode-material-icon-theme to v4.30.0 
 - Update Dockerfile 
 - ⬆️ Update aur/1password-cli to v2.20.0-1 
 - Merge pull request #327 from elcajon/renovate/homebrew_casks-1password-cli-2.x
