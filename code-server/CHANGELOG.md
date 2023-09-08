@@ -1,4 +1,5 @@
 # Changelog since v2.1.5
+- ⬆️ Update docker/build-push-action action to v4.2.1 
 - ⬆️ Update docker/build-push-action action to v4.2.0 
 - ⬆️ Update esphome to v2023.8.3 
 - Merge pull request #331 from elcajon/renovate/actions-checkout-4.x
