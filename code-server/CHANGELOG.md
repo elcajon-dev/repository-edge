@@ -1,10 +1,21 @@
-# Changelog since v2.1.5
-- ⬆️ Update docker/build-push-action action to v4.2.1 
-- ⬆️ Update docker/build-push-action action to v4.2.0 
-- ⬆️ Update esphome to v2023.8.3 
-- Merge pull request #331 from elcajon/renovate/actions-checkout-4.x
+# Changelog since v2.1.6
+- Merge pull request #342 from elcajon/renovate/docker-login-action-3.x
 
-⬆️ Update actions/checkout action to v4 
-- ⬆️ Update actions/checkout action to v4 
-- ⬆️ Update cloudflare/cloudflared to v2023.8.2 
-- ⬆️ Update pkief/vscode-material-icon-theme to v4.30.1 
+⬆️ Update docker/login-action action to v3 
+- ⬆️ Update docker/login-action action to v3 
+- Merge pull request #344 from elcajon/renovate/docker-setup-qemu-action-3.x
+
+⬆️ Update docker/setup-qemu-action action to v3 
+- ⬆️ Update docker/setup-qemu-action action to v3 
+- Merge pull request #340 from elcajon/renovate/docker-build-push-action-5.x
+
+⬆️ Update docker/build-push-action action to v5 
+- ⬆️ Update docker/build-push-action action to v5 
+- Merge pull request #341 from elcajon/elcajon-patch-1
+
+Update deploy.yaml 
+- Update deploy.yaml 
+- Merge pull request #339 from elcajon/elcajon-patch-1-1
+
+Update translation 
+- Update translation 
