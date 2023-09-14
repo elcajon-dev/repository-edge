@@ -1,4 +1,8 @@
 # Changelog since v2.1.6
+- Merge pull request #343 from elcajon/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3 
+- ⬆️ Update docker/setup-buildx-action action to v3 
 - Merge pull request #342 from elcajon/renovate/docker-login-action-3.x
 
 ⬆️ Update docker/login-action action to v3 
