@@ -1,4 +1,5 @@
 # Changelog since v2.1.7
+- ⬆️ Update cdr/code-server to v4.17.0 
 - ⬆️ Update mikefarah/yq to v4.35.2 
 - Merge pull request #353 from elcajon/elcajon-patch-1
 
