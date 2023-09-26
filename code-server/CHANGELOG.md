@@ -1,4 +1,6 @@
 # Changelog since v2.1.7
+- ⬆️ Update tailscale/tailscale to v1.50.0 
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.52.0 
 - ⬆️ Update cdr/code-server to v4.17.0 
 - ⬆️ Update mikefarah/yq to v4.35.2 
 - Merge pull request #353 from elcajon/elcajon-patch-1
