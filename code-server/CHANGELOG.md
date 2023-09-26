@@ -1,4 +1,10 @@
 # Changelog since v2.1.7
+- ⬆️ Update mikefarah/yq to v4.35.2 
+- Merge pull request #353 from elcajon/elcajon-patch-1
+
+Remove CAS 
+- Update deploy.yaml 
+- Remove CAS 
 - Merge pull request #348 from elcajon/elcajon-p1
 
 Restore Changes 
