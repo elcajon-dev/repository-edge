@@ -1,4 +1,5 @@
 # Changelog since v2.1.8
+- ⬆️ Update esphome to v2023.9.3 
 - ⬆️ Update tailscale/tailscale to v1.50.1 
 - ⬆️ Update esphome to v2023.9.2 
 - Merge pull request #360 from elcajon/elcajon-p1
