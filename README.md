@@ -81,10 +81,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/099a9fd
-[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/099a9fd/README.md
+[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/821a018
+[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/821a018/README.md
 [code-server-issue]: https://github.com/elcajon/addon-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-099a9fd-blue.svg
+[code-server-version-shield]: https://img.shields.io/badge/version-821a018-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
