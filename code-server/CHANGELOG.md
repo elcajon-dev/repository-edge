@@ -1,4 +1,8 @@
 # Changelog since v2.2.6
+- Merge pull request #396 from elcajon/elcajon-patch-1
+
+Bugfix custom-scripts 
+- Bugfix custom-scripts 
 - Merge pull request #395 from elcajon/elcajon-p2
 
 Use /config for add-on configuration 
