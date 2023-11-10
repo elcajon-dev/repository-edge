@@ -1,5 +1,5 @@
 name: Advanced Code Server
-version: 6bf66a4
+version: 666b629
 slug: code-server
 description: Code Server experience integrated in the Home Assistant frontend.
 url: https://github.com/elcajon/addon-code-server
@@ -18,12 +18,13 @@ hassio_api: true
 hassio_role: manager
 homeassistant_api: true
 map:
-- config:rw
-- ssl:rw
 - addons:rw
+- all_addon_configs:rw
+- backup:rw
+- homeassistant_config:rw
 - media:rw
 - share:rw
-- backup:rw
+- ssl:rw
 services:
 - mysql:want
 - mqtt:want
