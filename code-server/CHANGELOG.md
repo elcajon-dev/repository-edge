@@ -1,4 +1,14 @@
 # Changelog since v3.0.0
+- Merge pull request #401 from elcajon/elcajon-p1
+
+Disable custom-init with debug mode enabled 
+- bugfix 
+- bugfix 
+- inline comments 
+- Merge branch 'main' into elcajon-p1 
+- linter 
+- Prettified Code! 
+- Disable custom-scripts in debug mode 
 - ⬆️ Update microsoft/vscode-docker to v1.28.0 
 - Merge pull request #399 from elcajon/elcajon-p1
 
