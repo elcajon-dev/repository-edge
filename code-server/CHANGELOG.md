@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Update esphome to v2023.11.0 
 - Merge pull request #401 from elcajon/elcajon-p1
 
 Disable custom-init with debug mode enabled 
