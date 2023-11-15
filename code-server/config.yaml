@@ -1,5 +1,5 @@
 name: Advanced Code Server
-version: ad7efe1
+version: e0d4276
 slug: code-server
 description: Code Server experience integrated in the Home Assistant frontend.
 url: https://github.com/elcajon/addon-code-server

@@ -1,4 +1,9 @@
 # Changelog since v3.0.0
+- Merge pull request #403 from elcajon/elcajon-p1
+
+Update default settings.json 
+- Prettified Code! 
+- Update default settings.json 
 - ⬆️ Update esphome to v2023.11.0 
 - Merge pull request #401 from elcajon/elcajon-p1
 
