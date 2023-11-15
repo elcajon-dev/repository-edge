@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Update tailscale/tailscale to v1.54.0 
 - Merge pull request #403 from elcajon/elcajon-p1
 
 Update default settings.json 
