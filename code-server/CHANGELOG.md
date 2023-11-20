@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Update mikefarah/yq to v4.40.2 
 - ⬆️ Update cdr/code-server to v4.19.0 
 - ⬆️ Update esphome to v2023.11.2 
 - ⬆️ Update docker/build-push-action action to v5.1.0 
