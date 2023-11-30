@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆️ Update cdr/code-server to v4.19.1 
 - ⬆️ Update esphome to v2023.11.6 
 - ⬆️ Update rclone/rclone to v1.65.0 
 - ⬆️ Update esphome to v2023.11.4 
