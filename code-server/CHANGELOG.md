@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #419 from elcajon/elcajon-p1
+
+Add Shellcheck 
+- Add Shellcheck 
 - ⬆️ Update tailscale/tailscale to v1.54.1 
 - ⬆️ Update cdr/code-server to v4.19.1 
 - ⬆️ Update esphome to v2023.11.6 
