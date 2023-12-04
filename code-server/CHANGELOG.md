@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.53.0 
 - Merge pull request #419 from elcajon/elcajon-p1
 
 Add Shellcheck 
