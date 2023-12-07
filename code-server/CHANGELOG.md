@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #422 from elcajon/elcajon-p1
+
+Remove Github Actions Extension 
+- Remove Github Actions Extenstion 
 - ⬆️ Update mikefarah/yq to v4.40.4 
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.53.0 
 - Merge pull request #419 from elcajon/elcajon-p1
