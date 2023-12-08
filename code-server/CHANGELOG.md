@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆️ Update caddyserver/caddy to v2.7.6 
 - Merge pull request #422 from elcajon/elcajon-p1
 
 Remove Github Actions Extension 
