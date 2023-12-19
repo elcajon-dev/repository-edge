@@ -1,6 +1,5 @@
-# Changelog since v3.1.0
-- Bugfix custom-services 
-- ⬆️ Update tailscale/tailscale to v1.56.1 
-- ⬆️ Update tailscale/tailscale to v1.56.0 
-- ⬆️ Update mikefarah/yq to v4.40.5 
-- Create SECURITY.md 
+# Changelog since v3.1.1
+- Merge pull request #427 from elcajon/elcajon-patch-1
+
+Bugfix custom init script 
+- Bugfix custom init script 
