@@ -1,4 +1,10 @@
 # Changelog since v3.1.1
+- ⬆️ Update cdr/code-server to v4.20.0 
+- Merge pull request #431 from elcajon/elcajon-patch-1
+
+Add installation overview 
+- Update README.md 
+- Add installation overview 
 - ⬆️ Update esphome to v2023.12.1 
 - ⬆️ Update esphome to v2023.12.0 
 - Merge pull request #428 from elcajon/elcajon-patch-1
