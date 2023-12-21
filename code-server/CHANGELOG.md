@@ -1,4 +1,12 @@
 # Changelog since v3.1.1
+- Merge pull request #434 from elcajon/elcajon-patch-1
+
+Bugfix Readme Shields 
+- Bugfix Readme Shields 
+- Merge pull request #433 from elcajon/elcajon-patch-1
+
+Bugfix Shield 
+- Bugfix Shield 
 - ⬆️ Update cdr/code-server to v4.20.0 
 - Merge pull request #431 from elcajon/elcajon-patch-1
 
