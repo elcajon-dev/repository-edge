@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Update esphome to v2023.12.0 
 - Merge pull request #428 from elcajon/elcajon-patch-1
 
 Bugfix init scripts 
