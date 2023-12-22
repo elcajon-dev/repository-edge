@@ -1,2 +1,6 @@
-# Changelog since v3.1.2
-- ⬆️ Update esphome to v2023.12.2 
+# Changelog since v3.1.3
+- ⬆️ Update esphome to v2023.12.3 
+- Merge pull request #437 from elcajon/elcajon-p1
+
+Update openssh to 1:9.2p1-2+deb12u2 
+- Update openssh to 1:9.2p1-2+deb12u2 
