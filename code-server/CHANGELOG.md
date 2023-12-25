@@ -1,4 +1,5 @@
 # Changelog since v3.1.3
+- ⬆️ Update esphome to v2023.12.4 
 - Merge pull request #439 from elcajon/renovate/add-on-base-image
 
 ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 
