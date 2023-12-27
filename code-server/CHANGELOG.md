@@ -1,4 +1,8 @@
 # Changelog since v3.1.3
+- Merge pull request #443 from elcajon/elcajon-p1
+
+Remove config folder mapping 
+- Remove config folder mapping 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 
 - ⬆️ Update esphome to v2023.12.5 
 - ⬆️ Update esphome to v2023.12.4 
