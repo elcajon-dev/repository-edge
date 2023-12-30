@@ -93,6 +93,6 @@ SOFTWARE.
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/elcajon/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [semver]: http://semver.org/spec/v2.0.0.html
