@@ -1,4 +1,5 @@
 # Changelog since v3.1.4
+- ⬆️ Update rclone/rclone to v1.65.1 
 - Merge pull request #444 from elcajon/renovate/cloudflare-cloudflared-2024.x
 
 ⬆️ Update cloudflare/cloudflared to v2024 
