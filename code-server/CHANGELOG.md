@@ -1,4 +1,5 @@
 # Changelog since v3.1.4
+- ⬆️ Update cloudflare/cloudflared to v2024.1.2 
 - ⬆️ Update cloudflare/cloudflared to v2024.1.1 
 - ⬆️ Update pkief/vscode-material-icon-theme to v4.33.0 
 - ⬆️ Update rclone/rclone to v1.65.1 
