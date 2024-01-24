@@ -1,9 +1,2 @@
-# Changelog since v3.1.5
-- ⬆️ Update esphome to v2023.12.9 
-- ⬆️ Update cdr/code-server to v4.20.1 
-- ⬆️ Update tailscale/tailscale to v1.58.2 
-- ⬆️ Update cloudflare/cloudflared to v2024.1.4 
-- ⬆️ Update esphome to v2023.12.8 
-- ⬆️ Update tailscale/tailscale to v1.58.0 
-- ⬆️ Update cloudflare/cloudflared to v2024.1.3 
-- ⬆️ Update esphome to v2023.12.7 
+# Changelog since v3.1.6
+- ⬆️ Update rclone/rclone to v1.65.2 
