@@ -51,8 +51,8 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-05c7045-blue.svg
-[release]: https://github.com/elcajon/addon-code-server/tree/05c7045
+[release-shield]: https://img.shields.io/badge/version-4c0fb4d-blue.svg
+[release]: https://github.com/elcajon/addon-code-server/tree/4c0fb4d
 [hassio-addons]: https://github.com/hassio-addons/addon-vscode
 [installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22079a70e5_code-server%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
 [installations-shield-stable]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%226258206e_code-server%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
