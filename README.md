@@ -81,10 +81,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/ce60b54
-[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/ce60b54/README.md
+[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/a0f52cc
+[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/a0f52cc/README.md
 [code-server-issue]: https://github.com/elcajon/addon-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-ce60b54-blue.svg
+[code-server-version-shield]: https://img.shields.io/badge/version-a0f52cc-blue.svg
 [code-server-installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22079a70e5_code-server%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
