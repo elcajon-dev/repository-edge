@@ -81,18 +81,18 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/elcajon/addon-code-server/tree/03bf577
-[addon-doc-code-server]: https://github.com/elcajon/addon-code-server/blob/03bf577/README.md
-[code-server-issue]: https://github.com/elcajon/addon-code-server/issues
+[addon-code-server]: https://github.com/elcajon-dev/addon-code-server/tree/03bf577
+[addon-doc-code-server]: https://github.com/elcajon-dev/addon-code-server/blob/03bf577/README.md
+[code-server-issue]: https://github.com/elcajon-dev/addon-code-server/issues
 [code-server-version-shield]: https://img.shields.io/badge/version-03bf577-blue.svg
-[code-server-installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22079a70e5_code-server%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
+[code-server-installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22dca9deef_code-server%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[issue]: https://github.com/elcajon/repository-edge/issues
-[license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
+[issue]: https://github.com/elcajon-dev/repository-edge/issues
+[license-shield]: https://img.shields.io/github/license/elcajon-dev/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [semver]: http://semver.org/spec/v2.0.0.html
