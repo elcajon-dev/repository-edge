@@ -23,7 +23,7 @@ Use the following button to quickly add the repository:
 Or use the following URL to add this repository:
 
 ```txt
-https://github.com/elcajon/repository-edge
+https://github.com/elcajon-dev/repository-edge
 ```
 
 ## Add-ons provided by this repository
