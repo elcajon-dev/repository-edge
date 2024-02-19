@@ -1,7 +1,2 @@
-# Changelog since v3.1.11
-- Merge pull request #477 from elcajon-dev/elcajon-p1
-
-🧰 Update Documentation after Repository change 
-- 🧰 Update Documentation after Repository change 
-- ⬆️ Update frenck/action-yamllint action to v1.5 
-- ⬆️ Update yamllint to v1.35.1 
+# Changelog since v4.0.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v4.34.0 
