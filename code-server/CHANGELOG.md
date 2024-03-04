@@ -1,2 +1,2 @@
-# Changelog since v4.0.3
-- ⬆️ Update tailscale/tailscale to v1.60.1 
+# Changelog since v4.0.4
+- ⬆️ Update cdr/code-server to v4.22.0 
