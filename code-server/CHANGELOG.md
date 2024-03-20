@@ -1,4 +1,8 @@
 # Changelog since v4.0.5
+- Merge pull request #501 from elcajon-dev/renovate/1password-load-secrets-action-2.x
+
+⬆️ Update 1password/load-secrets-action action to v2 
+- ⬆️ Update 1password/load-secrets-action action to v2 
 - ⬆️ Update cloudflare/cloudflared to v2024.3.0 
 - ⬆️ Update esphome to v2024.3.0 
 - ⬆️ Update cdr/code-server to v4.22.1 
