@@ -1,4 +1,5 @@
 # Changelog since v4.0.5
+- ⬆️ Update esphome to v2024.3.0 
 - ⬆️ Update cdr/code-server to v4.22.1 
 - ⬆️ Update docker/setup-buildx-action action to v3.2.0 
 - ⬆️ Update docker/build-push-action action to v5.3.0 
