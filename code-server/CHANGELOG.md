@@ -1,4 +1,5 @@
 # Changelog since v4.0.5
+- ⬆️ Update prettier/prettier-vscode to v10.3.0 
 - Merge pull request #501 from elcajon-dev/renovate/1password-load-secrets-action-2.x
 
 ⬆️ Update 1password/load-secrets-action action to v2 
