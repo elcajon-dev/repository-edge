@@ -1,4 +1,6 @@
-# Changelog since v4.0.8
-- ⬆️ Update tailscale/tailscale to v1.64.0 
-- ⬆️ Update home-assistant/cli to v4.33.0 
-- ⬆️ Update cloudflare/cloudflared to v2024.4.0 
+# Changelog since v4.0.9
+- Merge pull request #514 from elcajon-dev/elcajon-patch-1
+
+Update issue templates 
+- Prettified Code! 
+- Update issue templates 
