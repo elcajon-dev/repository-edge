@@ -1,4 +1,8 @@
 # Changelog since v4.0.9
+- Merge pull request #519 from elcajon-dev/renovate/pkief-vscode-material-icon-theme-5.x
+
+⬆️ Update pkief/vscode-material-icon-theme to v5 
+- ⬆️ Update pkief/vscode-material-icon-theme to v5 
 - ⬆️ Update cloudflare/cloudflared to v2024.4.1 
 - ⬆️ Update esphome to v2024.4.1 
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.55.0 
