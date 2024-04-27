@@ -1,4 +1,9 @@
 # Changelog since v4.0.9
+- Merge pull request #522 from elcajon-dev/elcajon-patch-1
+
+Update settings 
+- add new hash 
+- Update settings 
 - Merge pull request #519 from elcajon-dev/renovate/pkief-vscode-material-icon-theme-5.x
 
 ⬆️ Update pkief/vscode-material-icon-theme to v5 
