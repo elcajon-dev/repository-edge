@@ -1,4 +1,5 @@
 # Changelog since v4.0.10
+- ⬆️ Update tailscale/tailscale to v1.66.0 
 - ⬆️ Update microsoft/vscode-docker to v1.29.1 
 - ⬆️ Update home-assistant/cli to v4.34.0 
 - ⬆️ Update debian_12/less to v590-2.1~deb12u2 
