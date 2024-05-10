@@ -1,4 +1,5 @@
 # Changelog since v4.0.10
+- ⬆️ Update tailscale/tailscale to v1.66.1 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.2.0 
 - ⬆️ Update cdr/code-server to v4.89.0 
 - ⬆️ Update tailscale/tailscale to v1.66.0 
