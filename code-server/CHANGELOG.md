@@ -1,5 +1,5 @@
-# Changelog since v4.0.13
-- ⬆️ Update cloudflare/cloudflared to v2024.6.0 
-- ⬆️ Update docker/login-action action to v3.2.0 
-- ⬆️ Update caddyserver/caddy to v2.8.4 
-- ⬆️ Update esphome to v2024.5.5 
+# Changelog since v4.0.14
+- Merge pull request #546 from elcajon-dev/elcajon-patch-1
+
+Update libarchive-tools to 3.6.2-1+deb12u1 
+- Update libarchive-tools to 3.6.2-1+deb12u1 
