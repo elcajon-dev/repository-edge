@@ -80,7 +80,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Updating add-on Advanced Code Server to 459e932
+
 [addon-code-server]: https://github.com/elcajon-dev/addon-code-server/tree/v4.0.16
 [addon-doc-code-server]: https://github.com/elcajon-dev/addon-code-server/blob/459e932/README.md
 [code-server-issue]: https://github.com/elcajon-dev/addon-code-server/issues
