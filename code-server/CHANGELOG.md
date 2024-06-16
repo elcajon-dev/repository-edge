@@ -1,4 +1,5 @@
 # Changelog since v4.0.16
+- ⬆️ Update mikefarah/yq to v4.44.2 
 - ⬆️ Update rclone/rclone to v1.67.0 
 - ⬆️ Update tailscale/tailscale to v1.68.1 
 - Merge pull request #552 from elcajon-dev/renovate/cdr-code-server-4.x
