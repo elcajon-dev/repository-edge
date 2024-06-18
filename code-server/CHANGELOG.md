@@ -1,4 +1,9 @@
 # Changelog since v4.0.16
+- ⬆️ Update docker/build-push-action action to v6.0.1 
+- Merge pull request #561 from elcajon-dev/elcajon-patch-1
+
+🤖 Add GitHub Copilot Extension 
+- 🤖 Add GitHub Copilot Extension 
 - ⬆️ Update cloudflare/cloudflared to v2024.6.1 
 - Merge pull request #558 from elcajon-dev/renovate/docker-build-push-action-6.x
 
