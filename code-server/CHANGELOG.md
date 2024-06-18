@@ -1,4 +1,5 @@
 # Changelog since v4.0.16
+- ⬆️ Update home-assistant/cli to v4.35.0 
 - ⬆️ Update docker/build-push-action action to v6.0.1 
 - Merge pull request #561 from elcajon-dev/elcajon-patch-1
 
