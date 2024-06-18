@@ -1,5 +1,14 @@
 # Changelog since v4.0.16
+- Merge pull request #563 from elcajon-dev/elcajon-p1
+
+🤖 Add GitHub Copilot Chat Extension 
+- Merge branch 'main' into elcajon-p1 
+- fix path 
+- bugfix 
+- bugfix extensions file 
 - ⬆️ Update home-assistant/cli to v4.35.0 
+- fix Dockerfile 
+- 🤖 Add GitHub Copilot Chat Extension 
 - ⬆️ Update docker/build-push-action action to v6.0.1 
 - Merge pull request #561 from elcajon-dev/elcajon-patch-1
 
