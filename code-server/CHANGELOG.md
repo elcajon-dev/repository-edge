@@ -1,4 +1,5 @@
 # Changelog since v4.0.16
+- ⬆️ Update docker/build-push-action action to v6.0.2 
 - ⬆️ Update esphome to v2024.6.1 
 - ⬆️ Update esphome to v2024.6.0 
 - Merge pull request #563 from elcajon-dev/elcajon-p1
