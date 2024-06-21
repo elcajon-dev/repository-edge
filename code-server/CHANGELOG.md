@@ -1,5 +1,2 @@
-# Changelog since v4.1.0
-- Merge pull request #567 from elcajon-dev/elcajon-p1
-
-🧰 Update Code-Server settings 
-- 🧰 Update Code-Server settings 
+# Changelog since v4.1.1
+- ⬆️ Update docker/build-push-action action to v6.1.0 
