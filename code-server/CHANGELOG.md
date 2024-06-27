@@ -1,4 +1,6 @@
 # Changelog since v4.1.1
+- Update to latest 
+- ⬆️ Update frenck/action-addon-linter action to v2.0 
 - ⬆️ Update esphome to v2024.6.4 
 - ⬆️ Update docker/build-push-action action to v6.2.0 
 - ⬆️ Update esphome to v2024.6.3 
