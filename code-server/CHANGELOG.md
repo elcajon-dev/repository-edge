@@ -1,14 +1,2 @@
-# Changelog since v4.1.1
-- Update dependencies 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.5 
-- ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u3 
-- ⬆️ Update debian_12/openssl to v3.0.13-1~deb12u1 
-- ⬆️ Update debian_12/nano to v7.2-1+deb12u1 
-- Update to latest 
-- ⬆️ Update frenck/action-addon-linter action to v2.0 
-- ⬆️ Update esphome to v2024.6.4 
-- ⬆️ Update docker/build-push-action action to v6.2.0 
-- ⬆️ Update esphome to v2024.6.3 
-- ⬆️ Update esphome to v2024.6.2 
-- ⬆️ Update cdr/code-server to v4.90.3 
-- ⬆️ Update docker/build-push-action action to v6.1.0 
+# Changelog since v4.1.2
+- ⬆️ Update esphome to v2024.6.6 
