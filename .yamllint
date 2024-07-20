@@ -29,10 +29,10 @@ rules:
     level: error
     require-starting-space: true
     min-spaces-from-content: 2
+    ignore:
+      - .github/workflows/
   comments-indentation:
     level: error
-    ignore:
-      - .github/*
   document-end:
     level: error
     present: false
