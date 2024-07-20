@@ -1,4 +1,9 @@
 # Changelog since v4.1.4
+- ⬆️ Update actions/checkout action to v4.1.7 
+- Merge pull request #597 from elcajon-dev/elcajon-patch-1
+
+Update .yamllint 
+- Update .yamllint 
 - Merge pull request #594 from elcajon-dev/elcajon-patch-1
 
 Update Renovate 
