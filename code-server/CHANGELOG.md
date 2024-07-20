@@ -1,5 +1,10 @@
 # Changelog since v4.1.4
+- Merge pull request #595 from elcajon-dev/renovate/pin-dependencies
+
+⬆️ Pin dependencies 
+- Merge branch 'main' into renovate/pin-dependencies 
 - ⬆️ Update actions/checkout action to v4.1.7 
+- ⬆️ Pin dependencies 
 - Merge pull request #597 from elcajon-dev/elcajon-patch-1
 
 Update .yamllint 
