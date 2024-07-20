@@ -32,7 +32,7 @@ rules:
   comments-indentation:
     level: error
     ignore:
-      - .github/*
+      - .github/workflows/
   document-end:
     level: error
     present: false
