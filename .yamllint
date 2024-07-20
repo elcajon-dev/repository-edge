@@ -31,6 +31,8 @@ rules:
     min-spaces-from-content: 2
   comments-indentation:
     level: error
+    ignore:
+      - .github/*
   document-end:
     level: error
     present: false
