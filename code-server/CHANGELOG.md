@@ -1,4 +1,9 @@
 # Changelog since v4.1.4
+- Merge pull request #594 from elcajon-dev/elcajon-patch-1
+
+Update Renovate 
+- Prettified Code! 
+- Update Renovate 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.6.0 
 - ⬆️ Update tailscale/tailscale to v1.70.0 
 - ⬆️ Update esphome to v2024.7.0 
