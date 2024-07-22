@@ -1,4 +1,5 @@
 # Changelog since v4.1.4
+- ⬆️ Update docker/setup-buildx-action action to v3.5.0 
 - ⬆️ Update esphome to v2024.7.1 
 - ⬆️ Update docker/build-push-action action to v6.5.0 
 - Merge pull request #595 from elcajon-dev/renovate/pin-dependencies
