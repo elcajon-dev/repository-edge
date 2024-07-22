@@ -1,5 +1,12 @@
 # Changelog since v4.1.4
+- ⬆️ Update docker/login-action action to v3.3.0 
+- Merge pull request #602 from elcajon-dev/renovate/docker-setup-qemu-action-3.x
+
+⬆️ Update docker/setup-qemu-action action to v3.2.0 
+- Merge branch 'main' into renovate/docker-setup-qemu-action-3.x 
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.7.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.5.0 
+- ⬆️ Update docker/setup-qemu-action action to v3.2.0 
 - ⬆️ Update esphome to v2024.7.1 
 - ⬆️ Update docker/build-push-action action to v6.5.0 
 - Merge pull request #595 from elcajon-dev/renovate/pin-dependencies
