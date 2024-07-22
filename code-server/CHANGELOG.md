@@ -1,4 +1,5 @@
 # Changelog since v4.1.4
+- ⬆️ Update docker/build-push-action action to v6.5.0 
 - Merge pull request #595 from elcajon-dev/renovate/pin-dependencies
 
 ⬆️ Pin dependencies 
