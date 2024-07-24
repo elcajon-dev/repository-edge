@@ -1,4 +1,5 @@
 # Changelog since v4.1.4
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.8.0 
 - ⬆️ Update docker/login-action action to v3.3.0 
 - Merge pull request #602 from elcajon-dev/renovate/docker-setup-qemu-action-3.x
 
