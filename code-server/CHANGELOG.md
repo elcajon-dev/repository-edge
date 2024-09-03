@@ -1,4 +1,5 @@
 # Changelog since v4.1.7
+- ⬆️ Update debian_12/openssl to v3.0.14-1~deb12u2 
 - ⬆️ Update esphome to v2024.8.3 
 - ⬆️ Update esphome to v2024.8.2 
 - ⬆️ Update debian_12/openssl to v3.0.14-1~deb12u1 
