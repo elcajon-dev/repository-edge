@@ -1,4 +1,5 @@
 # Changelog since v4.1.8
+- ⬆️ Update cloudflare/cloudflared to v2024.9.1 
 - ⬆️ Update frenck/action-addon-linter action to v2.16.0 
 - Merge pull request #627 from elcajon-dev/renovate/add-on-base-image
 
