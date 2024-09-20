@@ -1,6 +1,10 @@
-# Changelog since v4.1.9
-- ⬆️ Update esphome to v2024.9.0 
-- ⬆️ Update tailscale/tailscale to v1.74.1 
-- ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u1 
-- ⬆️ Update tailscale/tailscale to v1.74.0 
-- ⬆️ Update DavidAnson/vscode-markdownlint to v0.56.0 
+# Changelog since v4.1.10
+- ⬆️ Update 34j/vscode-black to v1.0.3 
+- ⬆️ Update black to v24.8.0 
+- Merge pull request #635 from elcajon-dev/elcajon-patch-1
+
+Add black formatter to requirements and vscode extension 
+- Update code-server.extensions 
+- Prettified Code! 
+- Update renovate.json 
+- Add black formatter to requirements 
