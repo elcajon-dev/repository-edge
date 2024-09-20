@@ -1,7 +1,14 @@
 # Changelog since v4.1.10
+- Merge pull request #640 from elcajon-dev/elcajon-patch-2
+
+Add Python and debugger code server extension 
+- Prettified Code! 
+- Update renovate.json 
+- Merge branch 'main' into elcajon-patch-2 
 - Merge pull request #639 from elcajon-dev/elcajon-patch-1
 
 Update GitHub Copilot and Copilot Chat 
+- Add Python and debugger code server extension 
 - Update GitHub Copilot and Copilot Chat 
 - Merge pull request #638 from elcajon-dev/elcajon-patch-1
 
