@@ -1,4 +1,8 @@
 # Changelog since v4.1.10
+- Merge pull request #639 from elcajon-dev/elcajon-patch-1
+
+Update GitHub Copilot and Copilot Chat 
+- Update GitHub Copilot and Copilot Chat 
 - Merge pull request #638 from elcajon-dev/elcajon-patch-1
 
 Add Github Pull Request extension 
