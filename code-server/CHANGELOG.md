@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Update docker/build-push-action action to v6.8.0 
 - Merge pull request #641 from elcajon-dev/renovate/microsoft-vscode-python-2024.x
 
 ⬆️ Update microsoft/vscode-python to v2024.14.1 
