@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update docker/setup-buildx-action action to v3.7.1 
 - ⬆️ Update microsoft/vscode-python to v2024.16.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.7.0 
 - ⬆️ Update primer/github-vscode-theme to v6.3.5 
