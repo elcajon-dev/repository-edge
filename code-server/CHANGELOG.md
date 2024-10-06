@@ -1,4 +1,8 @@
 # Changelog since v4.2.2
+- Merge pull request #665 from elcajon-dev/elcajon-p1
+
+Replace black with ruff 
+- Replace black with ruff 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v1.43.0 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v1.42.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.7.1 
