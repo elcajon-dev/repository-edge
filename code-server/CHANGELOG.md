@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update actions/checkout action to v4.2.1 
 - Merge pull request #665 from elcajon-dev/elcajon-p1
 
 Replace black with ruff 
