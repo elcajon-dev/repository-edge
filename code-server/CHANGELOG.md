@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update tailscale/tailscale to v1.76.0 
 - ⬆️ Update cloudflare/cloudflared to v2024.10.0 
 - ⬆️ Update microsoft/vscode-python to v2024.16.1 
 - ⬆️ Update actions/checkout action to v4.2.1 
