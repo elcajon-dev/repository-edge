@@ -1,4 +1,8 @@
 # Changelog since v4.2.2
+- Merge pull request #672 from elcajon-dev/renovate/actions-checkout-4.x
+
+⬆️ Update actions/checkout action to v4.2.1 
+- ⬆️ Update actions/checkout action to v4.2.1 
 - Merge pull request #670 from elcajon-dev/elcajon-p1
 
 Update releases and tags from semver to calver 
