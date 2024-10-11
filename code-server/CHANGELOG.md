@@ -1,4 +1,11 @@
 # Changelog since v4.2.2
+- Merge pull request #670 from elcajon-dev/elcajon-p1
+
+Update releases and tags from semver to calver 
+- Merge branch 'main' into elcajon-p1 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.1 
+- Prettified Code! 
+- Update releases and tags from semver to calver 
 - ⬆️ Update tailscale/tailscale to v1.76.0 
 - ⬆️ Update cloudflare/cloudflared to v2024.10.0 
 - ⬆️ Update microsoft/vscode-python to v2024.16.1 
