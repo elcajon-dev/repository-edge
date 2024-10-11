@@ -1,4 +1,9 @@
 # Changelog since v4.2.2
+- Merge pull request #673 from elcajon-dev/elcajon-p1
+
+Add auto release 
+- Prettified Code! 
+- Add auto release 
 - Merge pull request #672 from elcajon-dev/renovate/actions-checkout-4.x
 
 ⬆️ Update actions/checkout action to v4.2.1 
