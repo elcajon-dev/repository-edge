@@ -1,2 +1,2 @@
-# Changelog since v2024.10.3
-- ⬆️ Update microsoft/vscode-python to v2024.18.0 
+# Changelog since v2024.11.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.13.0 
