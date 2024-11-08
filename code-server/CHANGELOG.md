@@ -1,4 +1,7 @@
 # Changelog since v2024.11.0
+- ⬆️ Update microsoft/vscode-python to v2024.18.1 (#692)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2024.10.3 (#691)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
