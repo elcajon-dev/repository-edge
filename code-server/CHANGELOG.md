@@ -1,4 +1,16 @@
 # Changelog since v2024.11.0
+- ⬆️ Update debian_12/openssl to v3.0.15-1~deb12u1 (#694)
+
+* ⬆️ Update debian_12/iputils-ping to v3:20221126-1+deb12u1
+
+* ⬆️ Update debian_12/openssl to v3.0.15-1~deb12u1
+
+* Update Dockerfile
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update microsoft/vscode-python to v2024.18.1 (#692)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
