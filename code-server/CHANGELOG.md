@@ -1,4 +1,7 @@
 # Changelog since v2024.11.1
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.14.0 (#699)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update microsoft/vscode-python to v2024.20.0 (#698)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
