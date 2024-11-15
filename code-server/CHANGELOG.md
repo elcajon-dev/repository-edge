@@ -1,4 +1,10 @@
 # Changelog since v2024.11.1
+- ⬆️ Update rclone/rclone to v1.68.2 (#701)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.14.1 (#700)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.14.0 (#699)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
