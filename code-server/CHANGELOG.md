@@ -1,4 +1,7 @@
 # Changelog since v2024.11.1
+- ⬆️ Update mikefarah/yq to v4.44.5 (#703)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update rclone/rclone to v1.68.2 (#701)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
