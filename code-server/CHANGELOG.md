@@ -1,4 +1,7 @@
 # Changelog since v2024.11.1
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.57.0 (#704)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update mikefarah/yq to v4.44.5 (#703)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
