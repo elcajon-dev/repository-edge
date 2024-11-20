@@ -1,4 +1,7 @@
 # Changelog since v2024.11.1
+- ⬆️ Update esphome to v2024.11.0 (#707)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2024.11.1 (#706)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
