@@ -1,4 +1,8 @@
 # Changelog since v2024.11.1
+- Merge pull request #702 from elcajon-dev/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 
 - ⬆️ Update esphome to v2024.11.1 (#708)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
