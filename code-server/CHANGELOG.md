@@ -1,4 +1,7 @@
 # Changelog since v2024.11.1
+- ⬆️ Update esphome to v2024.11.3 (#714)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.78.1 (#713)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
