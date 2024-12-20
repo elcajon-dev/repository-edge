@@ -1,4 +1,7 @@
 # Changelog since v2024.12.0
+- ⬆️ Update cdr/code-server to v4.96.2 (#730)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2024.12.2 (#729)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
