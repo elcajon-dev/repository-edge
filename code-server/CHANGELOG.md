@@ -1,4 +1,7 @@
 # Changelog since v2024.12.0
+- ⬆️ Update microsoft/vscode-python to v2024.22.1 (#733)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #732 from elcajon-dev/elcajon-p1
 
 🎉 Happy new year 
