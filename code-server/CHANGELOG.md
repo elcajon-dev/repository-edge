@@ -1,4 +1,8 @@
 # Changelog since v2024.12.1
+- ⬆️ Update docker/setup-qemu-action action to v3.3.0 (#739)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update docker/build-push-action action to v6.11.0 (#738)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
