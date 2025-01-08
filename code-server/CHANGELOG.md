@@ -1,4 +1,7 @@
 # Changelog since v2024.12.1
+- ⬆️ Update caddyserver/caddy to v2.9.1 (#740)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v3.3.0 (#739)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
