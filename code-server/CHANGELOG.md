@@ -1,4 +1,7 @@
 # Changelog since v2024.12.1
+- ⬆️ Update mikefarah/yq to v4.45.1 (#744)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u4 (#743)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
