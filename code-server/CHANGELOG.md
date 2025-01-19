@@ -1,4 +1,7 @@
 # Changelog since v2025.1.1
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.58.2 (#748)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2024.12.4 (#747)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
