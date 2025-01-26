@@ -1,4 +1,7 @@
 # Changelog since v2025.1.1
+- ⬆️ Update docker/build-push-action action to v6.13.0 (#753)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update microsoft/vscode-docker to v1.29.4 (#752)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
