@@ -1,4 +1,7 @@
 # Changelog since v2025.1.1
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.19.0 (#754)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/build-push-action action to v6.13.0 (#753)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
