@@ -1,31 +1,4 @@
-# Changelog since v2025.1.1
-- ⬆️ Update cloudflare/cloudflared to v2025.1.1 (#756)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u2 (#755)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pkief/vscode-material-icon-theme to v5.19.0 (#754)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update docker/build-push-action action to v6.13.0 (#753)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update microsoft/vscode-docker to v1.29.4 (#752)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cdr/code-server to v4.96.4 (#751)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update release-drafter/release-drafter action to v6.1.0 (#749)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update DavidAnson/vscode-markdownlint to v0.58.2 (#748)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2024.12.4 (#747)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update docker/build-push-action action to v6.12.0 (#746)
+# Changelog since v2025.1.2
+- ⬆️ Update tailscale/tailscale to v1.80.0 (#757)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
