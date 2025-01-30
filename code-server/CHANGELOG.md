@@ -1,4 +1,7 @@
 # Changelog since v2025.1.1
+- ⬆️ Update cloudflare/cloudflared to v2025.1.1 (#756)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u2 (#755)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
