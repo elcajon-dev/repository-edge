@@ -1,4 +1,7 @@
 # Changelog since v2025.2.0
+- ⬆️ Update microsoft/vscode-python-debugger to v2025.0.1 (#763)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #762 from elcajon-dev/renovate/microsoft-vscode-python-debugger-2025.x
 
 ⬆️ Update microsoft/vscode-python-debugger to v2025 
