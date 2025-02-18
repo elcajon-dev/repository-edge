@@ -1,4 +1,7 @@
 # Changelog since v2025.2.0
+- ⬆️ Update home-assistant/cli to v4.37.0 (#768)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u5 (#767)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
