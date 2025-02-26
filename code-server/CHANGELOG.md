@@ -1,4 +1,7 @@
 # Changelog since v2025.2.1
+- ⬆️ Update docker/setup-qemu-action action to v3.5.0 (#775)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-buildx-action action to v3.10.0 (#774)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
