@@ -1,4 +1,7 @@
 # Changelog since v2025.3.0
+- ⬆️ Update microsoft/vscode-python-debugger to v2025.4.1 (#784)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.36.0 (#786)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
