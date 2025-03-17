@@ -1,4 +1,9 @@
 # Changelog since v2025.3.1
+- ⬆️ Update yamllint to v1.36.1 (#790)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #791 from elcajon-dev/elcajon-p1 
+- Update wget and maria-db 
 - ⬆️ Update docker/login-action action to v3.4.0 (#788)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
