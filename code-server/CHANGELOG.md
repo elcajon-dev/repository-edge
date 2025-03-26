@@ -1,4 +1,7 @@
 # Changelog since v2025.3.1
+- ⬆️ Update esphome to v2025.3.2 (#796)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.37.0 (#795)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
