@@ -1,4 +1,7 @@
 # Changelog since v2025.3.4
+- ⬆️ Update tailscale/tailscale to v1.82.5 (#813)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.99.3 (#812)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
