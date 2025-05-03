@@ -1,16 +1,14 @@
-# Changelog since v2025.3.6
-- ⬆️ Update mikefarah/yq to v4.45.2 (#822)
+# Changelog since v2025.3.7
+- Merge pull request #824 from elcajon-dev/alert-autofix-15
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cdr/code-server to v4.99.4 (#821)
+Potential fix for code scanning alert no. 15: Workflow does not contain permissions 
+- Merge branch 'main' into alert-autofix-15 
+- Merge pull request #823 from elcajon-dev/alert-autofix-16
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pkief/vscode-material-icon-theme to v5.22.0 (#820)
+Potential fix for code scanning alert no. 16: Workflow does not contain permissions 
+- Potential fix for code scanning alert no. 15: Workflow does not contain permissions
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update rclone/rclone to v1.69.2 (#819)
+Co-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com> 
+- Potential fix for code scanning alert no. 16: Workflow does not contain permissions
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflare/cloudflared to v2025.4.2 (#818)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Co-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com> 
