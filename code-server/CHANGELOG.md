@@ -1,4 +1,7 @@
 # Changelog since v2025.3.6
+- ⬆️ Update mikefarah/yq to v4.45.2 (#822)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.99.4 (#821)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
