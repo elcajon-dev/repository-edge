@@ -1,4 +1,7 @@
 # Changelog since v2025.3.7
+- ⬆️ Update yamllint to v1.37.1 (#827)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #826 from elcajon-dev/alert-autofix-1
 
 Potential fix for code scanning alert no. 1: Workflow does not contain permissions 
