@@ -1,4 +1,7 @@
 # Changelog since v2025.3.7
+- ⬆️ Update microsoft/vscode-python to v2025.6.0 (#828)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.37.1 (#827)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
