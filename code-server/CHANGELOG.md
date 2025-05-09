@@ -1,4 +1,7 @@
 # Changelog since v2025.3.7
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#830)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update microsoft/vscode-python-debugger to v2025.8.0 (#829)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
