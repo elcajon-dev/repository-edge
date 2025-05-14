@@ -1,4 +1,7 @@
 # Changelog since v2025.5.0
+- ⬆️ Update cdr/code-server to v4.100.1 (#835)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.100.0 (#834)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
