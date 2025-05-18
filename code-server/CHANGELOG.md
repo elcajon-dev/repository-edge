@@ -1,4 +1,12 @@
 # Changelog since v2025.5.0
+- ⬆️ Update cloudflare/cloudflared to v2025.5.0 (#838)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #841 from elcajon-dev/elcajon-p1
+
+Update zsh to 5.9-4+b6 
+- Update openssh 
+- Update zsh to 5.9-4+b6 
 - ⬆️ Update cdr/code-server to v4.100.1 (#835)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
