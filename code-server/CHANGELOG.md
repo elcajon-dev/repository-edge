@@ -1,4 +1,8 @@
 # Changelog since v2025.5.0
+- ⬆️ Update cdr/code-server to v4.100.2 (#836)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update cloudflare/cloudflared to v2025.5.0 (#838)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
