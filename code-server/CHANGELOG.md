@@ -1,4 +1,16 @@
 # Changelog since v2025.5.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.23.0 (#840)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
+- ⬆️ Update docker/build-push-action action to v6.17.0 (#839)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
+- ⬆️ Update microsoft/vscode-python to v2025.6.1 (#837)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update cdr/code-server to v4.100.2 (#836)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
