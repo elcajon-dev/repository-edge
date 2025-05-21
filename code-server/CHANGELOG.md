@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update rclone/rclone to v1.69.3 (#845)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.5.0 (#844)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
