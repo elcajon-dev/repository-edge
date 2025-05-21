@@ -1,37 +1,4 @@
-# Changelog since v2025.5.0
-- ⬆️ Update pkief/vscode-material-icon-theme to v5.23.0 (#840)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update docker/build-push-action action to v6.17.0 (#839)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update microsoft/vscode-python to v2025.6.1 (#837)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update cdr/code-server to v4.100.2 (#836)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update cloudflare/cloudflared to v2025.5.0 (#838)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #841 from elcajon-dev/elcajon-p1
-
-Update zsh to 5.9-4+b6 
-- Update openssh 
-- Update zsh to 5.9-4+b6 
-- ⬆️ Update cdr/code-server to v4.100.1 (#835)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cdr/code-server to v4.100.0 (#834)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2025.4.2 (#833)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update mikefarah/yq to v4.45.4 (#832)
+# Changelog since v2025.5.1
+- ⬆️ Update debian_12/net-tools to v2.10-0.1+deb12u1 (#842)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
