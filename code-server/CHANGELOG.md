@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update tailscale/tailscale to v1.84.0 (#846)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update rclone/rclone to v1.69.3 (#845)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
