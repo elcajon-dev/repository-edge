@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.60.0 (#849)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update appdaemon to v4.5.1 (#848)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
