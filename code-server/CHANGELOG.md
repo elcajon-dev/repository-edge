@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update appdaemon to v4.5.4 (#857)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/net-tools to v2.10-0.1+deb12u2 (#856)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
