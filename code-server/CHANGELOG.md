@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update appdaemon to v4.5.5 (#858)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update appdaemon to v4.5.4 (#857)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
