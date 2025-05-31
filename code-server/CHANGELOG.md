@@ -1,4 +1,6 @@
 # Changelog since v2025.5.1
+- Merge pull request #853 from elcajon-dev/renovate/keesschollaart81-vscode-home-assistant-2.x 
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v2 
 - ⬆️ Update appdaemon to v4.5.5 (#858)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
