@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- Merge pull request #855 from elcajon-dev/renovate/microsoft-vscode-docker-2.x
+
+⬆️ Update microsoft/vscode-docker to v2 
+- ⬆️ Update microsoft/vscode-docker to v2 
 - Merge pull request #853 from elcajon-dev/renovate/keesschollaart81-vscode-home-assistant-2.x 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v2 
 - ⬆️ Update appdaemon to v4.5.5 (#858)
