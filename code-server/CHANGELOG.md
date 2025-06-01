@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update appdaemon to v4.5.7 (#859)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #855 from elcajon-dev/renovate/microsoft-vscode-docker-2.x
 
 ⬆️ Update microsoft/vscode-docker to v2 
