@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update microsoft/vscode-python to v2025.8.0 (#869)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2025.6.0 (#867)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
