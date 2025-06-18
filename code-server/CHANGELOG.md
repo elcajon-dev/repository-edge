@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update esphome to v2025.6.0 (#872)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-buildx-action action to v3.11.1 (#871)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
