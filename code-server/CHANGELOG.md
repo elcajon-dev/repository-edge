@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update rclone/rclone to v1.70.1 (#874)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update rclone/rclone to v1.70.0 (#873)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
