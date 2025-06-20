@@ -1,4 +1,11 @@
 # Changelog since v2025.5.1
+- ⬆️ Update home-assistant/cli to v4.39.0 (#876)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #875 from elcajon-dev/elcajon-p1
+
+Remove netcorext.uuid-generator 
+- Remove netcorext.uuid-generator 
 - ⬆️ Update rclone/rclone to v1.70.1 (#874)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
