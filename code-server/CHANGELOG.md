@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update esphome to v2025.6.1 (#881)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update appdaemon to v4.5.11 (#879)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
