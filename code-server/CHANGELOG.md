@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- ⬆️ Update appdaemon to v4.5.11 (#879)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.24.0 (#880)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
