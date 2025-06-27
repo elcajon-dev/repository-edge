@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update rclone/rclone to v1.70.2 (#883)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.101.2 (#882)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
