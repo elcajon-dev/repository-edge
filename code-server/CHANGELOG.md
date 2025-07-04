@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- Merge pull request #887 from elcajon-dev/elcajon-p1
+
+Update Code-Server Extensions 
+- Update Code-Server Extensions 
 - ⬆️ Update cloudflare/cloudflared to v2025.7.0 (#886)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
