@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v2.1.0 (#889)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #888 from elcajon-dev/elcajon-p1
 
 Cleanup and updates 
