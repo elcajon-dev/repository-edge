@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- Merge pull request #888 from elcajon-dev/elcajon-p1
+
+Cleanup and updates 
+- Cleanup and updates 
 - Merge pull request #887 from elcajon-dev/elcajon-p1
 
 Update Code-Server Extensions 
