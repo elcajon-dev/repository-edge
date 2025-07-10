@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update mikefarah/yq to v4.46.1 (#890)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v2.1.0 (#889)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
