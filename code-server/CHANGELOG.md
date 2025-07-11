@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- Merge pull request #891 from elcajon-dev/elcajon-p1
+
+Bugfix Add-on config mapping 
+- Bugfix Add-on config mapping 
 - ⬆️ Update mikefarah/yq to v4.46.1 (#890)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
