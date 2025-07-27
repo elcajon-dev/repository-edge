@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update cdr/code-server to v4.102.2 (#892)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #891 from elcajon-dev/elcajon-p1
 
 Bugfix Add-on config mapping 
