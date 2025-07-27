@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- ⬆️ Update tailscale/tailscale to v1.86.0 (#895)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update esphome to v2025.7.3 (#893)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
