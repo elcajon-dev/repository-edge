@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u7 (#899)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.102.3 (#898)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
