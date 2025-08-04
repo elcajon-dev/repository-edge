@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.25.0 (#902)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/login-action action to v3.5.0 (#901)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
