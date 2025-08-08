@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update home-assistant/cli to v4.40.0 (#904)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.7.5 (#903)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
