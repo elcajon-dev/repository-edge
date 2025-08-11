@@ -1,4 +1,8 @@
 # Changelog since v2025.5.1
+- Merge pull request #907 from elcajon-dev/renovate/actions-checkout-5.x
+
+⬆️ Update actions/checkout action to v5 
+- ⬆️ Update actions/checkout action to v5 
 - ⬆️ Update actions/checkout action to v4.3.0 (#906)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
