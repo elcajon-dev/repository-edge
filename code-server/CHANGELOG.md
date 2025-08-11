@@ -1,4 +1,7 @@
 # Changelog since v2025.5.1
+- ⬆️ Update actions/checkout action to v4.3.0 (#906)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/openssl to v3.0.17-1~deb12u2 (#905)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
