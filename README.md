@@ -105,10 +105,10 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-newt]: https://github.com/elcajon-dev/addon-newt/tree/077678f
-[addon-doc-newt]: https://github.com/elcajon-dev/addon-newt/blob/077678f/README.md
+[addon-newt]: https://github.com/elcajon-dev/addon-newt/tree/eda5391
+[addon-doc-newt]: https://github.com/elcajon-dev/addon-newt/blob/eda5391/README.md
 [newt-issue]: https://github.com/elcajon-dev/addon-newt/issues
-[newt-version-shield]: https://img.shields.io/badge/version-077678f-blue.svg
+[newt-version-shield]: https://img.shields.io/badge/version-eda5391-blue.svg
 [newt-installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22dca9deef_newt%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
 [newt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [newt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

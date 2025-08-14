@@ -1,3 +1,3 @@
-- Merge pull request #3 from elcajon-dev/elcajon-p1
+- Merge pull request #1 from elcajon-dev/renovate/creyd-prettier_action-4.x
 
-Fix Lint errors
+⬆️ Update creyD/prettier_action action to v4.6
