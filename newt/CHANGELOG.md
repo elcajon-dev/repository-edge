@@ -1,3 +1,6 @@
-- Merge pull request #1 from elcajon-dev/renovate/creyd-prettier_action-4.x
+# Changelog since v2025.8.0
+- Merge pull request #4 from elcajon-dev/renovate/1password-load-secrets-action-3.x
 
-⬆️ Update creyD/prettier_action action to v4.6
+⬆️ Update 1password/load-secrets-action action to v3 
+- Update 
+- ⬆️ Update 1password/load-secrets-action action to v3 
