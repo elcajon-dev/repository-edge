@@ -1,4 +1,7 @@
 # Changelog since v2025.8.0
+- ⬆️ Update cdr/code-server to v4.103.1 (#913)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #912 from elcajon-dev/elcajon-p1
 
 Update CI 
