@@ -1,4 +1,7 @@
 # Changelog since v2025.8.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.26.0 (#914)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.103.1 (#913)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
