@@ -1,4 +1,8 @@
 # Changelog since v2025.8.0
+- Merge pull request #7 from elcajon-dev/renovate/newt-1.x
+
+⬆️ Update newt to v1.4.2 
+- ⬆️ Update newt to v1.4.2 
 - Merge pull request #5 from elcajon-dev/update-texts-grammar-2025
 
 Update all texts and comments for grammar and spelling 
