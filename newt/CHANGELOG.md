@@ -1,4 +1,9 @@
 # Changelog since v2025.8.0
+- Merge pull request #6 from elcajon-dev/renovate/esphome-2025.x
+
+⬆️ Remove not needed requirements 
+- remove requirements.txt 
+- ⬆️ Update esphome to v2025.8.0 
 - Merge pull request #7 from elcajon-dev/renovate/newt-1.x
 
 ⬆️ Update newt to v1.4.2 
