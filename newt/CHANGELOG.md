@@ -1,5 +1,4 @@
-# Changelog since v2025.8.1
-- Merge pull request #8 from elcajon-dev/renovate/newt-1.x
+# Changelog since v2025.9.0
+- ⬆️ Update newt to v1.4.4 (#9)
 
-⬆️ Update newt to v1.4.3 
-- ⬆️ Update newt to v1.4.3 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
