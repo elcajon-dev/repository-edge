@@ -1,4 +1,7 @@
 # Changelog since v2025.8.3
+- ⬆️ Update esphome to v2025.8.3 (#921)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #919 from elcajon-dev/renovate/major-add-on-base-image
 
 ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 
