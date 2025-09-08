@@ -1,4 +1,7 @@
 # Changelog since v2025.9.0
+- ⬆️ Update home-assistant/cli to v4.41.0 (#924)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_13/git to v1:2.47.3-0+deb13u1 (#922)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
