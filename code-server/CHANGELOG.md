@@ -1,4 +1,7 @@
 # Changelog since v2025.9.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.27.0 (#925)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update home-assistant/cli to v4.41.0 (#924)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
