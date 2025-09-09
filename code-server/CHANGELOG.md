@@ -1,4 +1,7 @@
 # Changelog since v2025.9.0
+- ⬆️ Update mikefarah/yq to v4.47.2 (#926)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.27.0 (#925)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
