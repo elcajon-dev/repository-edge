@@ -1,4 +1,7 @@
 # Changelog since v2025.9.0
+- ⬆️ Update esphome to v2025.8.4 (#927)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update mikefarah/yq to v4.47.2 (#926)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
