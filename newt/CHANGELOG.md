@@ -1,7 +1,4 @@
-# Changelog since v2025.9.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#10)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update newt to v1.4.4 (#9)
+# Changelog since v2025.9.1
+- ⬆️ Update newt to v1.5.0 (#11)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
