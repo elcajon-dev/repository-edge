@@ -1,4 +1,7 @@
 # Changelog since v2025.9.3
+- ⬆️ Update docker/login-action action to v3.6.0 (#939)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.104.2 (#938)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
