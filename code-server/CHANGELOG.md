@@ -1,4 +1,7 @@
 # Changelog since v2025.9.3
+- ⬆️ Update esphome to v2025.9.2 (#940)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/login-action action to v3.6.0 (#939)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
