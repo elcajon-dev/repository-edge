@@ -1,4 +1,6 @@
 # Changelog since v2025.9.2
+- Merge pull request #15 from elcajon-dev/renovate/docker-login-action-3.x 
+- ⬆️ Update docker/login-action action to v3.6.0 
 - ⬆️ Update newt to v1.5.1 (#14)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
