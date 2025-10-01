@@ -1,4 +1,7 @@
 # Changelog since v2025.9.3
+- ⬆️ Update debian_13/openssl to v3.5.1-1+deb13u1 (#941)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.9.2 (#940)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
