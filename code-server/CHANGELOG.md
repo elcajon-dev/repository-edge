@@ -1,4 +1,6 @@
 # Changelog since v2025.9.3
+- Merge pull request #943 from elcajon-dev/renovate/peter-evans-repository-dispatch-4.x 
+- ⬆️ Update peter-evans/repository-dispatch action to v4 
 - ⬆️ Update esphome to v2025.9.3 (#942)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
