@@ -1,7 +1,3 @@
-# Changelog since v2025.10.0
-- Merge pull request #20 from elcajon-dev/renovate/add-on-base-image
-
-⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 
-- Merge pull request #19 from elcajon-dev/renovate/add-on-base-image 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 
+# Changelog since v2025.10.1
+- Merge pull request #21 from elcajon-dev/renovate/newt-1.x 
+- ⬆️ Update newt to v1.6.0 
