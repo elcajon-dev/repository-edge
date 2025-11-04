@@ -1,7 +1,4 @@
-# Changelog since v2025.10.4
-- ⬆️ Update tailscale/tailscale to v1.90.6 (#959)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update home-assistant/cli to v4.42.0 (#958)
+# Changelog since v2025.10.5
+- ⬆️ Update esphome to v2025.10.4 (#960)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
