@@ -1,4 +1,5 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v2025.10.2
+- Merge pull request #22 from elcajon-dev/renovate/docker-setup-qemu-action-3.x
 
-- ⬆️ Update newt to v1.6.0 @[renovate[bot]](https://github.com/apps/renovate) (#21)
+⬆️ Update docker/setup-qemu-action action to v3.7.0 
+- ⬆️ Update docker/setup-qemu-action action to v3.7.0 
