@@ -1,4 +1,7 @@
 # Changelog since v2025.10.5
+- ⬆️ Update frenck/action-addon-linter action to v2.21.0 (#963)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update frenck/action-addon-linter action to v2.20.0 (#962)
 
 * ⬆️ Update frenck/action-addon-linter action to v2.20.0
