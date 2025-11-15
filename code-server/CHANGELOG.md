@@ -1,4 +1,7 @@
 # Changelog since v2025.11.0
+- ⬆️ Update debian_13/openssl to v3.5.4-1~deb13u1 (#967)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update mikefarah/yq to v4.48.2 (#966)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
