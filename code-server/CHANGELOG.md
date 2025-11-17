@@ -1,4 +1,7 @@
 # Changelog since v2025.11.0
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v2.2.0 (#968)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_13/openssl to v3.5.4-1~deb13u1 (#967)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
