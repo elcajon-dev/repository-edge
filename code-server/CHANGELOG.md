@@ -1,4 +1,7 @@
 # Changelog since v2025.11.0
+- ⬆️ Update tailscale/tailscale to v1.90.8 (#971)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update actions/checkout action to v5.0.1 (#970)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
