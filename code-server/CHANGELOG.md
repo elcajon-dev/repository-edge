@@ -1,4 +1,7 @@
 # Changelog since v2025.11.0
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.29.0 (#975)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.11.0 (#974)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
