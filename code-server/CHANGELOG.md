@@ -1,4 +1,6 @@
 # Changelog since v2025.11.0
+- Merge pull request #976 from elcajon-dev/renovate/actions-checkout-6.x 
+- ⬆️ Update actions/checkout action to v6 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.29.0 (#975)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
