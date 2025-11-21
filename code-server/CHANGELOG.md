@@ -1,4 +1,6 @@
 # Changelog since v2025.11.0
+- Merge pull request #977 from elcajon-dev/renovate/add-on-base-image 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.1.0 
 - Merge pull request #976 from elcajon-dev/renovate/actions-checkout-6.x 
 - ⬆️ Update actions/checkout action to v6 
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.29.0 (#975)
