@@ -1,4 +1,7 @@
 # Changelog since v2025.11.0
+- ⬆️ Update mikefarah/yq to v4.49.1 (#978)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #977 from elcajon-dev/renovate/add-on-base-image 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.1.0 
 - Merge pull request #976 from elcajon-dev/renovate/actions-checkout-6.x 
